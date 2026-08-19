@@ -28,6 +28,26 @@
           "top4Rate": {"type": "number", "minimum": 0, "maximum": 100},
           "pickRate": {"type": "number", "minimum": 0, "maximum": 100},
           "levelPlan": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 1, "maximum": 10}},
+          "phaseBoards": {
+            "type": "array",
+            "minItems": 3,
+            "items": {
+              "type": "object",
+              "required": ["key", "label", "stage", "units"]
+            }
+          },
+          "substitutions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["out", "in"],
+              "properties": {
+                "out": {"type": "array", "items": {"type": "string"}},
+                "in": {"type": "array", "items": {"type": "string"}},
+                "note": {"type": "string"}
+              }
+            }
+          },
           "units": {
             "type": "array",
             "items": {
@@ -39,6 +59,9 @@
                 "row": {"type": "integer", "minimum": 0, "maximum": 3},
                 "column": {"type": "integer", "minimum": 0, "maximum": 6},
                 "star": {"type": "integer", "minimum": 1, "maximum": 4},
+                "cost": {"type": "integer", "minimum": 1, "maximum": 9},
+                "role": {"type": "string"},
+                "recommendedItems": {"type": "array", "items": {"type": "string"}},
                 "items": {"type": "array", "maxItems": 3, "items": {"type": "string"}}
               }
             }
@@ -55,6 +78,10 @@
           "id": {"type": "string"},
           "name": {"type": "string"},
           "tier": {"enum": ["S", "A", "B", "C"]},
+          "description": {"type": "string"},
+          "category": {"type": "string"},
+          "rarity": {"type": "string"},
+          "compatibleDecks": {"type": "array", "items": {"type": "string"}},
           "sourceLabel": {"type": "string"}
         }
       }
