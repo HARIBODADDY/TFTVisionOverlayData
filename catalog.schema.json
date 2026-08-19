@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TFT Vision Overlay Catalog",
+  "type": "object",
+  "required": ["schemaVersion", "patch", "updatedAt", "decks", "augments"],
+  "properties": {
+    "schemaVersion": {"const": 2},
+    "patch": {"type": "string"},
+    "updatedAt": {"type": "string"},
+    "decks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "teamCode", "units", "levelPlan"],
+        "properties": {
+          "id": {"type": "string"},
+          "title": {"type": "string"},
+          "tier": {"type": "string"},
+          "patch": {"type": "string"},
+          "teamCode": {"type": "string"},
+          "sourceLabel": {"type": "string"},
+          "averagePlace": {"type": "number", "minimum": 1, "maximum": 8},
+          "top4Rate": {"type": "number", "minimum": 0, "maximum": 100},
+          "pickRate": {"type": "number", "minimum": 0, "maximum": 100},
+          "levelPlan": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 1, "maximum": 10}},
+          "units": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["championId", "name", "row", "column", "items"],
+              "properties": {
+                "championId": {"type": "string"},
+                "name": {"type": "string"},
+                "row": {"type": "integer", "minimum": 0, "maximum": 3},
+                "column": {"type": "integer", "minimum": 0, "maximum": 6},
+                "items": {"type": "array", "maxItems": 3, "items": {"type": "string"}}
+              }
+            }
+          }
+        }
+      }
+    },
+    "augments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "tier", "pickRate", "sourceLabel"],
+        "properties": {
+          "id": {"type": "string"},
+          "name": {"type": "string"},
+          "tier": {"enum": ["S", "A", "B", "C"]},
+          "pickRate": {"type": ["number", "null"], "minimum": 0, "maximum": 100},
+          "sourceLabel": {"type": "string"}
+        }
+      }
+    }
+  }
+}
