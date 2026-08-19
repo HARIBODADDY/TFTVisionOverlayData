@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "patch": "17.9 · 세트 17",
-  "updatedAt": "2026-08-19T09:10:23.631Z",
+  "updatedAt": "2026-08-19T22:03:10.191Z",
   "decks": [
     {
       "id": "8395032d80f23319d36e8c5f119f0366",
@@ -15,8 +15,8 @@
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/728c5b3d8fd0671efd880f37b90420329ec6754c?type=guide",
       "sourceMatch": 1,
-      "averagePlace": 3.98,
-      "top4Rate": 59.94,
+      "averagePlace": 3.99,
+      "top4Rate": 59.68,
       "pickRate": 0.82,
       "levelPlan": {
         "2-3": 4,
@@ -42,8 +42,8 @@
             "가고일 돌갑옷",
             "크라운가드",
             "워모그의 갑옷",
-            "수호자의 맹세",
-            "정령의 형상"
+            "정령의 형상",
+            "수호자의 맹세"
           ]
         },
         {
@@ -98,7 +98,7 @@
             "워모그의 갑옷",
             "정령의 형상",
             "용의 발톱",
-            "태양불꽃 망토"
+            "수호자의 맹세"
           ]
         },
         {
@@ -201,8 +201,8 @@
                 "가고일 돌갑옷",
                 "크라운가드",
                 "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -284,8 +284,8 @@
                 "가고일 돌갑옷",
                 "크라운가드",
                 "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -409,8 +409,8 @@
                 "가고일 돌갑옷",
                 "크라운가드",
                 "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -465,7 +465,7 @@
                 "워모그의 갑옷",
                 "정령의 형상",
                 "용의 발톱",
-                "태양불꽃 망토"
+                "수호자의 맹세"
               ]
             },
             {
@@ -570,9 +570,9 @@
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/cada5ea80f01e7f13f023f80ec748cdf5275635f?type=guide",
       "sourceMatch": 1,
-      "averagePlace": 4.14,
-      "top4Rate": 56.42,
-      "pickRate": 0.37,
+      "averagePlace": 4.16,
+      "top4Rate": 56.12,
+      "pickRate": 0.38,
       "levelPlan": {
         "2-1": 4,
         "2-5": 5,
@@ -727,7 +727,7 @@
             "라바돈의 죽음모자",
             "공허의 지팡이",
             "대천사의 지팡이",
-            "모렐로노미콘"
+            "드론 업링크"
           ]
         }
       ],
@@ -814,7 +814,7 @@
                 "라바돈의 죽음모자",
                 "공허의 지팡이",
                 "대천사의 지팡이",
-                "모렐로노미콘"
+                "드론 업링크"
               ]
             }
           ]
@@ -937,7 +937,7 @@
                 "라바돈의 죽음모자",
                 "공허의 지팡이",
                 "대천사의 지팡이",
-                "모렐로노미콘"
+                "드론 업링크"
               ]
             }
           ]
@@ -1094,7 +1094,7 @@
                 "라바돈의 죽음모자",
                 "공허의 지팡이",
                 "대천사의 지팡이",
-                "모렐로노미콘"
+                "드론 업링크"
               ]
             }
           ]
@@ -1134,8 +1134,8 @@
       "sourceUrl": "https://lolchess.gg/builder/guide/5095bb31f1666b9bc45b1e2258417375f468a977?type=guide",
       "sourceMatch": 1,
       "averagePlace": 4.17,
-      "top4Rate": 56.98,
-      "pickRate": 0.24,
+      "top4Rate": 57.22,
+      "pickRate": 0.23,
       "levelPlan": {
         "2-1": 4,
         "2-5": 5,
@@ -1275,7 +1275,7 @@
             "라바돈의 죽음모자",
             "공허의 지팡이",
             "대천사의 지팡이",
-            "모렐로노미콘"
+            "드론 업링크"
           ]
         },
         {
@@ -1383,7 +1383,7 @@
                 "라바돈의 죽음모자",
                 "공허의 지팡이",
                 "대천사의 지팡이",
-                "모렐로노미콘"
+                "드론 업링크"
               ]
             }
           ]
@@ -1508,7 +1508,7 @@
                 "라바돈의 죽음모자",
                 "공허의 지팡이",
                 "대천사의 지팡이",
-                "모렐로노미콘"
+                "드론 업링크"
               ]
             }
           ]
@@ -1650,7 +1650,7 @@
                 "라바돈의 죽음모자",
                 "공허의 지팡이",
                 "대천사의 지팡이",
-                "모렐로노미콘"
+                "드론 업링크"
               ]
             },
             {
@@ -1704,502 +1704,6 @@
       ]
     },
     {
-      "id": "c7aabea91faca7e5b90cea59b7ed6dcb",
-      "title": "메카 아우렐리온 솔",
-      "tier": "A",
-      "patch": "17.9",
-      "teamCode": "0202702104e000026022000000000000TFTSet17",
-      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
-      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
-      "teamBuilderKey": "5b44b33e3b3d138d244ec72b82a6a095ecc4479a",
-      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
-      "sourceUrl": "https://lolchess.gg/builder/guide/5b44b33e3b3d138d244ec72b82a6a095ecc4479a?type=guide",
-      "sourceMatch": 0.714,
-      "averagePlace": 4.29,
-      "top4Rate": 54.83,
-      "pickRate": 0.54,
-      "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
-        "3-2": 6,
-        "3-5": 7,
-        "4-2": 8,
-        "5-1": 9
-      },
-      "units": [
-        {
-          "championId": "TFT17_Galio",
-          "name": "거대 메크 로봇",
-          "row": 0,
-          "column": 3,
-          "star": 2,
-          "cost": 4,
-          "role": "ADTank",
-          "items": [
-            "가고일 돌갑옷",
-            "가고일 돌갑옷",
-            "사자의 비가"
-          ],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "정령의 형상",
-            "스테락의 도전",
-            "태양불꽃 망토"
-          ]
-        },
-        {
-          "championId": "TFT17_Rhaast",
-          "name": "라아스트",
-          "row": 2,
-          "column": 1,
-          "star": 2,
-          "cost": 3,
-          "role": "ADTank",
-          "items": [],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "정령의 형상",
-            "별돌보미 상징",
-            "수호자의 맹세"
-          ]
-        },
-        {
-          "championId": "TFT17_Mordekaiser",
-          "name": "모데카이저",
-          "row": 2,
-          "column": 2,
-          "star": 2,
-          "cost": 2,
-          "role": "APTank",
-          "items": [],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "정령의 형상",
-            "태양불꽃 망토",
-            "용의 발톱"
-          ]
-        },
-        {
-          "championId": "TFT17_Morgana",
-          "name": "모르가나",
-          "row": 2,
-          "column": 3,
-          "star": 2,
-          "cost": 4,
-          "role": "APTank",
-          "items": [
-            "수호자의 맹세",
-            "워모그의 갑옷",
-            "덤불 조끼"
-          ],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "정령의 형상",
-            "수호자의 맹세",
-            "용의 발톱"
-          ]
-        },
-        {
-          "championId": "TFT17_AurelionSol",
-          "name": "아우렐리온 솔",
-          "row": 3,
-          "column": 0,
-          "star": 2,
-          "cost": 4,
-          "role": "APCaster",
-          "items": [
-            "보석 건틀릿",
-            "라바돈의 죽음모자",
-            "절멸자"
-          ],
-          "recommendedItems": [
-            "보석 건틀릿",
-            "라바돈의 죽음모자",
-            "공허의 지팡이",
-            "거인 학살자",
-            "타격대의 철퇴"
-          ]
-        },
-        {
-          "championId": "TFT17_Karma",
-          "name": "카르마",
-          "row": 3,
-          "column": 1,
-          "star": 2,
-          "cost": 4,
-          "role": "APCaster",
-          "items": [
-            "모렐로노미콘",
-            "공허의 지팡이",
-            "쇼진의 창"
-          ],
-          "recommendedItems": [
-            "공허의 지팡이",
-            "보석 건틀릿",
-            "쇼진의 창",
-            "모렐로노미콘",
-            "라바돈의 죽음모자"
-          ]
-        }
-      ],
-      "phaseBoards": [
-        {
-          "key": "early",
-          "label": "초반",
-          "stage": "2스테이지 · 핵심 4기",
-          "units": [
-            {
-              "championId": "TFT17_Galio",
-              "name": "거대 메크 로봇",
-              "row": 0,
-              "column": 3,
-              "star": 2,
-              "cost": 4,
-              "role": "ADTank",
-              "items": [
-                "가고일 돌갑옷",
-                "가고일 돌갑옷",
-                "사자의 비가"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "스테락의 도전",
-                "태양불꽃 망토"
-              ]
-            },
-            {
-              "championId": "TFT17_Morgana",
-              "name": "모르가나",
-              "row": 2,
-              "column": 3,
-              "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "수호자의 맹세",
-                "워모그의 갑옷",
-                "덤불 조끼"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "수호자의 맹세",
-                "용의 발톱"
-              ]
-            },
-            {
-              "championId": "TFT17_AurelionSol",
-              "name": "아우렐리온 솔",
-              "row": 3,
-              "column": 0,
-              "star": 2,
-              "cost": 4,
-              "role": "APCaster",
-              "items": [
-                "보석 건틀릿",
-                "라바돈의 죽음모자",
-                "절멸자"
-              ],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "라바돈의 죽음모자",
-                "공허의 지팡이",
-                "거인 학살자",
-                "타격대의 철퇴"
-              ]
-            },
-            {
-              "championId": "TFT17_Karma",
-              "name": "카르마",
-              "row": 3,
-              "column": 1,
-              "star": 2,
-              "cost": 4,
-              "role": "APCaster",
-              "items": [
-                "모렐로노미콘",
-                "공허의 지팡이",
-                "쇼진의 창"
-              ],
-              "recommendedItems": [
-                "공허의 지팡이",
-                "보석 건틀릿",
-                "쇼진의 창",
-                "모렐로노미콘",
-                "라바돈의 죽음모자"
-              ]
-            }
-          ]
-        },
-        {
-          "key": "mid",
-          "label": "중반",
-          "stage": "3스테이지 · 핵심 6기",
-          "units": [
-            {
-              "championId": "TFT17_Galio",
-              "name": "거대 메크 로봇",
-              "row": 0,
-              "column": 3,
-              "star": 2,
-              "cost": 4,
-              "role": "ADTank",
-              "items": [
-                "가고일 돌갑옷",
-                "가고일 돌갑옷",
-                "사자의 비가"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "스테락의 도전",
-                "태양불꽃 망토"
-              ]
-            },
-            {
-              "championId": "TFT17_Rhaast",
-              "name": "라아스트",
-              "row": 2,
-              "column": 1,
-              "star": 2,
-              "cost": 3,
-              "role": "ADTank",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "별돌보미 상징",
-                "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Mordekaiser",
-              "name": "모데카이저",
-              "row": 2,
-              "column": 2,
-              "star": 2,
-              "cost": 2,
-              "role": "APTank",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "용의 발톱"
-              ]
-            },
-            {
-              "championId": "TFT17_Morgana",
-              "name": "모르가나",
-              "row": 2,
-              "column": 3,
-              "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "수호자의 맹세",
-                "워모그의 갑옷",
-                "덤불 조끼"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "수호자의 맹세",
-                "용의 발톱"
-              ]
-            },
-            {
-              "championId": "TFT17_AurelionSol",
-              "name": "아우렐리온 솔",
-              "row": 3,
-              "column": 0,
-              "star": 2,
-              "cost": 4,
-              "role": "APCaster",
-              "items": [
-                "보석 건틀릿",
-                "라바돈의 죽음모자",
-                "절멸자"
-              ],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "라바돈의 죽음모자",
-                "공허의 지팡이",
-                "거인 학살자",
-                "타격대의 철퇴"
-              ]
-            },
-            {
-              "championId": "TFT17_Karma",
-              "name": "카르마",
-              "row": 3,
-              "column": 1,
-              "star": 2,
-              "cost": 4,
-              "role": "APCaster",
-              "items": [
-                "모렐로노미콘",
-                "공허의 지팡이",
-                "쇼진의 창"
-              ],
-              "recommendedItems": [
-                "공허의 지팡이",
-                "보석 건틀릿",
-                "쇼진의 창",
-                "모렐로노미콘",
-                "라바돈의 죽음모자"
-              ]
-            }
-          ]
-        },
-        {
-          "key": "final",
-          "label": "최종",
-          "stage": "4스테이지 이후 · 완성 배치",
-          "units": [
-            {
-              "championId": "TFT17_Galio",
-              "name": "거대 메크 로봇",
-              "row": 0,
-              "column": 3,
-              "star": 2,
-              "cost": 4,
-              "role": "ADTank",
-              "items": [
-                "가고일 돌갑옷",
-                "가고일 돌갑옷",
-                "사자의 비가"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "스테락의 도전",
-                "태양불꽃 망토"
-              ]
-            },
-            {
-              "championId": "TFT17_Rhaast",
-              "name": "라아스트",
-              "row": 2,
-              "column": 1,
-              "star": 2,
-              "cost": 3,
-              "role": "ADTank",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "별돌보미 상징",
-                "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Mordekaiser",
-              "name": "모데카이저",
-              "row": 2,
-              "column": 2,
-              "star": 2,
-              "cost": 2,
-              "role": "APTank",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "용의 발톱"
-              ]
-            },
-            {
-              "championId": "TFT17_Morgana",
-              "name": "모르가나",
-              "row": 2,
-              "column": 3,
-              "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "수호자의 맹세",
-                "워모그의 갑옷",
-                "덤불 조끼"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "수호자의 맹세",
-                "용의 발톱"
-              ]
-            },
-            {
-              "championId": "TFT17_AurelionSol",
-              "name": "아우렐리온 솔",
-              "row": 3,
-              "column": 0,
-              "star": 2,
-              "cost": 4,
-              "role": "APCaster",
-              "items": [
-                "보석 건틀릿",
-                "라바돈의 죽음모자",
-                "절멸자"
-              ],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "라바돈의 죽음모자",
-                "공허의 지팡이",
-                "거인 학살자",
-                "타격대의 철퇴"
-              ]
-            },
-            {
-              "championId": "TFT17_Karma",
-              "name": "카르마",
-              "row": 3,
-              "column": 1,
-              "star": 2,
-              "cost": 4,
-              "role": "APCaster",
-              "items": [
-                "모렐로노미콘",
-                "공허의 지팡이",
-                "쇼진의 창"
-              ],
-              "recommendedItems": [
-                "공허의 지팡이",
-                "보석 건틀릿",
-                "쇼진의 창",
-                "모렐로노미콘",
-                "라바돈의 죽음모자"
-              ]
-            }
-          ]
-        }
-      ],
-      "substitutions": [
-        {
-          "out": [],
-          "in": [
-            "모르가나"
-          ],
-          "note": "TFTactics 메타 대체안"
-        }
-      ]
-    },
-    {
       "id": "4097edcd16c2aeb1a950edcbb2d3d7d9",
       "title": "운명술사 트위스티드 페이트",
       "tier": "A",
@@ -2211,9 +1715,9 @@
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/fe0b74f2d8a06ad48de822cc10b7cbb5ebfbec27?type=guide",
       "sourceMatch": 1,
-      "averagePlace": 4.37,
-      "top4Rate": 53.07,
-      "pickRate": 0.26,
+      "averagePlace": 4.35,
+      "top4Rate": 53.15,
+      "pickRate": 0.25,
       "levelPlan": {
         "2-3": 4,
         "3-1": 5,
@@ -2238,8 +1742,8 @@
             "가고일 돌갑옷",
             "크라운가드",
             "워모그의 갑옷",
-            "수호자의 맹세",
-            "정령의 형상"
+            "정령의 형상",
+            "수호자의 맹세"
           ]
         },
         {
@@ -2490,8 +1994,8 @@
                 "가고일 돌갑옷",
                 "크라운가드",
                 "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -2619,8 +2123,8 @@
                 "가고일 돌갑옷",
                 "크라운가드",
                 "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -2795,9 +2299,9 @@
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/edd8ec0f8e5d9963b53b73086b20867c3cb0c873?type=guide",
       "sourceMatch": 0.636,
-      "averagePlace": 4.37,
-      "top4Rate": 50.86,
-      "pickRate": 0.57,
+      "averagePlace": 4.39,
+      "top4Rate": 50.48,
+      "pickRate": 0.72,
       "levelPlan": {
         "2-1": 4,
         "2-5": 5,
@@ -2837,8 +2341,8 @@
             "가고일 돌갑옷",
             "크라운가드",
             "워모그의 갑옷",
-            "수호자의 맹세",
-            "정령의 형상"
+            "정령의 형상",
+            "수호자의 맹세"
           ]
         },
         {
@@ -2954,8 +2458,8 @@
           "recommendedItems": [
             "거인 학살자",
             "죽음의 검",
-            "구인수의 격노검",
             "무한의 대검",
+            "구인수의 격노검",
             "수은"
           ]
         },
@@ -3017,8 +2521,8 @@
                 "가고일 돌갑옷",
                 "크라운가드",
                 "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -3100,8 +2604,8 @@
                 "가고일 돌갑옷",
                 "크라운가드",
                 "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -3162,8 +2666,8 @@
               "recommendedItems": [
                 "거인 학살자",
                 "죽음의 검",
-                "구인수의 격노검",
                 "무한의 대검",
+                "구인수의 격노검",
                 "수은"
               ]
             },
@@ -3225,8 +2729,8 @@
                 "가고일 돌갑옷",
                 "크라운가드",
                 "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -3342,8 +2846,8 @@
               "recommendedItems": [
                 "거인 학살자",
                 "죽음의 검",
-                "구인수의 격노검",
                 "무한의 대검",
+                "구인수의 격노검",
                 "수은"
               ]
             },
@@ -3393,27 +2897,27 @@
       ]
     },
     {
-      "id": "b01644875835d469c450fda750ac559c",
-      "title": "[상징] 우주 그루브 나미",
+      "id": "9ad3e8ffa3b33a7559ecd6de4d683b89",
+      "title": "별돌보미 자야",
       "tier": "A",
       "patch": "17.9",
-      "teamCode": "0204f03902503803603c03b037035000TFTSet17",
+      "teamCode": "0204f03902102c03801e01d03f023000TFTSet17",
       "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
       "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
-      "teamBuilderKey": "fd2ed0f6cbc3fb4e5110631e0a6fc767c5d66ebf",
+      "teamBuilderKey": "c83c5b08cc2b07ab8c96e43781dca8afca2722e1",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
-      "sourceUrl": "https://lolchess.gg/builder/guide/fd2ed0f6cbc3fb4e5110631e0a6fc767c5d66ebf?type=guide",
-      "sourceMatch": 0.727,
-      "averagePlace": 4.43,
-      "top4Rate": 51.07,
-      "pickRate": 0.66,
+      "sourceUrl": "https://lolchess.gg/builder/guide/c83c5b08cc2b07ab8c96e43781dca8afca2722e1?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 4.42,
+      "top4Rate": 50.13,
+      "pickRate": 0.41,
       "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
+        "2-3": 4,
+        "3-1": 5,
         "3-2": 6,
         "3-5": 7,
         "4-2": 8,
-        "5-1": 9
+        "4-5": 9
       },
       "units": [
         {
@@ -3425,9 +2929,9 @@
           "cost": 4,
           "role": "APTank",
           "items": [
-            "우주 그루브 상징",
             "가고일 돌갑옷",
-            "워모그의 갑옷"
+            "워모그의 갑옷",
+            "굳건한 심장"
           ],
           "recommendedItems": [
             "가고일 돌갑옷",
@@ -3445,7 +2949,11 @@
           "star": 2,
           "cost": 4,
           "role": "APTank",
-          "items": [],
+          "items": [
+            "수호자의 맹세",
+            "수호자의 맹세",
+            "적응형 투구"
+          ],
           "recommendedItems": [
             "수호자의 맹세",
             "가고일 돌갑옷",
@@ -3455,20 +2963,37 @@
           ]
         },
         {
-          "championId": "TFT17_Pantheon",
-          "name": "판테온",
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
           "row": 0,
-          "column": 6,
+          "column": 5,
           "star": 2,
-          "cost": 2,
+          "cost": 3,
           "role": "ADTank",
           "items": [],
           "recommendedItems": [
             "가고일 돌갑옷",
             "워모그의 갑옷",
             "정령의 형상",
-            "용의 발톱",
-            "태양불꽃 망토"
+            "별돌보미 상징",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "championId": "TFT17_Jax",
+          "name": "잭스",
+          "row": 0,
+          "column": 6,
+          "star": 2,
+          "cost": 2,
+          "role": "APTank",
+          "items": [],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "크라운가드",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "수호자의 맹세"
           ]
         },
         {
@@ -3479,11 +3004,7 @@
           "star": 2,
           "cost": 5,
           "role": "APFighter",
-          "items": [
-            "피바라기",
-            "모렐로노미콘",
-            "이온 충격기"
-          ],
+          "items": [],
           "recommendedItems": [
             "보석 건틀릿",
             "정의의 손길",
@@ -3493,19 +3014,8 @@
           ]
         },
         {
-          "championId": "TFT17_ShenProp",
-          "name": "유물",
-          "row": 1,
-          "column": 2,
-          "star": 2,
-          "cost": 1,
-          "role": "",
-          "items": [],
-          "recommendedItems": []
-        },
-        {
-          "championId": "TFT17_Ornn",
-          "name": "오른",
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
           "row": 1,
           "column": 3,
           "star": 2,
@@ -3513,85 +3023,70 @@
           "role": "APTank",
           "items": [],
           "recommendedItems": [
+            "워모그의 갑옷",
+            "가고일 돌갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 1,
+          "column": 5,
+          "star": 2,
+          "cost": 1,
+          "role": "ADTank",
+          "items": [],
+          "recommendedItems": [
+            "별돌보미 상징",
             "가고일 돌갑옷",
             "워모그의 갑옷",
             "정령의 형상",
-            "용의 발톱",
             "태양불꽃 망토"
           ]
         },
         {
-          "championId": "TFT17_Riven",
-          "name": "리븐",
-          "row": 2,
-          "column": 2,
-          "star": 2,
-          "cost": 4,
-          "role": "HFighter",
-          "items": [
-            "도적의 장갑"
-          ],
-          "recommendedItems": [
-            "피바라기",
-            "스테락의 도전",
-            "정의의 손길",
-            "거인의 결의",
-            "밤의 끝자락"
-          ]
-        },
-        {
-          "championId": "TFT17_Shen",
-          "name": "쉔",
-          "row": 2,
-          "column": 3,
-          "star": 2,
-          "cost": 5,
-          "role": "APFighter",
-          "items": [],
-          "recommendedItems": [
-            "피바라기",
-            "정의의 손길",
-            "별돌보미 상징",
-            "적응형 투구",
-            "밤의 끝자락"
-          ]
-        },
-        {
-          "championId": "TFT17_Nami",
-          "name": "나미",
+          "championId": "TFT17_Xayah",
+          "name": "자야",
           "row": 3,
           "column": 0,
           "star": 2,
           "cost": 4,
-          "role": "APCaster",
+          "role": "ADCarry",
           "items": [
-            "보석 건틀릿",
-            "내셔의 이빨",
-            "내셔의 이빨"
+            "크라켄의 분노",
+            "크라켄의 분노",
+            "붉은 덩굴정령"
           ],
           "recommendedItems": [
-            "보석 건틀릿",
-            "내셔의 이빨",
-            "쇼진의 창",
-            "라바돈의 죽음모자",
-            "공허의 지팡이"
+            "크라켄의 분노",
+            "붉은 덩굴정령",
+            "구인수의 격노검",
+            "무한의 대검",
+            "최후의 속삭임"
           ]
         },
         {
-          "championId": "TFT17_Gwen",
-          "name": "그웬",
+          "championId": "TFT17_Jhin",
+          "name": "진",
           "row": 3,
-          "column": 2,
+          "column": 1,
           "star": 2,
-          "cost": 2,
-          "role": "APReaper",
-          "items": [],
-          "recommendedItems": [
-            "보석 건틀릿",
-            "정의의 손길",
-            "피바라기",
-            "라바돈의 죽음모자",
+          "cost": 5,
+          "role": "ADCarry",
+          "items": [
+            "무한의 대검",
+            "타격대의 철퇴",
             "거인 학살자"
+          ],
+          "recommendedItems": [
+            "무한의 대검",
+            "거인 학살자",
+            "죽음의 검",
+            "구인수의 격노검",
+            "최후의 속삭임"
           ]
         }
       ],
@@ -3610,9 +3105,9 @@
               "cost": 4,
               "role": "APTank",
               "items": [
-                "우주 그루브 상징",
                 "가고일 돌갑옷",
-                "워모그의 갑옷"
+                "워모그의 갑옷",
+                "굳건한 심장"
               ],
               "recommendedItems": [
                 "가고일 돌갑옷",
@@ -3623,58 +3118,58 @@
               ]
             },
             {
-              "championId": "TFT17_Ornn",
-              "name": "오른",
-              "row": 1,
+              "championId": "TFT17_Nunu",
+              "name": "누누와 윌럼프",
+              "row": 0,
               "column": 3,
               "star": 2,
-              "cost": 3,
+              "cost": 4,
+              "role": "APTank",
+              "items": [
+                "수호자의 맹세",
+                "수호자의 맹세",
+                "적응형 투구"
+              ],
+              "recommendedItems": [
+                "수호자의 맹세",
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "적응형 투구",
+                "정령의 형상"
+              ]
+            },
+            {
+              "championId": "TFT17_Jax",
+              "name": "잭스",
+              "row": 0,
+              "column": 6,
+              "star": 2,
+              "cost": 2,
               "role": "APTank",
               "items": [],
               "recommendedItems": [
                 "가고일 돌갑옷",
+                "크라운가드",
                 "워모그의 갑옷",
                 "정령의 형상",
-                "용의 발톱",
-                "태양불꽃 망토"
+                "수호자의 맹세"
               ]
             },
             {
-              "championId": "TFT17_Nami",
-              "name": "나미",
-              "row": 3,
-              "column": 0,
+              "championId": "TFT17_Aatrox",
+              "name": "아트록스",
+              "row": 1,
+              "column": 5,
               "star": 2,
-              "cost": 4,
-              "role": "APCaster",
-              "items": [
-                "보석 건틀릿",
-                "내셔의 이빨",
-                "내셔의 이빨"
-              ],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "내셔의 이빨",
-                "쇼진의 창",
-                "라바돈의 죽음모자",
-                "공허의 지팡이"
-              ]
-            },
-            {
-              "championId": "TFT17_Gwen",
-              "name": "그웬",
-              "row": 3,
-              "column": 2,
-              "star": 2,
-              "cost": 2,
-              "role": "APReaper",
+              "cost": 1,
+              "role": "ADTank",
               "items": [],
               "recommendedItems": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "피바라기",
-                "라바돈의 죽음모자",
-                "거인 학살자"
+                "별돌보미 상징",
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토"
               ]
             }
           ]
@@ -3693,9 +3188,9 @@
               "cost": 4,
               "role": "APTank",
               "items": [
-                "우주 그루브 상징",
                 "가고일 돌갑옷",
-                "워모그의 갑옷"
+                "워모그의 갑옷",
+                "굳건한 심장"
               ],
               "recommendedItems": [
                 "가고일 돌갑옷",
@@ -3706,98 +3201,100 @@
               ]
             },
             {
-              "championId": "TFT17_Blitzcrank",
-              "name": "블리츠크랭크",
-              "row": 1,
-              "column": 1,
+              "championId": "TFT17_Nunu",
+              "name": "누누와 윌럼프",
+              "row": 0,
+              "column": 3,
               "star": 2,
-              "cost": 5,
-              "role": "APFighter",
+              "cost": 4,
+              "role": "APTank",
               "items": [
-                "피바라기",
-                "모렐로노미콘",
-                "이온 충격기"
+                "수호자의 맹세",
+                "수호자의 맹세",
+                "적응형 투구"
               ],
               "recommendedItems": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "피바라기",
-                "라바돈의 죽음모자",
-                "모렐로노미콘"
+                "수호자의 맹세",
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "적응형 투구",
+                "정령의 형상"
               ]
             },
             {
-              "championId": "TFT17_Ornn",
-              "name": "오른",
-              "row": 1,
-              "column": 3,
+              "championId": "TFT17_Jax",
+              "name": "잭스",
+              "row": 0,
+              "column": 6,
               "star": 2,
-              "cost": 3,
+              "cost": 2,
               "role": "APTank",
               "items": [],
               "recommendedItems": [
                 "가고일 돌갑옷",
+                "크라운가드",
                 "워모그의 갑옷",
                 "정령의 형상",
-                "용의 발톱",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Aatrox",
+              "name": "아트록스",
+              "row": 1,
+              "column": 5,
+              "star": 2,
+              "cost": 1,
+              "role": "ADTank",
+              "items": [],
+              "recommendedItems": [
+                "별돌보미 상징",
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
                 "태양불꽃 망토"
               ]
             },
             {
-              "championId": "TFT17_Riven",
-              "name": "리븐",
-              "row": 2,
-              "column": 2,
-              "star": 2,
-              "cost": 4,
-              "role": "HFighter",
-              "items": [
-                "도적의 장갑"
-              ],
-              "recommendedItems": [
-                "피바라기",
-                "스테락의 도전",
-                "정의의 손길",
-                "거인의 결의",
-                "밤의 끝자락"
-              ]
-            },
-            {
-              "championId": "TFT17_Nami",
-              "name": "나미",
+              "championId": "TFT17_Xayah",
+              "name": "자야",
               "row": 3,
               "column": 0,
               "star": 2,
               "cost": 4,
-              "role": "APCaster",
+              "role": "ADCarry",
               "items": [
-                "보석 건틀릿",
-                "내셔의 이빨",
-                "내셔의 이빨"
+                "크라켄의 분노",
+                "크라켄의 분노",
+                "붉은 덩굴정령"
               ],
               "recommendedItems": [
-                "보석 건틀릿",
-                "내셔의 이빨",
-                "쇼진의 창",
-                "라바돈의 죽음모자",
-                "공허의 지팡이"
+                "크라켄의 분노",
+                "붉은 덩굴정령",
+                "구인수의 격노검",
+                "무한의 대검",
+                "최후의 속삭임"
               ]
             },
             {
-              "championId": "TFT17_Gwen",
-              "name": "그웬",
+              "championId": "TFT17_Jhin",
+              "name": "진",
               "row": 3,
-              "column": 2,
+              "column": 1,
               "star": 2,
-              "cost": 2,
-              "role": "APReaper",
-              "items": [],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "피바라기",
-                "라바돈의 죽음모자",
+              "cost": 5,
+              "role": "ADCarry",
+              "items": [
+                "무한의 대검",
+                "타격대의 철퇴",
                 "거인 학살자"
+              ],
+              "recommendedItems": [
+                "무한의 대검",
+                "거인 학살자",
+                "죽음의 검",
+                "구인수의 격노검",
+                "최후의 속삭임"
               ]
             }
           ]
@@ -3816,9 +3313,9 @@
               "cost": 4,
               "role": "APTank",
               "items": [
-                "우주 그루브 상징",
                 "가고일 돌갑옷",
-                "워모그의 갑옷"
+                "워모그의 갑옷",
+                "굳건한 심장"
               ],
               "recommendedItems": [
                 "가고일 돌갑옷",
@@ -3836,7 +3333,11 @@
               "star": 2,
               "cost": 4,
               "role": "APTank",
-              "items": [],
+              "items": [
+                "수호자의 맹세",
+                "수호자의 맹세",
+                "적응형 투구"
+              ],
               "recommendedItems": [
                 "수호자의 맹세",
                 "가고일 돌갑옷",
@@ -3846,20 +3347,37 @@
               ]
             },
             {
-              "championId": "TFT17_Pantheon",
-              "name": "판테온",
+              "championId": "TFT17_Rhaast",
+              "name": "라아스트",
               "row": 0,
-              "column": 6,
+              "column": 5,
               "star": 2,
-              "cost": 2,
+              "cost": 3,
               "role": "ADTank",
               "items": [],
               "recommendedItems": [
                 "가고일 돌갑옷",
                 "워모그의 갑옷",
                 "정령의 형상",
-                "용의 발톱",
-                "태양불꽃 망토"
+                "별돌보미 상징",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Jax",
+              "name": "잭스",
+              "row": 0,
+              "column": 6,
+              "star": 2,
+              "cost": 2,
+              "role": "APTank",
+              "items": [],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "크라운가드",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "수호자의 맹세"
               ]
             },
             {
@@ -3870,11 +3388,7 @@
               "star": 2,
               "cost": 5,
               "role": "APFighter",
-              "items": [
-                "피바라기",
-                "모렐로노미콘",
-                "이온 충격기"
-              ],
+              "items": [],
               "recommendedItems": [
                 "보석 건틀릿",
                 "정의의 손길",
@@ -3884,19 +3398,8 @@
               ]
             },
             {
-              "championId": "TFT17_ShenProp",
-              "name": "유물",
-              "row": 1,
-              "column": 2,
-              "star": 2,
-              "cost": 1,
-              "role": "",
-              "items": [],
-              "recommendedItems": []
-            },
-            {
-              "championId": "TFT17_Ornn",
-              "name": "오른",
+              "championId": "TFT17_Maokai",
+              "name": "마오카이",
               "row": 1,
               "column": 3,
               "star": 2,
@@ -3904,85 +3407,70 @@
               "role": "APTank",
               "items": [],
               "recommendedItems": [
+                "워모그의 갑옷",
+                "가고일 돌갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Aatrox",
+              "name": "아트록스",
+              "row": 1,
+              "column": 5,
+              "star": 2,
+              "cost": 1,
+              "role": "ADTank",
+              "items": [],
+              "recommendedItems": [
+                "별돌보미 상징",
                 "가고일 돌갑옷",
                 "워모그의 갑옷",
                 "정령의 형상",
-                "용의 발톱",
                 "태양불꽃 망토"
               ]
             },
             {
-              "championId": "TFT17_Riven",
-              "name": "리븐",
-              "row": 2,
-              "column": 2,
-              "star": 2,
-              "cost": 4,
-              "role": "HFighter",
-              "items": [
-                "도적의 장갑"
-              ],
-              "recommendedItems": [
-                "피바라기",
-                "스테락의 도전",
-                "정의의 손길",
-                "거인의 결의",
-                "밤의 끝자락"
-              ]
-            },
-            {
-              "championId": "TFT17_Shen",
-              "name": "쉔",
-              "row": 2,
-              "column": 3,
-              "star": 2,
-              "cost": 5,
-              "role": "APFighter",
-              "items": [],
-              "recommendedItems": [
-                "피바라기",
-                "정의의 손길",
-                "별돌보미 상징",
-                "적응형 투구",
-                "밤의 끝자락"
-              ]
-            },
-            {
-              "championId": "TFT17_Nami",
-              "name": "나미",
+              "championId": "TFT17_Xayah",
+              "name": "자야",
               "row": 3,
               "column": 0,
               "star": 2,
               "cost": 4,
-              "role": "APCaster",
+              "role": "ADCarry",
               "items": [
-                "보석 건틀릿",
-                "내셔의 이빨",
-                "내셔의 이빨"
+                "크라켄의 분노",
+                "크라켄의 분노",
+                "붉은 덩굴정령"
               ],
               "recommendedItems": [
-                "보석 건틀릿",
-                "내셔의 이빨",
-                "쇼진의 창",
-                "라바돈의 죽음모자",
-                "공허의 지팡이"
+                "크라켄의 분노",
+                "붉은 덩굴정령",
+                "구인수의 격노검",
+                "무한의 대검",
+                "최후의 속삭임"
               ]
             },
             {
-              "championId": "TFT17_Gwen",
-              "name": "그웬",
+              "championId": "TFT17_Jhin",
+              "name": "진",
               "row": 3,
-              "column": 2,
+              "column": 1,
               "star": 2,
-              "cost": 2,
-              "role": "APReaper",
-              "items": [],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "피바라기",
-                "라바돈의 죽음모자",
+              "cost": 5,
+              "role": "ADCarry",
+              "items": [
+                "무한의 대검",
+                "타격대의 철퇴",
                 "거인 학살자"
+              ],
+              "recommendedItems": [
+                "무한의 대검",
+                "거인 학살자",
+                "죽음의 검",
+                "구인수의 격노검",
+                "최후의 속삭임"
               ]
             }
           ]
@@ -3992,12 +3480,1132 @@
         {
           "out": [],
           "in": [
-            "나서스",
-            "누누와 윌럼프"
+            "블리츠크랭크"
           ],
           "note": "TFTactics 메타 대체안"
         }
       ]
+    },
+    {
+      "id": "066dcd8c3b7066807430db33ae1c3e4b",
+      "title": "N.O.V.A. 아칼리",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "0200004f01e01d00f01f00d01b000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
+      "teamBuilderKey": "25719630162b845b46158d7ebae76803a8a62c6a",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/25719630162b845b46158d7ebae76803a8a62c6a?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 4.45,
+      "top4Rate": 51.4,
+      "pickRate": 0.26,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "5-1": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 0,
+          "column": 1,
+          "star": 2,
+          "cost": 4,
+          "role": "APTank",
+          "items": [
+            "크라운가드",
+            "워모그의 갑옷",
+            "가고일 돌갑옷"
+          ],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "수호자의 맹세",
+            "용의 발톱"
+          ]
+        },
+        {
+          "championId": "TFT17_TahmKench",
+          "name": "탐 켄치",
+          "row": 0,
+          "column": 2,
+          "star": 2,
+          "cost": 4,
+          "role": "APTank",
+          "items": [
+            "굳건한 심장",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
+          "row": 0,
+          "column": 4,
+          "star": 2,
+          "cost": 3,
+          "role": "APTank",
+          "items": [],
+          "recommendedItems": [
+            "워모그의 갑옷",
+            "가고일 돌갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 0,
+          "column": 5,
+          "star": 2,
+          "cost": 1,
+          "role": "ADTank",
+          "items": [],
+          "recommendedItems": [
+            "별돌보미 상징",
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "championId": "TFT17_Belveth",
+          "name": "벨베스",
+          "row": 1,
+          "column": 1,
+          "star": 2,
+          "cost": 2,
+          "role": "ADFighter",
+          "items": [],
+          "recommendedItems": [
+            "거인 학살자",
+            "수은",
+            "크라켄의 분노",
+            "구인수의 격노검",
+            "피바라기"
+          ]
+        },
+        {
+          "championId": "TFT17_Kindred",
+          "name": "킨드레드",
+          "row": 3,
+          "column": 0,
+          "star": 2,
+          "cost": 4,
+          "role": "ADCarry",
+          "items": [
+            "구인수의 격노검",
+            "크라켄의 분노",
+            "타격대의 철퇴"
+          ],
+          "recommendedItems": [
+            "구인수의 격노검",
+            "크라켄의 분노",
+            "거인 학살자",
+            "무한의 대검",
+            "죽음의 검"
+          ]
+        },
+        {
+          "championId": "TFT17_Akali",
+          "name": "아칼리",
+          "row": 3,
+          "column": 1,
+          "star": 2,
+          "cost": 2,
+          "role": "ADFighter",
+          "items": [
+            "마법공학 총검",
+            "타격대의 철퇴",
+            "스테락의 도전"
+          ],
+          "recommendedItems": [
+            "마법공학 총검",
+            "타격대의 철퇴",
+            "죽음의 검",
+            "정의의 손길",
+            "밤의 끝자락"
+          ]
+        },
+        {
+          "championId": "TFT17_Caitlyn",
+          "name": "케이틀린",
+          "row": 3,
+          "column": 6,
+          "star": 2,
+          "cost": 1,
+          "role": "ADSpecialist",
+          "items": [],
+          "recommendedItems": [
+            "구인수의 격노검",
+            "죽음의 검",
+            "거인 학살자",
+            "무한의 대검",
+            "크라켄의 분노"
+          ]
+        }
+      ],
+      "phaseBoards": [
+        {
+          "key": "early",
+          "label": "초반",
+          "stage": "2스테이지 · 핵심 4기",
+          "units": [
+            {
+              "championId": "TFT17_Morgana",
+              "name": "모르가나",
+              "row": 0,
+              "column": 1,
+              "star": 2,
+              "cost": 4,
+              "role": "APTank",
+              "items": [
+                "크라운가드",
+                "워모그의 갑옷",
+                "가고일 돌갑옷"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "수호자의 맹세",
+                "용의 발톱"
+              ]
+            },
+            {
+              "championId": "TFT17_Aatrox",
+              "name": "아트록스",
+              "row": 0,
+              "column": 5,
+              "star": 2,
+              "cost": 1,
+              "role": "ADTank",
+              "items": [],
+              "recommendedItems": [
+                "별돌보미 상징",
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토"
+              ]
+            },
+            {
+              "championId": "TFT17_Akali",
+              "name": "아칼리",
+              "row": 3,
+              "column": 1,
+              "star": 2,
+              "cost": 2,
+              "role": "ADFighter",
+              "items": [
+                "마법공학 총검",
+                "타격대의 철퇴",
+                "스테락의 도전"
+              ],
+              "recommendedItems": [
+                "마법공학 총검",
+                "타격대의 철퇴",
+                "죽음의 검",
+                "정의의 손길",
+                "밤의 끝자락"
+              ]
+            },
+            {
+              "championId": "TFT17_Caitlyn",
+              "name": "케이틀린",
+              "row": 3,
+              "column": 6,
+              "star": 2,
+              "cost": 1,
+              "role": "ADSpecialist",
+              "items": [],
+              "recommendedItems": [
+                "구인수의 격노검",
+                "죽음의 검",
+                "거인 학살자",
+                "무한의 대검",
+                "크라켄의 분노"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mid",
+          "label": "중반",
+          "stage": "3스테이지 · 핵심 6기",
+          "units": [
+            {
+              "championId": "TFT17_Morgana",
+              "name": "모르가나",
+              "row": 0,
+              "column": 1,
+              "star": 2,
+              "cost": 4,
+              "role": "APTank",
+              "items": [
+                "크라운가드",
+                "워모그의 갑옷",
+                "가고일 돌갑옷"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "수호자의 맹세",
+                "용의 발톱"
+              ]
+            },
+            {
+              "championId": "TFT17_TahmKench",
+              "name": "탐 켄치",
+              "row": 0,
+              "column": 2,
+              "star": 2,
+              "cost": 4,
+              "role": "APTank",
+              "items": [
+                "굳건한 심장",
+                "정령의 형상",
+                "워모그의 갑옷"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Aatrox",
+              "name": "아트록스",
+              "row": 0,
+              "column": 5,
+              "star": 2,
+              "cost": 1,
+              "role": "ADTank",
+              "items": [],
+              "recommendedItems": [
+                "별돌보미 상징",
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토"
+              ]
+            },
+            {
+              "championId": "TFT17_Kindred",
+              "name": "킨드레드",
+              "row": 3,
+              "column": 0,
+              "star": 2,
+              "cost": 4,
+              "role": "ADCarry",
+              "items": [
+                "구인수의 격노검",
+                "크라켄의 분노",
+                "타격대의 철퇴"
+              ],
+              "recommendedItems": [
+                "구인수의 격노검",
+                "크라켄의 분노",
+                "거인 학살자",
+                "무한의 대검",
+                "죽음의 검"
+              ]
+            },
+            {
+              "championId": "TFT17_Akali",
+              "name": "아칼리",
+              "row": 3,
+              "column": 1,
+              "star": 2,
+              "cost": 2,
+              "role": "ADFighter",
+              "items": [
+                "마법공학 총검",
+                "타격대의 철퇴",
+                "스테락의 도전"
+              ],
+              "recommendedItems": [
+                "마법공학 총검",
+                "타격대의 철퇴",
+                "죽음의 검",
+                "정의의 손길",
+                "밤의 끝자락"
+              ]
+            },
+            {
+              "championId": "TFT17_Caitlyn",
+              "name": "케이틀린",
+              "row": 3,
+              "column": 6,
+              "star": 2,
+              "cost": 1,
+              "role": "ADSpecialist",
+              "items": [],
+              "recommendedItems": [
+                "구인수의 격노검",
+                "죽음의 검",
+                "거인 학살자",
+                "무한의 대검",
+                "크라켄의 분노"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "final",
+          "label": "최종",
+          "stage": "4스테이지 이후 · 완성 배치",
+          "units": [
+            {
+              "championId": "TFT17_Morgana",
+              "name": "모르가나",
+              "row": 0,
+              "column": 1,
+              "star": 2,
+              "cost": 4,
+              "role": "APTank",
+              "items": [
+                "크라운가드",
+                "워모그의 갑옷",
+                "가고일 돌갑옷"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "수호자의 맹세",
+                "용의 발톱"
+              ]
+            },
+            {
+              "championId": "TFT17_TahmKench",
+              "name": "탐 켄치",
+              "row": 0,
+              "column": 2,
+              "star": 2,
+              "cost": 4,
+              "role": "APTank",
+              "items": [
+                "굳건한 심장",
+                "정령의 형상",
+                "워모그의 갑옷"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Maokai",
+              "name": "마오카이",
+              "row": 0,
+              "column": 4,
+              "star": 2,
+              "cost": 3,
+              "role": "APTank",
+              "items": [],
+              "recommendedItems": [
+                "워모그의 갑옷",
+                "가고일 돌갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Aatrox",
+              "name": "아트록스",
+              "row": 0,
+              "column": 5,
+              "star": 2,
+              "cost": 1,
+              "role": "ADTank",
+              "items": [],
+              "recommendedItems": [
+                "별돌보미 상징",
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토"
+              ]
+            },
+            {
+              "championId": "TFT17_Belveth",
+              "name": "벨베스",
+              "row": 1,
+              "column": 1,
+              "star": 2,
+              "cost": 2,
+              "role": "ADFighter",
+              "items": [],
+              "recommendedItems": [
+                "거인 학살자",
+                "수은",
+                "크라켄의 분노",
+                "구인수의 격노검",
+                "피바라기"
+              ]
+            },
+            {
+              "championId": "TFT17_Kindred",
+              "name": "킨드레드",
+              "row": 3,
+              "column": 0,
+              "star": 2,
+              "cost": 4,
+              "role": "ADCarry",
+              "items": [
+                "구인수의 격노검",
+                "크라켄의 분노",
+                "타격대의 철퇴"
+              ],
+              "recommendedItems": [
+                "구인수의 격노검",
+                "크라켄의 분노",
+                "거인 학살자",
+                "무한의 대검",
+                "죽음의 검"
+              ]
+            },
+            {
+              "championId": "TFT17_Akali",
+              "name": "아칼리",
+              "row": 3,
+              "column": 1,
+              "star": 2,
+              "cost": 2,
+              "role": "ADFighter",
+              "items": [
+                "마법공학 총검",
+                "타격대의 철퇴",
+                "스테락의 도전"
+              ],
+              "recommendedItems": [
+                "마법공학 총검",
+                "타격대의 철퇴",
+                "죽음의 검",
+                "정의의 손길",
+                "밤의 끝자락"
+              ]
+            },
+            {
+              "championId": "TFT17_Caitlyn",
+              "name": "케이틀린",
+              "row": 3,
+              "column": 6,
+              "star": 2,
+              "cost": 1,
+              "role": "ADSpecialist",
+              "items": [],
+              "recommendedItems": [
+                "구인수의 격노검",
+                "죽음의 검",
+                "거인 학살자",
+                "무한의 대검",
+                "크라켄의 분노"
+              ]
+            }
+          ]
+        }
+      ],
+      "substitutions": [
+        {
+          "out": [],
+          "in": [
+            "라아스트",
+            "피오라",
+            "그레이브즈"
+          ],
+          "note": "TFTactics 메타 대체안"
+        },
+        {
+          "out": [
+            "쉔"
+          ],
+          "in": [
+            "잭스"
+          ],
+          "note": "TFTactics 메타 대체안"
+        }
+      ]
+    },
+    {
+      "id": "c2db6a505e4f7d88ea6091429bf592fe",
+      "title": "시간 균열자 파이크",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "0202503103503d02d03c019000000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
+      "teamBuilderKey": "47215a461a9f8cbde60a1b459f3c759f14cf3144",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/47215a461a9f8cbde60a1b459f3c759f14cf3144?type=guide",
+      "sourceMatch": 0.778,
+      "averagePlace": 4.47,
+      "top4Rate": 52.24,
+      "pickRate": 0.02,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "4-5": 8
+      },
+      "units": [
+        {
+          "championId": "TFT17_Pantheon",
+          "name": "판테온",
+          "row": 1,
+          "column": 0,
+          "star": 3,
+          "cost": 2,
+          "role": "ADTank",
+          "items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "이온 충격기"
+          ],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "용의 발톱",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "championId": "TFT17_Gragas",
+          "name": "그라가스",
+          "row": 1,
+          "column": 6,
+          "star": 3,
+          "cost": 2,
+          "role": "APTank",
+          "items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "유기물 보존기"
+          ]
+        },
+        {
+          "championId": "TFT17_Gwen",
+          "name": "그웬",
+          "row": 2,
+          "column": 0,
+          "star": 3,
+          "cost": 2,
+          "role": "APReaper",
+          "items": [
+            "보석 건틀릿",
+            "정의의 손길",
+            "거인 학살자"
+          ],
+          "recommendedItems": [
+            "보석 건틀릿",
+            "정의의 손길",
+            "피바라기",
+            "라바돈의 죽음모자",
+            "거인 학살자"
+          ]
+        },
+        {
+          "championId": "TFT17_IvernMinion",
+          "name": "꼬마 정령",
+          "row": 2,
+          "column": 6,
+          "star": 3,
+          "cost": 2,
+          "role": "APFighter",
+          "items": [],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "보석 건틀릿",
+            "정의의 손길",
+            "정령의 형상"
+          ]
+        },
+        {
+          "championId": "TFT17_Milio",
+          "name": "밀리오",
+          "row": 3,
+          "column": 0,
+          "star": 3,
+          "cost": 2,
+          "role": "APCaster",
+          "items": [],
+          "recommendedItems": [
+            "쇼진의 창",
+            "라바돈의 죽음모자",
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "모렐로노미콘"
+          ]
+        },
+        {
+          "championId": "TFT17_Pyke",
+          "name": "파이크",
+          "row": 3,
+          "column": 3,
+          "star": 3,
+          "cost": 2,
+          "role": "ADReaper",
+          "items": [
+            "무한의 대검",
+            "밤의 끝자락",
+            "표적 고정 광학 장치"
+          ],
+          "recommendedItems": [
+            "무한의 대검",
+            "밤의 끝자락",
+            "정의의 손길",
+            "피바라기",
+            "거인 학살자"
+          ]
+        },
+        {
+          "championId": "TFT17_Riven",
+          "name": "리븐",
+          "row": 3,
+          "column": 5,
+          "star": 2,
+          "cost": 4,
+          "role": "HFighter",
+          "items": [],
+          "recommendedItems": [
+            "피바라기",
+            "스테락의 도전",
+            "정의의 손길",
+            "거인의 결의",
+            "밤의 끝자락"
+          ]
+        },
+        {
+          "championId": "TFT17_Corki",
+          "name": "코르키",
+          "row": 3,
+          "column": 6,
+          "star": 2,
+          "cost": 4,
+          "role": "ADCaster",
+          "items": [],
+          "recommendedItems": [
+            "죽음의 검",
+            "거인 학살자",
+            "타격대의 철퇴",
+            "무한의 대검",
+            "최후의 속삭임"
+          ]
+        }
+      ],
+      "phaseBoards": [
+        {
+          "key": "early",
+          "label": "초반",
+          "stage": "2스테이지 · 핵심 4기",
+          "units": [
+            {
+              "championId": "TFT17_Pantheon",
+              "name": "판테온",
+              "row": 1,
+              "column": 0,
+              "star": 3,
+              "cost": 2,
+              "role": "ADTank",
+              "items": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "이온 충격기"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "용의 발톱",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Gragas",
+              "name": "그라가스",
+              "row": 1,
+              "column": 6,
+              "star": 3,
+              "cost": 2,
+              "role": "APTank",
+              "items": [
+                "가고일 돌갑옷",
+                "태양불꽃 망토",
+                "워모그의 갑옷"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "유기물 보존기"
+              ]
+            },
+            {
+              "championId": "TFT17_Gwen",
+              "name": "그웬",
+              "row": 2,
+              "column": 0,
+              "star": 3,
+              "cost": 2,
+              "role": "APReaper",
+              "items": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "거인 학살자"
+              ],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "피바라기",
+                "라바돈의 죽음모자",
+                "거인 학살자"
+              ]
+            },
+            {
+              "championId": "TFT17_Pyke",
+              "name": "파이크",
+              "row": 3,
+              "column": 3,
+              "star": 3,
+              "cost": 2,
+              "role": "ADReaper",
+              "items": [
+                "무한의 대검",
+                "밤의 끝자락",
+                "표적 고정 광학 장치"
+              ],
+              "recommendedItems": [
+                "무한의 대검",
+                "밤의 끝자락",
+                "정의의 손길",
+                "피바라기",
+                "거인 학살자"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mid",
+          "label": "중반",
+          "stage": "3스테이지 · 핵심 6기",
+          "units": [
+            {
+              "championId": "TFT17_Pantheon",
+              "name": "판테온",
+              "row": 1,
+              "column": 0,
+              "star": 3,
+              "cost": 2,
+              "role": "ADTank",
+              "items": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "이온 충격기"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "용의 발톱",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Gragas",
+              "name": "그라가스",
+              "row": 1,
+              "column": 6,
+              "star": 3,
+              "cost": 2,
+              "role": "APTank",
+              "items": [
+                "가고일 돌갑옷",
+                "태양불꽃 망토",
+                "워모그의 갑옷"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "유기물 보존기"
+              ]
+            },
+            {
+              "championId": "TFT17_Gwen",
+              "name": "그웬",
+              "row": 2,
+              "column": 0,
+              "star": 3,
+              "cost": 2,
+              "role": "APReaper",
+              "items": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "거인 학살자"
+              ],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "피바라기",
+                "라바돈의 죽음모자",
+                "거인 학살자"
+              ]
+            },
+            {
+              "championId": "TFT17_IvernMinion",
+              "name": "꼬마 정령",
+              "row": 2,
+              "column": 6,
+              "star": 3,
+              "cost": 2,
+              "role": "APFighter",
+              "items": [],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "보석 건틀릿",
+                "정의의 손길",
+                "정령의 형상"
+              ]
+            },
+            {
+              "championId": "TFT17_Milio",
+              "name": "밀리오",
+              "row": 3,
+              "column": 0,
+              "star": 3,
+              "cost": 2,
+              "role": "APCaster",
+              "items": [],
+              "recommendedItems": [
+                "쇼진의 창",
+                "라바돈의 죽음모자",
+                "보석 건틀릿",
+                "내셔의 이빨",
+                "모렐로노미콘"
+              ]
+            },
+            {
+              "championId": "TFT17_Pyke",
+              "name": "파이크",
+              "row": 3,
+              "column": 3,
+              "star": 3,
+              "cost": 2,
+              "role": "ADReaper",
+              "items": [
+                "무한의 대검",
+                "밤의 끝자락",
+                "표적 고정 광학 장치"
+              ],
+              "recommendedItems": [
+                "무한의 대검",
+                "밤의 끝자락",
+                "정의의 손길",
+                "피바라기",
+                "거인 학살자"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "final",
+          "label": "최종",
+          "stage": "4스테이지 이후 · 완성 배치",
+          "units": [
+            {
+              "championId": "TFT17_Pantheon",
+              "name": "판테온",
+              "row": 1,
+              "column": 0,
+              "star": 3,
+              "cost": 2,
+              "role": "ADTank",
+              "items": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "이온 충격기"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "용의 발톱",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Gragas",
+              "name": "그라가스",
+              "row": 1,
+              "column": 6,
+              "star": 3,
+              "cost": 2,
+              "role": "APTank",
+              "items": [
+                "가고일 돌갑옷",
+                "태양불꽃 망토",
+                "워모그의 갑옷"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "유기물 보존기"
+              ]
+            },
+            {
+              "championId": "TFT17_Gwen",
+              "name": "그웬",
+              "row": 2,
+              "column": 0,
+              "star": 3,
+              "cost": 2,
+              "role": "APReaper",
+              "items": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "거인 학살자"
+              ],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "피바라기",
+                "라바돈의 죽음모자",
+                "거인 학살자"
+              ]
+            },
+            {
+              "championId": "TFT17_IvernMinion",
+              "name": "꼬마 정령",
+              "row": 2,
+              "column": 6,
+              "star": 3,
+              "cost": 2,
+              "role": "APFighter",
+              "items": [],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "보석 건틀릿",
+                "정의의 손길",
+                "정령의 형상"
+              ]
+            },
+            {
+              "championId": "TFT17_Milio",
+              "name": "밀리오",
+              "row": 3,
+              "column": 0,
+              "star": 3,
+              "cost": 2,
+              "role": "APCaster",
+              "items": [],
+              "recommendedItems": [
+                "쇼진의 창",
+                "라바돈의 죽음모자",
+                "보석 건틀릿",
+                "내셔의 이빨",
+                "모렐로노미콘"
+              ]
+            },
+            {
+              "championId": "TFT17_Pyke",
+              "name": "파이크",
+              "row": 3,
+              "column": 3,
+              "star": 3,
+              "cost": 2,
+              "role": "ADReaper",
+              "items": [
+                "무한의 대검",
+                "밤의 끝자락",
+                "표적 고정 광학 장치"
+              ],
+              "recommendedItems": [
+                "무한의 대검",
+                "밤의 끝자락",
+                "정의의 손길",
+                "피바라기",
+                "거인 학살자"
+              ]
+            },
+            {
+              "championId": "TFT17_Riven",
+              "name": "리븐",
+              "row": 3,
+              "column": 5,
+              "star": 2,
+              "cost": 4,
+              "role": "HFighter",
+              "items": [],
+              "recommendedItems": [
+                "피바라기",
+                "스테락의 도전",
+                "정의의 손길",
+                "거인의 결의",
+                "밤의 끝자락"
+              ]
+            },
+            {
+              "championId": "TFT17_Corki",
+              "name": "코르키",
+              "row": 3,
+              "column": 6,
+              "star": 2,
+              "cost": 4,
+              "role": "ADCaster",
+              "items": [],
+              "recommendedItems": [
+                "죽음의 검",
+                "거인 학살자",
+                "타격대의 철퇴",
+                "무한의 대검",
+                "최후의 속삭임"
+              ]
+            }
+          ]
+        }
+      ],
+      "substitutions": []
     },
     {
       "id": "6ee93abf79cd4de33fb5a66a46c02f10",
@@ -4011,8 +4619,8 @@
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/78fbc735aa3dafb960a3ede0f8830116a9d644b9?type=guide",
       "sourceMatch": 0.8,
-      "averagePlace": 4.46,
-      "top4Rate": 51.96,
+      "averagePlace": 4.5,
+      "top4Rate": 50.51,
       "pickRate": 0.1,
       "levelPlan": {
         "2-1": 4,
@@ -4608,20 +5216,20 @@
       ]
     },
     {
-      "id": "066dcd8c3b7066807430db33ae1c3e4b",
-      "title": "N.O.V.A. 아칼리",
+      "id": "c7aabea91faca7e5b90cea59b7ed6dcb",
+      "title": "메카 아우렐리온 솔",
       "tier": "A",
       "patch": "17.9",
-      "teamCode": "0200004f01e01d00f01f00d01b000000TFTSet17",
+      "teamCode": "0202702104e000026022000000000000TFTSet17",
       "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
       "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
-      "teamBuilderKey": "25719630162b845b46158d7ebae76803a8a62c6a",
+      "teamBuilderKey": "5b44b33e3b3d138d244ec72b82a6a095ecc4479a",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
-      "sourceUrl": "https://lolchess.gg/builder/guide/25719630162b845b46158d7ebae76803a8a62c6a?type=guide",
-      "sourceMatch": 1,
-      "averagePlace": 4.46,
-      "top4Rate": 51.34,
-      "pickRate": 0.26,
+      "sourceUrl": "https://lolchess.gg/builder/guide/5b44b33e3b3d138d244ec72b82a6a095ecc4479a?type=guide",
+      "sourceMatch": 0.625,
+      "averagePlace": 4.5,
+      "top4Rate": 50.31,
+      "pickRate": 0.36,
       "levelPlan": {
         "2-1": 4,
         "2-5": 5,
@@ -4632,17 +5240,72 @@
       },
       "units": [
         {
+          "championId": "TFT17_Galio",
+          "name": "거대 메크 로봇",
+          "row": 0,
+          "column": 3,
+          "star": 2,
+          "cost": 4,
+          "role": "ADTank",
+          "items": [
+            "가고일 돌갑옷",
+            "가고일 돌갑옷",
+            "사자의 비가"
+          ],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "스테락의 도전",
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
+          "row": 2,
+          "column": 1,
+          "star": 2,
+          "cost": 3,
+          "role": "ADTank",
+          "items": [],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "별돌보미 상징",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "championId": "TFT17_Mordekaiser",
+          "name": "모데카이저",
+          "row": 2,
+          "column": 2,
+          "star": 2,
+          "cost": 2,
+          "role": "APTank",
+          "items": [],
+          "recommendedItems": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "용의 발톱"
+          ]
+        },
+        {
           "championId": "TFT17_Morgana",
           "name": "모르가나",
-          "row": 0,
-          "column": 1,
+          "row": 2,
+          "column": 3,
           "star": 2,
           "cost": 4,
           "role": "APTank",
           "items": [
-            "크라운가드",
+            "수호자의 맹세",
             "워모그의 갑옷",
-            "가고일 돌갑옷"
+            "덤불 조끼"
           ],
           "recommendedItems": [
             "가고일 돌갑옷",
@@ -4653,134 +5316,45 @@
           ]
         },
         {
-          "championId": "TFT17_TahmKench",
-          "name": "탐 켄치",
-          "row": 0,
-          "column": 2,
-          "star": 2,
-          "cost": 4,
-          "role": "APTank",
-          "items": [
-            "굳건한 심장",
-            "정령의 형상",
-            "워모그의 갑옷"
-          ],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "정령의 형상",
-            "태양불꽃 망토",
-            "수호자의 맹세"
-          ]
-        },
-        {
-          "championId": "TFT17_Maokai",
-          "name": "마오카이",
-          "row": 0,
-          "column": 4,
-          "star": 2,
-          "cost": 3,
-          "role": "APTank",
-          "items": [],
-          "recommendedItems": [
-            "워모그의 갑옷",
-            "가고일 돌갑옷",
-            "정령의 형상",
-            "태양불꽃 망토",
-            "수호자의 맹세"
-          ]
-        },
-        {
-          "championId": "TFT17_Aatrox",
-          "name": "아트록스",
-          "row": 0,
-          "column": 5,
-          "star": 2,
-          "cost": 1,
-          "role": "ADTank",
-          "items": [],
-          "recommendedItems": [
-            "별돌보미 상징",
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "정령의 형상",
-            "태양불꽃 망토"
-          ]
-        },
-        {
-          "championId": "TFT17_Belveth",
-          "name": "벨베스",
-          "row": 1,
-          "column": 1,
-          "star": 2,
-          "cost": 2,
-          "role": "ADFighter",
-          "items": [],
-          "recommendedItems": [
-            "거인 학살자",
-            "수은",
-            "크라켄의 분노",
-            "구인수의 격노검",
-            "피바라기"
-          ]
-        },
-        {
-          "championId": "TFT17_Kindred",
-          "name": "킨드레드",
+          "championId": "TFT17_AurelionSol",
+          "name": "아우렐리온 솔",
           "row": 3,
           "column": 0,
           "star": 2,
           "cost": 4,
-          "role": "ADCarry",
+          "role": "APCaster",
           "items": [
-            "구인수의 격노검",
-            "크라켄의 분노",
-            "타격대의 철퇴"
+            "보석 건틀릿",
+            "라바돈의 죽음모자",
+            "절멸자"
           ],
           "recommendedItems": [
-            "구인수의 격노검",
-            "크라켄의 분노",
+            "보석 건틀릿",
+            "라바돈의 죽음모자",
+            "공허의 지팡이",
             "거인 학살자",
-            "무한의 대검",
-            "죽음의 검"
+            "타격대의 철퇴"
           ]
         },
         {
-          "championId": "TFT17_Akali",
-          "name": "아칼리",
+          "championId": "TFT17_Karma",
+          "name": "카르마",
           "row": 3,
           "column": 1,
           "star": 2,
-          "cost": 2,
-          "role": "ADFighter",
+          "cost": 4,
+          "role": "APCaster",
           "items": [
-            "마법공학 총검",
-            "타격대의 철퇴",
-            "스테락의 도전"
+            "모렐로노미콘",
+            "공허의 지팡이",
+            "쇼진의 창"
           ],
           "recommendedItems": [
-            "마법공학 총검",
-            "타격대의 철퇴",
-            "죽음의 검",
-            "정의의 손길",
-            "밤의 끝자락"
-          ]
-        },
-        {
-          "championId": "TFT17_Caitlyn",
-          "name": "케이틀린",
-          "row": 3,
-          "column": 6,
-          "star": 2,
-          "cost": 1,
-          "role": "ADSpecialist",
-          "items": [],
-          "recommendedItems": [
-            "구인수의 격노검",
-            "죽음의 검",
-            "거인 학살자",
-            "무한의 대검",
-            "크라켄의 분노"
+            "공허의 지팡이",
+            "보석 건틀릿",
+            "쇼진의 창",
+            "모렐로노미콘",
+            "라바돈의 죽음모자"
           ]
         }
       ],
@@ -4791,17 +5365,38 @@
           "stage": "2스테이지 · 핵심 4기",
           "units": [
             {
+              "championId": "TFT17_Galio",
+              "name": "거대 메크 로봇",
+              "row": 0,
+              "column": 3,
+              "star": 2,
+              "cost": 4,
+              "role": "ADTank",
+              "items": [
+                "가고일 돌갑옷",
+                "가고일 돌갑옷",
+                "사자의 비가"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "스테락의 도전",
+                "태양불꽃 망토"
+              ]
+            },
+            {
               "championId": "TFT17_Morgana",
               "name": "모르가나",
-              "row": 0,
-              "column": 1,
+              "row": 2,
+              "column": 3,
               "star": 2,
               "cost": 4,
               "role": "APTank",
               "items": [
-                "크라운가드",
+                "수호자의 맹세",
                 "워모그의 갑옷",
-                "가고일 돌갑옷"
+                "덤불 조끼"
               ],
               "recommendedItems": [
                 "가고일 돌갑옷",
@@ -4812,58 +5407,45 @@
               ]
             },
             {
-              "championId": "TFT17_Aatrox",
-              "name": "아트록스",
-              "row": 0,
-              "column": 5,
+              "championId": "TFT17_AurelionSol",
+              "name": "아우렐리온 솔",
+              "row": 3,
+              "column": 0,
               "star": 2,
-              "cost": 1,
-              "role": "ADTank",
-              "items": [],
+              "cost": 4,
+              "role": "APCaster",
+              "items": [
+                "보석 건틀릿",
+                "라바돈의 죽음모자",
+                "절멸자"
+              ],
               "recommendedItems": [
-                "별돌보미 상징",
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토"
+                "보석 건틀릿",
+                "라바돈의 죽음모자",
+                "공허의 지팡이",
+                "거인 학살자",
+                "타격대의 철퇴"
               ]
             },
             {
-              "championId": "TFT17_Akali",
-              "name": "아칼리",
+              "championId": "TFT17_Karma",
+              "name": "카르마",
               "row": 3,
               "column": 1,
               "star": 2,
-              "cost": 2,
-              "role": "ADFighter",
+              "cost": 4,
+              "role": "APCaster",
               "items": [
-                "마법공학 총검",
-                "타격대의 철퇴",
-                "스테락의 도전"
+                "모렐로노미콘",
+                "공허의 지팡이",
+                "쇼진의 창"
               ],
               "recommendedItems": [
-                "마법공학 총검",
-                "타격대의 철퇴",
-                "죽음의 검",
-                "정의의 손길",
-                "밤의 끝자락"
-              ]
-            },
-            {
-              "championId": "TFT17_Caitlyn",
-              "name": "케이틀린",
-              "row": 3,
-              "column": 6,
-              "star": 2,
-              "cost": 1,
-              "role": "ADSpecialist",
-              "items": [],
-              "recommendedItems": [
-                "구인수의 격노검",
-                "죽음의 검",
-                "거인 학살자",
-                "무한의 대검",
-                "크라켄의 분노"
+                "공허의 지팡이",
+                "보석 건틀릿",
+                "쇼진의 창",
+                "모렐로노미콘",
+                "라바돈의 죽음모자"
               ]
             }
           ]
@@ -4874,17 +5456,72 @@
           "stage": "3스테이지 · 핵심 6기",
           "units": [
             {
+              "championId": "TFT17_Galio",
+              "name": "거대 메크 로봇",
+              "row": 0,
+              "column": 3,
+              "star": 2,
+              "cost": 4,
+              "role": "ADTank",
+              "items": [
+                "가고일 돌갑옷",
+                "가고일 돌갑옷",
+                "사자의 비가"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "스테락의 도전",
+                "태양불꽃 망토"
+              ]
+            },
+            {
+              "championId": "TFT17_Rhaast",
+              "name": "라아스트",
+              "row": 2,
+              "column": 1,
+              "star": 2,
+              "cost": 3,
+              "role": "ADTank",
+              "items": [],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "별돌보미 상징",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Mordekaiser",
+              "name": "모데카이저",
+              "row": 2,
+              "column": 2,
+              "star": 2,
+              "cost": 2,
+              "role": "APTank",
+              "items": [],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "용의 발톱"
+              ]
+            },
+            {
               "championId": "TFT17_Morgana",
               "name": "모르가나",
-              "row": 0,
-              "column": 1,
+              "row": 2,
+              "column": 3,
               "star": 2,
               "cost": 4,
               "role": "APTank",
               "items": [
-                "크라운가드",
+                "수호자의 맹세",
                 "워모그의 갑옷",
-                "가고일 돌갑옷"
+                "덤불 조끼"
               ],
               "recommendedItems": [
                 "가고일 돌갑옷",
@@ -4895,100 +5532,45 @@
               ]
             },
             {
-              "championId": "TFT17_TahmKench",
-              "name": "탐 켄치",
-              "row": 0,
-              "column": 2,
-              "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "굳건한 심장",
-                "정령의 형상",
-                "워모그의 갑옷"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Aatrox",
-              "name": "아트록스",
-              "row": 0,
-              "column": 5,
-              "star": 2,
-              "cost": 1,
-              "role": "ADTank",
-              "items": [],
-              "recommendedItems": [
-                "별돌보미 상징",
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토"
-              ]
-            },
-            {
-              "championId": "TFT17_Kindred",
-              "name": "킨드레드",
+              "championId": "TFT17_AurelionSol",
+              "name": "아우렐리온 솔",
               "row": 3,
               "column": 0,
               "star": 2,
               "cost": 4,
-              "role": "ADCarry",
+              "role": "APCaster",
               "items": [
-                "구인수의 격노검",
-                "크라켄의 분노",
-                "타격대의 철퇴"
+                "보석 건틀릿",
+                "라바돈의 죽음모자",
+                "절멸자"
               ],
               "recommendedItems": [
-                "구인수의 격노검",
-                "크라켄의 분노",
+                "보석 건틀릿",
+                "라바돈의 죽음모자",
+                "공허의 지팡이",
                 "거인 학살자",
-                "무한의 대검",
-                "죽음의 검"
+                "타격대의 철퇴"
               ]
             },
             {
-              "championId": "TFT17_Akali",
-              "name": "아칼리",
+              "championId": "TFT17_Karma",
+              "name": "카르마",
               "row": 3,
               "column": 1,
               "star": 2,
-              "cost": 2,
-              "role": "ADFighter",
+              "cost": 4,
+              "role": "APCaster",
               "items": [
-                "마법공학 총검",
-                "타격대의 철퇴",
-                "스테락의 도전"
+                "모렐로노미콘",
+                "공허의 지팡이",
+                "쇼진의 창"
               ],
               "recommendedItems": [
-                "마법공학 총검",
-                "타격대의 철퇴",
-                "죽음의 검",
-                "정의의 손길",
-                "밤의 끝자락"
-              ]
-            },
-            {
-              "championId": "TFT17_Caitlyn",
-              "name": "케이틀린",
-              "row": 3,
-              "column": 6,
-              "star": 2,
-              "cost": 1,
-              "role": "ADSpecialist",
-              "items": [],
-              "recommendedItems": [
-                "구인수의 격노검",
-                "죽음의 검",
-                "거인 학살자",
-                "무한의 대검",
-                "크라켄의 분노"
+                "공허의 지팡이",
+                "보석 건틀릿",
+                "쇼진의 창",
+                "모렐로노미콘",
+                "라바돈의 죽음모자"
               ]
             }
           ]
@@ -4999,17 +5581,72 @@
           "stage": "4스테이지 이후 · 완성 배치",
           "units": [
             {
+              "championId": "TFT17_Galio",
+              "name": "거대 메크 로봇",
+              "row": 0,
+              "column": 3,
+              "star": 2,
+              "cost": 4,
+              "role": "ADTank",
+              "items": [
+                "가고일 돌갑옷",
+                "가고일 돌갑옷",
+                "사자의 비가"
+              ],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "스테락의 도전",
+                "태양불꽃 망토"
+              ]
+            },
+            {
+              "championId": "TFT17_Rhaast",
+              "name": "라아스트",
+              "row": 2,
+              "column": 1,
+              "star": 2,
+              "cost": 3,
+              "role": "ADTank",
+              "items": [],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "별돌보미 상징",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Mordekaiser",
+              "name": "모데카이저",
+              "row": 2,
+              "column": 2,
+              "star": 2,
+              "cost": 2,
+              "role": "APTank",
+              "items": [],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "용의 발톱"
+              ]
+            },
+            {
               "championId": "TFT17_Morgana",
               "name": "모르가나",
-              "row": 0,
-              "column": 1,
+              "row": 2,
+              "column": 3,
               "star": 2,
               "cost": 4,
               "role": "APTank",
               "items": [
-                "크라운가드",
+                "수호자의 맹세",
                 "워모그의 갑옷",
-                "가고일 돌갑옷"
+                "덤불 조끼"
               ],
               "recommendedItems": [
                 "가고일 돌갑옷",
@@ -5020,134 +5657,45 @@
               ]
             },
             {
-              "championId": "TFT17_TahmKench",
-              "name": "탐 켄치",
-              "row": 0,
-              "column": 2,
-              "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "굳건한 심장",
-                "정령의 형상",
-                "워모그의 갑옷"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Maokai",
-              "name": "마오카이",
-              "row": 0,
-              "column": 4,
-              "star": 2,
-              "cost": 3,
-              "role": "APTank",
-              "items": [],
-              "recommendedItems": [
-                "워모그의 갑옷",
-                "가고일 돌갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Aatrox",
-              "name": "아트록스",
-              "row": 0,
-              "column": 5,
-              "star": 2,
-              "cost": 1,
-              "role": "ADTank",
-              "items": [],
-              "recommendedItems": [
-                "별돌보미 상징",
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토"
-              ]
-            },
-            {
-              "championId": "TFT17_Belveth",
-              "name": "벨베스",
-              "row": 1,
-              "column": 1,
-              "star": 2,
-              "cost": 2,
-              "role": "ADFighter",
-              "items": [],
-              "recommendedItems": [
-                "거인 학살자",
-                "수은",
-                "크라켄의 분노",
-                "구인수의 격노검",
-                "피바라기"
-              ]
-            },
-            {
-              "championId": "TFT17_Kindred",
-              "name": "킨드레드",
+              "championId": "TFT17_AurelionSol",
+              "name": "아우렐리온 솔",
               "row": 3,
               "column": 0,
               "star": 2,
               "cost": 4,
-              "role": "ADCarry",
+              "role": "APCaster",
               "items": [
-                "구인수의 격노검",
-                "크라켄의 분노",
-                "타격대의 철퇴"
+                "보석 건틀릿",
+                "라바돈의 죽음모자",
+                "절멸자"
               ],
               "recommendedItems": [
-                "구인수의 격노검",
-                "크라켄의 분노",
+                "보석 건틀릿",
+                "라바돈의 죽음모자",
+                "공허의 지팡이",
                 "거인 학살자",
-                "무한의 대검",
-                "죽음의 검"
+                "타격대의 철퇴"
               ]
             },
             {
-              "championId": "TFT17_Akali",
-              "name": "아칼리",
+              "championId": "TFT17_Karma",
+              "name": "카르마",
               "row": 3,
               "column": 1,
               "star": 2,
-              "cost": 2,
-              "role": "ADFighter",
+              "cost": 4,
+              "role": "APCaster",
               "items": [
-                "마법공학 총검",
-                "타격대의 철퇴",
-                "스테락의 도전"
+                "모렐로노미콘",
+                "공허의 지팡이",
+                "쇼진의 창"
               ],
               "recommendedItems": [
-                "마법공학 총검",
-                "타격대의 철퇴",
-                "죽음의 검",
-                "정의의 손길",
-                "밤의 끝자락"
-              ]
-            },
-            {
-              "championId": "TFT17_Caitlyn",
-              "name": "케이틀린",
-              "row": 3,
-              "column": 6,
-              "star": 2,
-              "cost": 1,
-              "role": "ADSpecialist",
-              "items": [],
-              "recommendedItems": [
-                "구인수의 격노검",
-                "죽음의 검",
-                "거인 학살자",
-                "무한의 대검",
-                "크라켄의 분노"
+                "공허의 지팡이",
+                "보석 건틀릿",
+                "쇼진의 창",
+                "모렐로노미콘",
+                "라바돈의 죽음모자"
               ]
             }
           ]
@@ -5157,45 +5705,34 @@
         {
           "out": [],
           "in": [
-            "라아스트",
-            "피오라",
-            "그레이브즈"
-          ],
-          "note": "TFTactics 메타 대체안"
-        },
-        {
-          "out": [
-            "쉔"
-          ],
-          "in": [
-            "잭스"
+            "모르가나"
           ],
           "note": "TFTactics 메타 대체안"
         }
       ]
     },
     {
-      "id": "9ad3e8ffa3b33a7559ecd6de4d683b89",
-      "title": "별돌보미 자야",
+      "id": "b01644875835d469c450fda750ac559c",
+      "title": "[상징] 우주 그루브 나미",
       "tier": "A",
       "patch": "17.9",
-      "teamCode": "0204f03902102c03801e01d03f023000TFTSet17",
+      "teamCode": "0204f03902503803603c03b037035000TFTSet17",
       "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
       "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
-      "teamBuilderKey": "c83c5b08cc2b07ab8c96e43781dca8afca2722e1",
+      "teamBuilderKey": "fd2ed0f6cbc3fb4e5110631e0a6fc767c5d66ebf",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
-      "sourceUrl": "https://lolchess.gg/builder/guide/c83c5b08cc2b07ab8c96e43781dca8afca2722e1?type=guide",
-      "sourceMatch": 1,
-      "averagePlace": 4.49,
-      "top4Rate": 48.8,
-      "pickRate": 0.46,
+      "sourceUrl": "https://lolchess.gg/builder/guide/fd2ed0f6cbc3fb4e5110631e0a6fc767c5d66ebf?type=guide",
+      "sourceMatch": 0.727,
+      "averagePlace": 4.5,
+      "top4Rate": 49.66,
+      "pickRate": 0.7,
       "levelPlan": {
-        "2-3": 4,
-        "3-1": 5,
+        "2-1": 4,
+        "2-5": 5,
         "3-2": 6,
         "3-5": 7,
         "4-2": 8,
-        "4-5": 9
+        "5-1": 9
       },
       "units": [
         {
@@ -5207,9 +5744,9 @@
           "cost": 4,
           "role": "APTank",
           "items": [
+            "우주 그루브 상징",
             "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "굳건한 심장"
+            "워모그의 갑옷"
           ],
           "recommendedItems": [
             "가고일 돌갑옷",
@@ -5227,11 +5764,7 @@
           "star": 2,
           "cost": 4,
           "role": "APTank",
-          "items": [
-            "수호자의 맹세",
-            "수호자의 맹세",
-            "적응형 투구"
-          ],
+          "items": [],
           "recommendedItems": [
             "수호자의 맹세",
             "가고일 돌갑옷",
@@ -5241,37 +5774,20 @@
           ]
         },
         {
-          "championId": "TFT17_Rhaast",
-          "name": "라아스트",
+          "championId": "TFT17_Pantheon",
+          "name": "판테온",
           "row": 0,
-          "column": 5,
+          "column": 6,
           "star": 2,
-          "cost": 3,
+          "cost": 2,
           "role": "ADTank",
           "items": [],
           "recommendedItems": [
             "가고일 돌갑옷",
             "워모그의 갑옷",
             "정령의 형상",
-            "별돌보미 상징",
+            "용의 발톱",
             "수호자의 맹세"
-          ]
-        },
-        {
-          "championId": "TFT17_Jax",
-          "name": "잭스",
-          "row": 0,
-          "column": 6,
-          "star": 2,
-          "cost": 2,
-          "role": "APTank",
-          "items": [],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "크라운가드",
-            "워모그의 갑옷",
-            "수호자의 맹세",
-            "정령의 형상"
           ]
         },
         {
@@ -5282,7 +5798,11 @@
           "star": 2,
           "cost": 5,
           "role": "APFighter",
-          "items": [],
+          "items": [
+            "피바라기",
+            "모렐로노미콘",
+            "이온 충격기"
+          ],
           "recommendedItems": [
             "보석 건틀릿",
             "정의의 손길",
@@ -5292,8 +5812,19 @@
           ]
         },
         {
-          "championId": "TFT17_Maokai",
-          "name": "마오카이",
+          "championId": "TFT17_ShenProp",
+          "name": "유물",
+          "row": 1,
+          "column": 2,
+          "star": 2,
+          "cost": 1,
+          "role": "",
+          "items": [],
+          "recommendedItems": []
+        },
+        {
+          "championId": "TFT17_Ornn",
+          "name": "오른",
           "row": 1,
           "column": 3,
           "star": 2,
@@ -5301,70 +5832,85 @@
           "role": "APTank",
           "items": [],
           "recommendedItems": [
-            "워모그의 갑옷",
-            "가고일 돌갑옷",
-            "정령의 형상",
-            "태양불꽃 망토",
-            "수호자의 맹세"
-          ]
-        },
-        {
-          "championId": "TFT17_Aatrox",
-          "name": "아트록스",
-          "row": 1,
-          "column": 5,
-          "star": 2,
-          "cost": 1,
-          "role": "ADTank",
-          "items": [],
-          "recommendedItems": [
-            "별돌보미 상징",
             "가고일 돌갑옷",
             "워모그의 갑옷",
             "정령의 형상",
+            "용의 발톱",
             "태양불꽃 망토"
           ]
         },
         {
-          "championId": "TFT17_Xayah",
-          "name": "자야",
+          "championId": "TFT17_Riven",
+          "name": "리븐",
+          "row": 2,
+          "column": 2,
+          "star": 2,
+          "cost": 4,
+          "role": "HFighter",
+          "items": [
+            "도적의 장갑"
+          ],
+          "recommendedItems": [
+            "피바라기",
+            "스테락의 도전",
+            "정의의 손길",
+            "거인의 결의",
+            "밤의 끝자락"
+          ]
+        },
+        {
+          "championId": "TFT17_Shen",
+          "name": "쉔",
+          "row": 2,
+          "column": 3,
+          "star": 2,
+          "cost": 5,
+          "role": "APFighter",
+          "items": [],
+          "recommendedItems": [
+            "피바라기",
+            "정의의 손길",
+            "적응형 투구",
+            "별돌보미 상징",
+            "밤의 끝자락"
+          ]
+        },
+        {
+          "championId": "TFT17_Nami",
+          "name": "나미",
           "row": 3,
           "column": 0,
           "star": 2,
           "cost": 4,
-          "role": "ADCarry",
+          "role": "APCaster",
           "items": [
-            "크라켄의 분노",
-            "크라켄의 분노",
-            "붉은 덩굴정령"
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "내셔의 이빨"
           ],
           "recommendedItems": [
-            "크라켄의 분노",
-            "붉은 덩굴정령",
-            "구인수의 격노검",
-            "무한의 대검",
-            "최후의 속삭임"
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "쇼진의 창",
+            "라바돈의 죽음모자",
+            "공허의 지팡이"
           ]
         },
         {
-          "championId": "TFT17_Jhin",
-          "name": "진",
+          "championId": "TFT17_Gwen",
+          "name": "그웬",
           "row": 3,
-          "column": 1,
+          "column": 2,
           "star": 2,
-          "cost": 5,
-          "role": "ADCarry",
-          "items": [
-            "무한의 대검",
-            "타격대의 철퇴",
-            "거인 학살자"
-          ],
+          "cost": 2,
+          "role": "APReaper",
+          "items": [],
           "recommendedItems": [
-            "무한의 대검",
-            "거인 학살자",
-            "죽음의 검",
-            "구인수의 격노검",
-            "최후의 속삭임"
+            "보석 건틀릿",
+            "정의의 손길",
+            "피바라기",
+            "라바돈의 죽음모자",
+            "거인 학살자"
           ]
         }
       ],
@@ -5383,9 +5929,9 @@
               "cost": 4,
               "role": "APTank",
               "items": [
+                "우주 그루브 상징",
                 "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "굳건한 심장"
+                "워모그의 갑옷"
               ],
               "recommendedItems": [
                 "가고일 돌갑옷",
@@ -5396,58 +5942,58 @@
               ]
             },
             {
-              "championId": "TFT17_Nunu",
-              "name": "누누와 윌럼프",
-              "row": 0,
+              "championId": "TFT17_Ornn",
+              "name": "오른",
+              "row": 1,
               "column": 3,
               "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "수호자의 맹세",
-                "수호자의 맹세",
-                "적응형 투구"
-              ],
-              "recommendedItems": [
-                "수호자의 맹세",
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "적응형 투구",
-                "정령의 형상"
-              ]
-            },
-            {
-              "championId": "TFT17_Jax",
-              "name": "잭스",
-              "row": 0,
-              "column": 6,
-              "star": 2,
-              "cost": 2,
+              "cost": 3,
               "role": "APTank",
               "items": [],
               "recommendedItems": [
-                "가고일 돌갑옷",
-                "크라운가드",
-                "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
-              ]
-            },
-            {
-              "championId": "TFT17_Aatrox",
-              "name": "아트록스",
-              "row": 1,
-              "column": 5,
-              "star": 2,
-              "cost": 1,
-              "role": "ADTank",
-              "items": [],
-              "recommendedItems": [
-                "별돌보미 상징",
                 "가고일 돌갑옷",
                 "워모그의 갑옷",
                 "정령의 형상",
+                "용의 발톱",
                 "태양불꽃 망토"
+              ]
+            },
+            {
+              "championId": "TFT17_Nami",
+              "name": "나미",
+              "row": 3,
+              "column": 0,
+              "star": 2,
+              "cost": 4,
+              "role": "APCaster",
+              "items": [
+                "보석 건틀릿",
+                "내셔의 이빨",
+                "내셔의 이빨"
+              ],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "내셔의 이빨",
+                "쇼진의 창",
+                "라바돈의 죽음모자",
+                "공허의 지팡이"
+              ]
+            },
+            {
+              "championId": "TFT17_Gwen",
+              "name": "그웬",
+              "row": 3,
+              "column": 2,
+              "star": 2,
+              "cost": 2,
+              "role": "APReaper",
+              "items": [],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "피바라기",
+                "라바돈의 죽음모자",
+                "거인 학살자"
               ]
             }
           ]
@@ -5466,9 +6012,9 @@
               "cost": 4,
               "role": "APTank",
               "items": [
+                "우주 그루브 상징",
                 "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "굳건한 심장"
+                "워모그의 갑옷"
               ],
               "recommendedItems": [
                 "가고일 돌갑옷",
@@ -5476,186 +6022,6 @@
                 "정령의 형상",
                 "태양불꽃 망토",
                 "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Nunu",
-              "name": "누누와 윌럼프",
-              "row": 0,
-              "column": 3,
-              "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "수호자의 맹세",
-                "수호자의 맹세",
-                "적응형 투구"
-              ],
-              "recommendedItems": [
-                "수호자의 맹세",
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "적응형 투구",
-                "정령의 형상"
-              ]
-            },
-            {
-              "championId": "TFT17_Jax",
-              "name": "잭스",
-              "row": 0,
-              "column": 6,
-              "star": 2,
-              "cost": 2,
-              "role": "APTank",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "크라운가드",
-                "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
-              ]
-            },
-            {
-              "championId": "TFT17_Aatrox",
-              "name": "아트록스",
-              "row": 1,
-              "column": 5,
-              "star": 2,
-              "cost": 1,
-              "role": "ADTank",
-              "items": [],
-              "recommendedItems": [
-                "별돌보미 상징",
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토"
-              ]
-            },
-            {
-              "championId": "TFT17_Xayah",
-              "name": "자야",
-              "row": 3,
-              "column": 0,
-              "star": 2,
-              "cost": 4,
-              "role": "ADCarry",
-              "items": [
-                "크라켄의 분노",
-                "크라켄의 분노",
-                "붉은 덩굴정령"
-              ],
-              "recommendedItems": [
-                "크라켄의 분노",
-                "붉은 덩굴정령",
-                "구인수의 격노검",
-                "무한의 대검",
-                "최후의 속삭임"
-              ]
-            },
-            {
-              "championId": "TFT17_Jhin",
-              "name": "진",
-              "row": 3,
-              "column": 1,
-              "star": 2,
-              "cost": 5,
-              "role": "ADCarry",
-              "items": [
-                "무한의 대검",
-                "타격대의 철퇴",
-                "거인 학살자"
-              ],
-              "recommendedItems": [
-                "무한의 대검",
-                "거인 학살자",
-                "죽음의 검",
-                "구인수의 격노검",
-                "최후의 속삭임"
-              ]
-            }
-          ]
-        },
-        {
-          "key": "final",
-          "label": "최종",
-          "stage": "4스테이지 이후 · 완성 배치",
-          "units": [
-            {
-              "championId": "TFT17_TahmKench",
-              "name": "탐 켄치",
-              "row": 0,
-              "column": 2,
-              "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "굳건한 심장"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Nunu",
-              "name": "누누와 윌럼프",
-              "row": 0,
-              "column": 3,
-              "star": 2,
-              "cost": 4,
-              "role": "APTank",
-              "items": [
-                "수호자의 맹세",
-                "수호자의 맹세",
-                "적응형 투구"
-              ],
-              "recommendedItems": [
-                "수호자의 맹세",
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "적응형 투구",
-                "정령의 형상"
-              ]
-            },
-            {
-              "championId": "TFT17_Rhaast",
-              "name": "라아스트",
-              "row": 0,
-              "column": 5,
-              "star": 2,
-              "cost": 3,
-              "role": "ADTank",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "별돌보미 상징",
-                "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Jax",
-              "name": "잭스",
-              "row": 0,
-              "column": 6,
-              "star": 2,
-              "cost": 2,
-              "role": "APTank",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "크라운가드",
-                "워모그의 갑옷",
-                "수호자의 맹세",
-                "정령의 형상"
               ]
             },
             {
@@ -5666,7 +6032,11 @@
               "star": 2,
               "cost": 5,
               "role": "APFighter",
-              "items": [],
+              "items": [
+                "피바라기",
+                "모렐로노미콘",
+                "이온 충격기"
+              ],
               "recommendedItems": [
                 "보석 건틀릿",
                 "정의의 손길",
@@ -5676,8 +6046,8 @@
               ]
             },
             {
-              "championId": "TFT17_Maokai",
-              "name": "마오카이",
+              "championId": "TFT17_Ornn",
+              "name": "오른",
               "row": 1,
               "column": 3,
               "star": 2,
@@ -5685,472 +6055,67 @@
               "role": "APTank",
               "items": [],
               "recommendedItems": [
-                "워모그의 갑옷",
-                "가고일 돌갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "수호자의 맹세"
-              ]
-            },
-            {
-              "championId": "TFT17_Aatrox",
-              "name": "아트록스",
-              "row": 1,
-              "column": 5,
-              "star": 2,
-              "cost": 1,
-              "role": "ADTank",
-              "items": [],
-              "recommendedItems": [
-                "별돌보미 상징",
                 "가고일 돌갑옷",
                 "워모그의 갑옷",
                 "정령의 형상",
+                "용의 발톱",
                 "태양불꽃 망토"
               ]
             },
             {
-              "championId": "TFT17_Xayah",
-              "name": "자야",
+              "championId": "TFT17_Riven",
+              "name": "리븐",
+              "row": 2,
+              "column": 2,
+              "star": 2,
+              "cost": 4,
+              "role": "HFighter",
+              "items": [
+                "도적의 장갑"
+              ],
+              "recommendedItems": [
+                "피바라기",
+                "스테락의 도전",
+                "정의의 손길",
+                "거인의 결의",
+                "밤의 끝자락"
+              ]
+            },
+            {
+              "championId": "TFT17_Nami",
+              "name": "나미",
               "row": 3,
               "column": 0,
               "star": 2,
               "cost": 4,
-              "role": "ADCarry",
-              "items": [
-                "크라켄의 분노",
-                "크라켄의 분노",
-                "붉은 덩굴정령"
-              ],
-              "recommendedItems": [
-                "크라켄의 분노",
-                "붉은 덩굴정령",
-                "구인수의 격노검",
-                "무한의 대검",
-                "최후의 속삭임"
-              ]
-            },
-            {
-              "championId": "TFT17_Jhin",
-              "name": "진",
-              "row": 3,
-              "column": 1,
-              "star": 2,
-              "cost": 5,
-              "role": "ADCarry",
-              "items": [
-                "무한의 대검",
-                "타격대의 철퇴",
-                "거인 학살자"
-              ],
-              "recommendedItems": [
-                "무한의 대검",
-                "거인 학살자",
-                "죽음의 검",
-                "구인수의 격노검",
-                "최후의 속삭임"
-              ]
-            }
-          ]
-        }
-      ],
-      "substitutions": [
-        {
-          "out": [],
-          "in": [
-            "블리츠크랭크"
-          ],
-          "note": "TFTactics 메타 대체안"
-        }
-      ]
-    },
-    {
-      "id": "c2db6a505e4f7d88ea6091429bf592fe",
-      "title": "시간 균열자 파이크",
-      "tier": "B",
-      "patch": "17.9",
-      "teamCode": "0202503103503d02d03c019000000000TFTSet17",
-      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
-      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
-      "teamBuilderKey": "47215a461a9f8cbde60a1b459f3c759f14cf3144",
-      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
-      "sourceUrl": "https://lolchess.gg/builder/guide/47215a461a9f8cbde60a1b459f3c759f14cf3144?type=guide",
-      "sourceMatch": 0.778,
-      "averagePlace": 4.54,
-      "top4Rate": 51.13,
-      "pickRate": 0.02,
-      "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
-        "3-2": 6,
-        "4-5": 8
-      },
-      "units": [
-        {
-          "championId": "TFT17_Pantheon",
-          "name": "판테온",
-          "row": 1,
-          "column": 0,
-          "star": 3,
-          "cost": 2,
-          "role": "ADTank",
-          "items": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "이온 충격기"
-          ],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "정령의 형상",
-            "용의 발톱",
-            "태양불꽃 망토"
-          ]
-        },
-        {
-          "championId": "TFT17_Gragas",
-          "name": "그라가스",
-          "row": 1,
-          "column": 6,
-          "star": 3,
-          "cost": 2,
-          "role": "APTank",
-          "items": [
-            "가고일 돌갑옷",
-            "태양불꽃 망토",
-            "워모그의 갑옷"
-          ],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "정령의 형상",
-            "태양불꽃 망토",
-            "유기물 보존기"
-          ]
-        },
-        {
-          "championId": "TFT17_Gwen",
-          "name": "그웬",
-          "row": 2,
-          "column": 0,
-          "star": 3,
-          "cost": 2,
-          "role": "APReaper",
-          "items": [
-            "보석 건틀릿",
-            "정의의 손길",
-            "거인 학살자"
-          ],
-          "recommendedItems": [
-            "보석 건틀릿",
-            "정의의 손길",
-            "피바라기",
-            "라바돈의 죽음모자",
-            "거인 학살자"
-          ]
-        },
-        {
-          "championId": "TFT17_IvernMinion",
-          "name": "꼬마 정령",
-          "row": 2,
-          "column": 6,
-          "star": 3,
-          "cost": 2,
-          "role": "APFighter",
-          "items": [],
-          "recommendedItems": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "보석 건틀릿",
-            "정의의 손길",
-            "정령의 형상"
-          ]
-        },
-        {
-          "championId": "TFT17_Milio",
-          "name": "밀리오",
-          "row": 3,
-          "column": 0,
-          "star": 3,
-          "cost": 2,
-          "role": "APCaster",
-          "items": [],
-          "recommendedItems": [
-            "쇼진의 창",
-            "라바돈의 죽음모자",
-            "보석 건틀릿",
-            "내셔의 이빨",
-            "모렐로노미콘"
-          ]
-        },
-        {
-          "championId": "TFT17_Pyke",
-          "name": "파이크",
-          "row": 3,
-          "column": 3,
-          "star": 3,
-          "cost": 2,
-          "role": "ADReaper",
-          "items": [
-            "무한의 대검",
-            "밤의 끝자락",
-            "표적 고정 광학 장치"
-          ],
-          "recommendedItems": [
-            "무한의 대검",
-            "밤의 끝자락",
-            "정의의 손길",
-            "피바라기",
-            "거인 학살자"
-          ]
-        },
-        {
-          "championId": "TFT17_Riven",
-          "name": "리븐",
-          "row": 3,
-          "column": 5,
-          "star": 2,
-          "cost": 4,
-          "role": "HFighter",
-          "items": [],
-          "recommendedItems": [
-            "피바라기",
-            "스테락의 도전",
-            "정의의 손길",
-            "거인의 결의",
-            "밤의 끝자락"
-          ]
-        },
-        {
-          "championId": "TFT17_Corki",
-          "name": "코르키",
-          "row": 3,
-          "column": 6,
-          "star": 2,
-          "cost": 4,
-          "role": "ADCaster",
-          "items": [],
-          "recommendedItems": [
-            "죽음의 검",
-            "거인 학살자",
-            "타격대의 철퇴",
-            "무한의 대검",
-            "최후의 속삭임"
-          ]
-        }
-      ],
-      "phaseBoards": [
-        {
-          "key": "early",
-          "label": "초반",
-          "stage": "2스테이지 · 핵심 4기",
-          "units": [
-            {
-              "championId": "TFT17_Pantheon",
-              "name": "판테온",
-              "row": 1,
-              "column": 0,
-              "star": 3,
-              "cost": 2,
-              "role": "ADTank",
-              "items": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "이온 충격기"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "용의 발톱",
-                "태양불꽃 망토"
-              ]
-            },
-            {
-              "championId": "TFT17_Gragas",
-              "name": "그라가스",
-              "row": 1,
-              "column": 6,
-              "star": 3,
-              "cost": 2,
-              "role": "APTank",
-              "items": [
-                "가고일 돌갑옷",
-                "태양불꽃 망토",
-                "워모그의 갑옷"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "유기물 보존기"
-              ]
-            },
-            {
-              "championId": "TFT17_Gwen",
-              "name": "그웬",
-              "row": 2,
-              "column": 0,
-              "star": 3,
-              "cost": 2,
-              "role": "APReaper",
-              "items": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "거인 학살자"
-              ],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "피바라기",
-                "라바돈의 죽음모자",
-                "거인 학살자"
-              ]
-            },
-            {
-              "championId": "TFT17_Pyke",
-              "name": "파이크",
-              "row": 3,
-              "column": 3,
-              "star": 3,
-              "cost": 2,
-              "role": "ADReaper",
-              "items": [
-                "무한의 대검",
-                "밤의 끝자락",
-                "표적 고정 광학 장치"
-              ],
-              "recommendedItems": [
-                "무한의 대검",
-                "밤의 끝자락",
-                "정의의 손길",
-                "피바라기",
-                "거인 학살자"
-              ]
-            }
-          ]
-        },
-        {
-          "key": "mid",
-          "label": "중반",
-          "stage": "3스테이지 · 핵심 6기",
-          "units": [
-            {
-              "championId": "TFT17_Pantheon",
-              "name": "판테온",
-              "row": 1,
-              "column": 0,
-              "star": 3,
-              "cost": 2,
-              "role": "ADTank",
-              "items": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "이온 충격기"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "용의 발톱",
-                "태양불꽃 망토"
-              ]
-            },
-            {
-              "championId": "TFT17_Gragas",
-              "name": "그라가스",
-              "row": 1,
-              "column": 6,
-              "star": 3,
-              "cost": 2,
-              "role": "APTank",
-              "items": [
-                "가고일 돌갑옷",
-                "태양불꽃 망토",
-                "워모그의 갑옷"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "유기물 보존기"
-              ]
-            },
-            {
-              "championId": "TFT17_Gwen",
-              "name": "그웬",
-              "row": 2,
-              "column": 0,
-              "star": 3,
-              "cost": 2,
-              "role": "APReaper",
-              "items": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "거인 학살자"
-              ],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "피바라기",
-                "라바돈의 죽음모자",
-                "거인 학살자"
-              ]
-            },
-            {
-              "championId": "TFT17_IvernMinion",
-              "name": "꼬마 정령",
-              "row": 2,
-              "column": 6,
-              "star": 3,
-              "cost": 2,
-              "role": "APFighter",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "보석 건틀릿",
-                "정의의 손길",
-                "정령의 형상"
-              ]
-            },
-            {
-              "championId": "TFT17_Milio",
-              "name": "밀리오",
-              "row": 3,
-              "column": 0,
-              "star": 3,
-              "cost": 2,
               "role": "APCaster",
-              "items": [],
-              "recommendedItems": [
-                "쇼진의 창",
-                "라바돈의 죽음모자",
+              "items": [
                 "보석 건틀릿",
                 "내셔의 이빨",
-                "모렐로노미콘"
+                "내셔의 이빨"
+              ],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "내셔의 이빨",
+                "쇼진의 창",
+                "라바돈의 죽음모자",
+                "공허의 지팡이"
               ]
             },
             {
-              "championId": "TFT17_Pyke",
-              "name": "파이크",
+              "championId": "TFT17_Gwen",
+              "name": "그웬",
               "row": 3,
-              "column": 3,
-              "star": 3,
+              "column": 2,
+              "star": 2,
               "cost": 2,
-              "role": "ADReaper",
-              "items": [
-                "무한의 대검",
-                "밤의 끝자락",
-                "표적 고정 광학 장치"
-              ],
+              "role": "APReaper",
+              "items": [],
               "recommendedItems": [
-                "무한의 대검",
-                "밤의 끝자락",
+                "보석 건틀릿",
                 "정의의 손길",
                 "피바라기",
+                "라바돈의 죽음모자",
                 "거인 학살자"
               ]
             }
@@ -6162,18 +6127,101 @@
           "stage": "4스테이지 이후 · 완성 배치",
           "units": [
             {
-              "championId": "TFT17_Pantheon",
-              "name": "판테온",
-              "row": 1,
-              "column": 0,
-              "star": 3,
-              "cost": 2,
-              "role": "ADTank",
+              "championId": "TFT17_TahmKench",
+              "name": "탐 켄치",
+              "row": 0,
+              "column": 2,
+              "star": 2,
+              "cost": 4,
+              "role": "APTank",
               "items": [
+                "우주 그루브 상징",
+                "가고일 돌갑옷",
+                "워모그의 갑옷"
+              ],
+              "recommendedItems": [
                 "가고일 돌갑옷",
                 "워모그의 갑옷",
+                "정령의 형상",
+                "태양불꽃 망토",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Nunu",
+              "name": "누누와 윌럼프",
+              "row": 0,
+              "column": 3,
+              "star": 2,
+              "cost": 4,
+              "role": "APTank",
+              "items": [],
+              "recommendedItems": [
+                "수호자의 맹세",
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "적응형 투구",
+                "정령의 형상"
+              ]
+            },
+            {
+              "championId": "TFT17_Pantheon",
+              "name": "판테온",
+              "row": 0,
+              "column": 6,
+              "star": 2,
+              "cost": 2,
+              "role": "ADTank",
+              "items": [],
+              "recommendedItems": [
+                "가고일 돌갑옷",
+                "워모그의 갑옷",
+                "정령의 형상",
+                "용의 발톱",
+                "수호자의 맹세"
+              ]
+            },
+            {
+              "championId": "TFT17_Blitzcrank",
+              "name": "블리츠크랭크",
+              "row": 1,
+              "column": 1,
+              "star": 2,
+              "cost": 5,
+              "role": "APFighter",
+              "items": [
+                "피바라기",
+                "모렐로노미콘",
                 "이온 충격기"
               ],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "피바라기",
+                "라바돈의 죽음모자",
+                "모렐로노미콘"
+              ]
+            },
+            {
+              "championId": "TFT17_ShenProp",
+              "name": "유물",
+              "row": 1,
+              "column": 2,
+              "star": 2,
+              "cost": 1,
+              "role": "",
+              "items": [],
+              "recommendedItems": []
+            },
+            {
+              "championId": "TFT17_Ornn",
+              "name": "오른",
+              "row": 1,
+              "column": 3,
+              "star": 2,
+              "cost": 3,
+              "role": "APTank",
+              "items": [],
               "recommendedItems": [
                 "가고일 돌갑옷",
                 "워모그의 갑옷",
@@ -6183,111 +6231,16 @@
               ]
             },
             {
-              "championId": "TFT17_Gragas",
-              "name": "그라가스",
-              "row": 1,
-              "column": 6,
-              "star": 3,
-              "cost": 2,
-              "role": "APTank",
-              "items": [
-                "가고일 돌갑옷",
-                "태양불꽃 망토",
-                "워모그의 갑옷"
-              ],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "정령의 형상",
-                "태양불꽃 망토",
-                "유기물 보존기"
-              ]
-            },
-            {
-              "championId": "TFT17_Gwen",
-              "name": "그웬",
-              "row": 2,
-              "column": 0,
-              "star": 3,
-              "cost": 2,
-              "role": "APReaper",
-              "items": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "거인 학살자"
-              ],
-              "recommendedItems": [
-                "보석 건틀릿",
-                "정의의 손길",
-                "피바라기",
-                "라바돈의 죽음모자",
-                "거인 학살자"
-              ]
-            },
-            {
-              "championId": "TFT17_IvernMinion",
-              "name": "꼬마 정령",
-              "row": 2,
-              "column": 6,
-              "star": 3,
-              "cost": 2,
-              "role": "APFighter",
-              "items": [],
-              "recommendedItems": [
-                "가고일 돌갑옷",
-                "워모그의 갑옷",
-                "보석 건틀릿",
-                "정의의 손길",
-                "정령의 형상"
-              ]
-            },
-            {
-              "championId": "TFT17_Milio",
-              "name": "밀리오",
-              "row": 3,
-              "column": 0,
-              "star": 3,
-              "cost": 2,
-              "role": "APCaster",
-              "items": [],
-              "recommendedItems": [
-                "쇼진의 창",
-                "라바돈의 죽음모자",
-                "보석 건틀릿",
-                "내셔의 이빨",
-                "모렐로노미콘"
-              ]
-            },
-            {
-              "championId": "TFT17_Pyke",
-              "name": "파이크",
-              "row": 3,
-              "column": 3,
-              "star": 3,
-              "cost": 2,
-              "role": "ADReaper",
-              "items": [
-                "무한의 대검",
-                "밤의 끝자락",
-                "표적 고정 광학 장치"
-              ],
-              "recommendedItems": [
-                "무한의 대검",
-                "밤의 끝자락",
-                "정의의 손길",
-                "피바라기",
-                "거인 학살자"
-              ]
-            },
-            {
               "championId": "TFT17_Riven",
               "name": "리븐",
-              "row": 3,
-              "column": 5,
+              "row": 2,
+              "column": 2,
               "star": 2,
               "cost": 4,
               "role": "HFighter",
-              "items": [],
+              "items": [
+                "도적의 장갑"
+              ],
               "recommendedItems": [
                 "피바라기",
                 "스테락의 도전",
@@ -6297,26 +6250,73 @@
               ]
             },
             {
-              "championId": "TFT17_Corki",
-              "name": "코르키",
-              "row": 3,
-              "column": 6,
+              "championId": "TFT17_Shen",
+              "name": "쉔",
+              "row": 2,
+              "column": 3,
               "star": 2,
-              "cost": 4,
-              "role": "ADCaster",
+              "cost": 5,
+              "role": "APFighter",
               "items": [],
               "recommendedItems": [
-                "죽음의 검",
-                "거인 학살자",
-                "타격대의 철퇴",
-                "무한의 대검",
-                "최후의 속삭임"
+                "피바라기",
+                "정의의 손길",
+                "적응형 투구",
+                "별돌보미 상징",
+                "밤의 끝자락"
+              ]
+            },
+            {
+              "championId": "TFT17_Nami",
+              "name": "나미",
+              "row": 3,
+              "column": 0,
+              "star": 2,
+              "cost": 4,
+              "role": "APCaster",
+              "items": [
+                "보석 건틀릿",
+                "내셔의 이빨",
+                "내셔의 이빨"
+              ],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "내셔의 이빨",
+                "쇼진의 창",
+                "라바돈의 죽음모자",
+                "공허의 지팡이"
+              ]
+            },
+            {
+              "championId": "TFT17_Gwen",
+              "name": "그웬",
+              "row": 3,
+              "column": 2,
+              "star": 2,
+              "cost": 2,
+              "role": "APReaper",
+              "items": [],
+              "recommendedItems": [
+                "보석 건틀릿",
+                "정의의 손길",
+                "피바라기",
+                "라바돈의 죽음모자",
+                "거인 학살자"
               ]
             }
           ]
         }
       ],
-      "substitutions": []
+      "substitutions": [
+        {
+          "out": [],
+          "in": [
+            "나서스",
+            "누누와 윌럼프"
+          ],
+          "note": "TFTactics 메타 대체안"
+        }
+      ]
     },
     {
       "id": "8b75f33f6abbd50438a5eab6cd088a5c",
@@ -6330,8 +6330,8 @@
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/ffdb65c0ee7696ca1d6017feeeb8572a628f5cdc?type=guide",
       "sourceMatch": 0.778,
-      "averagePlace": 4.54,
-      "top4Rate": 51.05,
+      "averagePlace": 4.56,
+      "top4Rate": 51.13,
       "pickRate": 0.16,
       "levelPlan": {
         "2-1": 4,
@@ -7648,7 +7648,7 @@
       "compatibleDecks": [
         "별돌보미 룰루",
         "전달자 미스 포츈",
-        "메카 아우렐리온 솔"
+        "별돌보미 자야"
       ],
       "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
@@ -8050,8 +8050,8 @@
       "rarity": "골드",
       "compatibleDecks": [
         "별돌보미 룰루",
-        "[상징] 우주 그루브 나미",
-        "시간 균열자 파이크"
+        "시간 균열자 파이크",
+        "[상징] 우주 그루브 나미"
       ],
       "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
@@ -8680,8 +8680,8 @@
       "rarity": "골드",
       "compatibleDecks": [
         "전달자 미스 포츈",
-        "습격자 마스터 이",
-        "시간 균열자 파이크"
+        "시간 균열자 파이크",
+        "습격자 마스터 이"
       ],
       "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
