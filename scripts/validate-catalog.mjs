@@ -33,9 +33,6 @@ for (const augment of catalog.augments || []) {
     if (!augment.id || !augment.name || !["S", "A", "B", "C"].includes(augment.tier)) {
         errors.push(`invalid augment ${augment.id || augment.name}`);
     }
-    if (augment.pickRate !== null && !Number.isFinite(augment.pickRate)) {
-        errors.push(`${augment.name}: invalid pickRate`);
-    }
 }
 
 if (errors.length) {

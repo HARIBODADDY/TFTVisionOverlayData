@@ -397,10 +397,7 @@ async function main() {
                 id,
                 name: augment.name,
                 tier,
-                pickRate: Number.isFinite(existing?.pickRate) ? existing.pickRate : null,
-                sourceLabel: Number.isFinite(existing?.pickRate)
-                    ? "LoLCHESS.GG 티어 · 기존 검증 픽률 병합"
-                    : "LoLCHESS.GG 티어 · 픽률 비공개"
+                sourceLabel: "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
             };
         })
         .sort((a, b) => a.name.localeCompare(b.name, "ko"));

@@ -1299,1905 +1299,1633 @@
       "id": "TFT_Augment_GainGold",
       "name": "?골드 획득",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TwoMuchValue",
       "name": "2만한 가치",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_DuoQueue",
       "name": "2인조",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_LegionOfThrees",
       "name": "3단계 군단",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MayTheFoursBeWithYou",
       "name": "4가 함께하길",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_Reinfourcement",
       "name": "4후지원",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BranchingOut",
       "name": "가지 뻗기",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BranchingOutPlus",
       "name": "가지 뻗기+",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_LivingForge",
       "name": "간이 대장간",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_WarmogsBuckle",
       "name": "강철의 심장",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GiantAndMighty",
       "name": "거대하고 강력한",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_TradeSector2",
       "name": "거래 중심지",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ForgeSword",
       "name": "검 제작자",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GoldenGamble",
       "name": "경품 추첨",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GoldenGamblePlus",
       "name": "경품 추첨+",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GoldenGamblePlusPlus",
       "name": "경품 추첨++",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BodyguardTraining",
       "name": "경호대 훈련",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_CalculatedLoss",
       "name": "계산된 패배",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_AnExaltedAdventure",
       "name": "고귀한 모험",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ItemGargoyleStoneplate",
       "name": "고독한 방패",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SeraphimsStaff",
       "name": "고위천사의 지팡이",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_HighVoltage",
       "name": "고전압",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_KayleGodAugment_Scrapper",
       "name": "고철 수집가의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_TradeSector",
       "name": "교환의 장",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SubscriptionService",
       "name": "구독 서비스",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ItemSpiritVisage",
       "name": "구원의 영혼",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_PrimordianPrismaticAugment",
       "name": "군체의 심장",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BoxingLessons",
       "name": "권투 교습",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_HardCommit",
       "name": "극진한 헌신",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_FiresalePlus",
       "name": "급매",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_WorthTheWaitGold",
       "name": "기다림의 미학",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_WorthTheWaitPrismatic",
       "name": "기다림의 미학 II",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ComponentQuestSword",
       "name": "길을 내라",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_TiniestTitanPlus",
       "name": "꼬꼬마 거인",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_TinyTitans",
       "name": "꼬마 거인",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_NasusCarry",
       "name": "꽁!",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_ArmyBuilding",
       "name": "끈끈한 우정",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_LearningFromExperience2",
       "name": "끈질긴 연구",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SoloLeveling",
       "name": "나 혼자 레벨업",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TheBaronsLair",
       "name": "남작의 소굴",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SwordOverflow",
       "name": "넘치는 대검",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_WandOverflow",
       "name": "넘치는 지팡이",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BeltOverflow",
       "name": "넘치는 허리띠",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT10_Augment_GoodForSomethingSilver",
       "name": "다 쓸 데가 있다니까 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_Diversify1",
       "name": "단결된 의지",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_NoScoutNoPivot",
       "name": "단일 조합 사수",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_BestFriends1",
       "name": "단짝 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_BestFriends2",
       "name": "단짝 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GroupHug1",
       "name": "단체 포옹 I",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GroupHug2",
       "name": "단체 포옹 II",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SweetTreats",
       "name": "달콤한 간식",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_Recombobulator",
       "name": "대격변 생성기",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Unforgotten",
       "name": "대장군의 명예",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_AdvancedLoan",
       "name": "대출 선지급",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_AdvancedLoanPlus",
       "name": "대출 선지급+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_DeadlierCaps",
       "name": "더욱 치명적인 모자",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GildedSteel",
       "name": "도금 강철",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_BandOfThieves1",
       "name": "도둑 무리",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_BandOfThieves2",
       "name": "도둑 무리 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_BandOfThieves2Plus",
       "name": "도둑 무리 II+",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_BandOfThieves2PlusPlus",
       "name": "도둑 무리 II++",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MoneyMonsoon",
       "name": "돈 폭풍",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MoneyHungry",
       "name": "돈독",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ConstructACompanion",
       "name": "동료 제작",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_AnimaSquad_Commander",
       "name": "동물특공대 지휘관",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_FeedTheFlames",
       "name": "땔감 제공",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_MordekaiserCarry",
       "name": "뜨거운 죽음",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_MaxLevel10",
       "name": "레벨 업!",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MagicRoll",
       "name": "마법 주사위",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_ClearMind",
       "name": "맑은 정신",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_JustSlayer",
       "name": "무차별적 살인자",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_InfinityProtection",
       "name": "무한한 보호",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ForwardThinking",
       "name": "미래 지향적 사고",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_VarusGodAugment_BoonOfStars",
       "name": "바루스의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Misfits",
       "name": "반항아",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_LeonaCarry",
       "name": "방패 여전사",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_AatroxCarry",
       "name": "별빛 연계",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TreasureHunt",
       "name": "보물 사냥",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_JeweledLotus",
       "name": "보석 연꽃 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_GreaterJeweledLotus",
       "name": "보석 연꽃 II",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Replication",
       "name": "복제",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BoosterPack",
       "name": "부스터 팩",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BoosterPackPlus",
       "name": "부스터 팩+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BoosterPackPlusPlus",
       "name": "부스터 팩++",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Corrosion",
       "name": "부식",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SideEffects",
       "name": "부작용",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_AurelionSolGodAugment_BoonOfResurrection",
       "name": "부활의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_Commander_PartialAscension",
       "name": "불완전한 초월",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_OneBuffTwoBuff",
       "name": "붉고 푸른 효과",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_IvernMinionCarry",
       "name": "빅뱅",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ShimmerscaleEssence",
       "name": "빛비늘 정수",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SpreadingRoots",
       "name": "뻗어가는 뿌리",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SpreadingRootsPlus",
       "name": "뻗어가는 뿌리+",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_CyberneticImplants2",
       "name": "사이버네틱 이식술",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_CyberneticUplink2",
       "name": "사이버네틱 통신",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Trifecta1",
       "name": "삼인방 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Trifecta2",
       "name": "삼인방 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_Commander_RollingForDays",
       "name": "새로고침의 날 I",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_Epoch",
       "name": "새로운 시대",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_EpochPlus",
       "name": "새로운 시대+",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BirthdayReunion",
       "name": "생일 모임",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_BirthdayPresents",
       "name": "생일 선물",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Survivor",
       "name": "생존자",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_EpicRolldown",
       "name": "서사적 새로고침",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ClimbTheLadder1",
       "name": "서열 상승 I",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ClimbTheLadder2",
       "name": "서열 상승 II",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_HomeCooking",
       "name": "선물 꾸러미",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_WinOut",
       "name": "성취",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_SorakaGodAugment",
       "name": "소라카의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_HyperRoll",
       "name": "수완가",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_BardPlaybook1",
       "name": "수호자의 친구",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Pilfer",
       "name": "슬쩍하기",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Waverider",
       "name": "승승장구",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_Timebreaker_Timestream",
       "name": "시간의 흐름",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ClockworkAccelerator",
       "name": "시계태엽 윤활유",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_KickStart",
       "name": "시동 걸기",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_ForceOfNature",
       "name": "신병",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_ForceOfNaturePlus",
       "name": "신병+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_Arbiter_DivineAmendment",
       "name": "신성한 개정",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_ApotheoticForge",
       "name": "신성한 대장간",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_LongTimeCrafting",
       "name": "신중한 제작",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_CryMeARiver",
       "name": "실컷 울어봐라",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TwoTanky",
       "name": "쌍두마차",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TwinGuardians",
       "name": "쌍둥이 수호자",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_ThreshGodAugment",
       "name": "쓰레쉬의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_AhriGodAugment",
       "name": "아리의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_AurelionSolGodAugment",
       "name": "아우렐리온 솔의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_ItemGrabBag1",
       "name": "아이템 꾸러미",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ArcaneViktory",
       "name": "아케인 빅토르이!",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MirroredMonetization",
       "name": "악의적 수익 창출",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_YasuoGodAugment_MoreHexes",
       "name": "야스오의 스포트라이트 공유",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_YasuoGodAugment_PaintedPower",
       "name": "야스오의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_YasuoGodAugment_GoldenHex",
       "name": "야스오의 황금 칸",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MagicRollMinus",
       "name": "약간 신비한 주사위",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_ClutteredMind",
       "name": "어수선한 마음",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TheVidalion",
       "name": "얽힌 마법",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_TonsOfStats",
       "name": "엄청나게 이로운 효과!",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_FuriousBlows",
       "name": "에너지 파동",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_EkkoGodAugment",
       "name": "에코의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ComebackStory",
       "name": "역전의 서막",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_MissedConnections",
       "name": "연결 불가",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ComponentQuestRod",
       "name": "연속 주문 사용",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT10_Augment_HeroicGrabBag",
       "name": "영웅 꾸러미",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_HeroicGrabBagPlus",
       "name": "영웅 꾸러미+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_HeroicGrabBagPlusPlus",
       "name": "영웅 꾸러미++",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BronzeForLifeI",
       "name": "영원한 브론즈 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BronzeForLife2",
       "name": "영원한 브론즈 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_AwakenedSoul",
       "name": "영혼 각성",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SavingsAccount",
       "name": "예금 계좌",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ComponentQuestBow",
       "name": "예비 활",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ExpectedUnexpectedness",
       "name": "예상된 예상 밖의 결과",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_AuraFarming",
       "name": "오라 축적",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_HeavyIsTheCrown",
       "name": "왕관의 무게",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_UrfsGambit",
       "name": "우르프의 갬빗",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_UrfsGrabBag2",
       "name": "우르프의 꾸러미",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_CosmicRestart",
       "name": "우주적 재시작",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_RiskyMoves",
       "name": "위험한 행보",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GlassCannonI",
       "name": "유리 대포 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GlassCannonII",
       "name": "유리 대포 II",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Flexible",
       "name": "유연함",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_IronAssets",
       "name": "유용한 금속",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_SilverSpoon",
       "name": "은수저",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_TourOfTheGalaxy",
       "name": "은하계 여행",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_AtWhatCost",
       "name": "응당한 대가",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Retribution",
       "name": "응징",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_EvelynnGodAugment",
       "name": "이블린의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_CognitiveOverload",
       "name": "인지 과부하",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_CognitiveTax",
       "name": "인지세",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_CognitiveTaxPlus",
       "name": "인지세+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SliceOfLife",
       "name": "일상물",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_RestartMission",
       "name": "임무 재시작",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_MakeshiftArmor1",
       "name": "임시변통 방어구 I",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_MakeshiftArmor2",
       "name": "임시변통 방어구 II",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_AFK",
       "name": "자리 비움",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_GragasCarry",
       "name": "자폭",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SmallGrabBag",
       "name": "작은 꾸러미",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT10_Augment_LittleBuddies",
       "name": "작은 친구들",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_TinyButDeadly",
       "name": "작지만 치명적인",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT10_Augment_GoingLong",
       "name": "장기 투자",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SpeedyDoubleKill",
       "name": "재빠른 더블 킬",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_Slammin",
       "name": "재빠른 무장",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_Slammin_Plus",
       "name": "재빠른 무장+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_SecondWind1",
       "name": "재생의 바람",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_SecondWind2",
       "name": "재생의 바람 II",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_SalvageBin",
       "name": "재활용 쓰레기통",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT8_Augment_SalvageBinPlus",
       "name": "재활용 쓰레기통+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_JaxCarry",
       "name": "저 별을 향해",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_CursedCrown",
       "name": "저주받은 왕관",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_Electrocharge1",
       "name": "전기 충전 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_Electrocharge2",
       "name": "전기 충전 II",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TacticiansKitchen",
       "name": "전략가의 주방",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_DarkStar_WhiteHole",
       "name": "전리품 특이점",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_FrontlineFoundation",
       "name": "전방의 토대",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ChargeTransfer1",
       "name": "전하 이동 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ChargeTransfer2",
       "name": "전하 이동 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_BloodBank",
       "name": "점심값",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_CraftedCrafting",
       "name": "정교한 공예",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Lineup",
       "name": "정렬",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_PoppyCarry",
       "name": "정령단 속도",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_EarlyLearning",
       "name": "조기 교육",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MuseumHeist",
       "name": "조합 아이템 강탈",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_PlotArmor",
       "name": "주인공 버프",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_FindYourCenter",
       "name": "중심 잡기",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_PowerUp",
       "name": "증강된 힘",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ForgeRod",
       "name": "지팡이 제작자",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_HoldTheLine",
       "name": "진형 유지",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_Concentration",
       "name": "집중",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_RollTheDice",
       "name": "찬란한 장난꾸러기",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_PatienceIsAVirtue",
       "name": "참는 자에게 복을",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_GuardbreakerSpirit",
       "name": "철퇴의 의지",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_PykeCarry",
       "name": "청부 살인마",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_Commander_Ascension",
       "name": "초월",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MinMaxer",
       "name": "최적화",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_Distancing",
       "name": "추방자 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_Distancing2",
       "name": "추방자 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_UpwardMobility",
       "name": "출세가도",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Warpath",
       "name": "출정",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT10_Augment_CrashTestDummies",
       "name": "충돌 시험용 봇",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TragicalBlade",
       "name": "치명적인 칼날",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_Buildabud",
       "name": "친구 만들기",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ForgeAFriend",
       "name": "친구 사귀기",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_InvaderZed",
       "name": "침략자 제드",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_KayleGodAugment",
       "name": "케일의 은총",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_SizeMatters",
       "name": "크기의 중요성",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_BigGrabBag",
       "name": "큰 꾸러미",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Expedition",
       "name": "탐사",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TheTower",
       "name": "탑",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_SunfireBoard",
       "name": "태양불꽃판",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_InvestedPlus",
       "name": "투자+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_InvestedPlusPlus",
       "name": "투자++",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ExclusiveCustomization",
       "name": "특별 맞춤 설정",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ExclusiveCustomization2",
       "name": "특별 맞춤 설정 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TraitTree",
       "name": "특성 나무",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TraitTreePlus",
       "name": "특성 나무+",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_BuildingACollectionPlusPlus",
       "name": "파묻힌 보물",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_Prizefighter",
       "name": "파이트 머니",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_PandorasItems",
       "name": "판도라의 아이템",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_PandorasItems2",
       "name": "판도라의 아이템 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_PandorasRadiantBox",
       "name": "판도라의 아이템 III",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ExplosiveGrowth",
       "name": "폭발적인 성장",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ExplosiveGrowthPlus",
       "name": "폭발적인 성장+",
       "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_GachaAddict",
       "name": "프리즘 티켓",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TheDarkinBlade",
       "name": "피의 공물",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT17_Augment_EvelynnGodAugment_BloodPrice",
       "name": "피의 대가",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_OneTwoFive",
       "name": "하나, 둘, 다섯!",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_OneTwosThree",
       "name": "하나, 둘, 셋",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_WeStickTogether",
       "name": "하나로 뭉치는 거지",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_FeelingLucky",
       "name": "행운의 기운",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_LuckyGloves",
       "name": "행운의 장갑",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_LuckyGlovesPlus",
       "name": "행운의 장갑+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_HedgeFund",
       "name": "헤지 펀드",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_HedgeFundPlus",
       "name": "헤지 펀드+",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_ThriftShop",
       "name": "현명한 소비",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_Commander_TeamingUp1",
       "name": "협력",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_LuxurySubscription",
       "name": "호화로운 정기 구독",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT11_Augment_Calltochaos",
       "name": "혼돈의 부름",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_MarksMan",
       "name": "화력 집중",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_YouHaveMyBow",
       "name": "활의 수호자",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_TheGoldenDragon",
       "name": "황금 드래곤",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_TheGoldenEgg",
       "name": "황금 알",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_HealingOrbsI",
       "name": "회복의 구 I",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_HealingOrbsII",
       "name": "회복의 구 II",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_LateGameScaling",
       "name": "후반 성장",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT7_Augment_LategameSpecialist",
       "name": "후반 전문가",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_BacklineBlueprint",
       "name": "후방 설계도",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Dummify",
       "name": "훈련 봇 변환",
       "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT6_Augment_PortableForge",
       "name": "휴대용 대장간",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ComponentQuestTear",
       "name": "흐르는 눈물",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_Dhampyr1",
       "name": "흡혈의 활력 I",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT9_Augment_Legend_HighEndSector",
       "name": "흥청망청",
       "tier": "C",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT_Augment_ForgedInStrength",
       "name": "힘을 실은 제련",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     },
     {
       "id": "TFT16_Augment_UltraRapidFire",
       "name": "U.R.F",
       "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+      "sourceLabel": "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
     }
   ]
 }

@@ -27,8 +27,8 @@ to come only from the curated LoLCHESS.GG board.
 Board coordinates use four rows (`0..3`) and seven columns (`0..6`). A TFT Team Planner code identifies the roster, while `units[].row` and `units[].column` preserve the exact formation.
 
 Deck and augment tiers are transformed from attributed public meta snapshots.
-An augment `pickRate` remains `null` when the source does not expose a
-verifiable value; the app displays it as pending instead of inventing a number.
+The augment overlay intentionally displays only the S/A/B/C recommendation
+tier so that unavailable or incomparable selection-rate values are not shown.
 
 ## Automatic refresh
 
@@ -49,8 +49,5 @@ node scripts/update-from-lolchess.mjs
 node scripts/validate-catalog.mjs catalog.json
 ```
 
-LoLCHESS.GG, OP.GG, Mobalytics, and TFTactics currently expose augment tiers,
-while tactics.tools' public server-rendered table contains no augment rows.
-No current source therefore exposes a verifiable selection-rate value that the
-automated updater can read. D is folded into C for the app's four-tier UI.
-Existing verified pick rates are retained; otherwise `pickRate` stays `null`.
+LoLCHESS.GG's D tier is folded into C for the app's four-tier UI. Augment
+selection rates are deliberately omitted from both the feed and the overlay.

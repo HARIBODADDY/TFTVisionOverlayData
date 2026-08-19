@@ -50,12 +50,11 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "name", "tier", "pickRate", "sourceLabel"],
+        "required": ["id", "name", "tier", "sourceLabel"],
         "properties": {
           "id": {"type": "string"},
           "name": {"type": "string"},
           "tier": {"enum": ["S", "A", "B", "C"]},
-          "pickRate": {"type": ["number", "null"], "minimum": 0, "maximum": 100},
           "sourceLabel": {"type": "string"}
         }
       }
