@@ -1,226 +1,272 @@
 {
   "schemaVersion": 2,
   "patch": "17.9 · 세트 17",
-  "updatedAt": "2026-08-19T14:00:00Z",
+  "updatedAt": "2026-08-19T08:13:26.824Z",
   "decks": [
     {
-      "id": "3d430c9c1fc15b3a22e3e6f8a92426a6",
-      "title": "운명술사 트위스티드 페이트",
+      "id": "8395032d80f23319d36e8c5f119f0366",
+      "title": "별돌보미 룰루",
       "tier": "S",
       "patch": "17.9",
-      "teamCode": "0201d01b02a02b02c03d01903c000000TFTSet17",
-      "sourceLabel": "OP.GG 공개 메타 스냅샷 · TFT Vision 가공",
-      "averagePlace": 3.24,
-      "top4Rate": 77.32,
-      "pickRate": 1.808,
+      "teamCode": "",
+      "teamBuilderKey": "728c5b3d8fd0671efd880f37b90420329ec6754c",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/728c5b3d8fd0671efd880f37b90420329ec6754c?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 3.98,
+      "top4Rate": 59.91,
+      "pickRate": 0.82,
       "levelPlan": {
-        "2-1": 4,
+        "2-3": 4,
         "2-5": 5,
-        "3-2": 5,
-        "4-1": 6,
-        "4-5": 7
+        "3-2": 6,
+        "3-5": 7
       },
       "units": [
-        {
-          "championId": "TFT17_Aatrox",
-          "name": "아트록스",
-          "row": 1,
-          "column": 3,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Caitlyn",
-          "name": "케이틀린",
-          "row": 0,
-          "column": 1,
-          "items": [
-            "죽음의 검",
-            "구인수의 격노검",
-            "거인 학살자"
-          ]
-        },
-        {
-          "championId": "TFT17_Talon",
-          "name": "탈론",
-          "row": 1,
-          "column": 1,
-          "items": []
-        },
-        {
-          "championId": "TFT17_TwistedFate",
-          "name": "트위스티드 페이트",
-          "row": 0,
-          "column": 0,
-          "items": [
-            "내셔의 이빨",
-            "내셔의 이빨",
-            "라바돈의 죽음모자"
-          ]
-        },
         {
           "championId": "TFT17_Jax",
           "name": "잭스",
-          "row": 3,
-          "column": 3,
+          "row": 0,
+          "column": 2,
+          "star": 3,
           "items": [
-            "크라운가드",
             "가고일 돌갑옷",
-            "가고일 돌갑옷"
+            "가고일 돌갑옷",
+            "크라운가드"
           ]
-        },
-        {
-          "championId": "TFT17_Milio",
-          "name": "밀리오",
-          "row": 0,
-          "column": 3,
-          "items": [
-            "라바돈의 죽음모자",
-            "라바돈의 죽음모자",
-            "쇼진의 창"
-          ]
-        },
-        {
-          "championId": "TFT17_Corki",
-          "name": "코르키",
-          "row": 0,
-          "column": 5,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Riven",
-          "name": "리븐",
-          "row": 1,
-          "column": 2,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "6eea1c0ac529ed3777039eabbf75337e",
-      "title": "N.O.V.A. 미스 포츈",
-      "tier": "S",
-      "patch": "17.9",
-      "teamCode": "0201d03101e00103602102e058000000TFTSet17",
-      "sourceLabel": "OP.GG 공개 메타 스냅샷 · TFT Vision 가공",
-      "averagePlace": 2.84,
-      "top4Rate": 81.56,
-      "pickRate": 1.345,
-      "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
-        "3-2": 6,
-        "4-1": 7,
-        "4-5": 8
-      },
-      "units": [
-        {
-          "championId": "TFT17_Aatrox",
-          "name": "아트록스",
-          "row": 1,
-          "column": 5,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Gragas",
-          "name": "그라가스",
-          "row": 1,
-          "column": 2,
-          "items": []
         },
         {
           "championId": "TFT17_Maokai",
           "name": "마오카이",
-          "row": 1,
-          "column": 3,
-          "items": [
-            "가고일 돌갑옷",
-            "정령의 형상",
-            "워모그의 갑옷"
-          ]
-        },
-        {
-          "championId": "TFT17_MissFortune",
-          "name": "미스 포츈",
           "row": 0,
-          "column": 0,
-          "items": [
-            "죽음의 검",
-            "무한의 대검",
-            "거인 학살자"
-          ]
-        },
-        {
-          "championId": "TFT17_Ornn",
-          "name": "오른",
-          "row": 3,
           "column": 3,
+          "star": 3,
           "items": [
-            "가고일 돌갑옷",
-            "정령의 형상",
+            "수호자의 맹세",
+            "적응형 투구",
             "워모그의 갑옷"
           ]
         },
         {
           "championId": "TFT17_Rhaast",
           "name": "라아스트",
-          "row": 1,
-          "column": 1,
+          "row": 0,
+          "column": 4,
+          "star": 3,
           "items": []
         },
         {
-          "championId": "TFT17_Viktor",
-          "name": "빅토르",
+          "championId": "TFT17_Pantheon",
+          "name": "판테온",
           "row": 0,
-          "column": 1,
+          "column": 5,
+          "star": 3,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 2,
+          "column": 0,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Lulu",
+          "name": "룰루",
+          "row": 3,
+          "column": 0,
+          "star": 3,
           "items": [
-            "드론 업링크",
             "보석 건틀릿",
+            "내셔의 이빨",
+            "내셔의 이빨"
+          ]
+        },
+        {
+          "championId": "TFT17_Milio",
+          "name": "밀리오",
+          "row": 3,
+          "column": 1,
+          "star": 3,
+          "items": [
+            "쇼진의 창",
+            "모렐로노미콘",
             "라바돈의 죽음모자"
           ]
         },
         {
-          "championId": "TFT17_Morgana",
-          "name": "모르가나",
-          "row": 1,
-          "column": 4,
+          "championId": "TFT17_TwistedFate",
+          "name": "트위스티드 페이트",
+          "row": 3,
+          "column": 5,
+          "star": 2,
           "items": []
         }
       ]
     },
     {
-      "id": "4d8f6f69c61a95091c0b663c56a2eaa6",
-      "title": "전달자 조이",
-      "tier": "S",
+      "id": "b5cc811beaca7ea59bad3233d44e5845",
+      "title": "전달자 미스 포츈",
+      "tier": "A",
       "patch": "17.9",
-      "teamCode": "0204204e04101102e026058039000000TFTSet17",
-      "sourceLabel": "OP.GG 공개 메타 스냅샷 · TFT Vision 가공",
-      "averagePlace": 3.4,
-      "top4Rate": 73.56,
-      "pickRate": 1.037,
+      "teamCode": "0201d03101e00103602102e058000000TFTSet17",
+      "teamBuilderKey": "cada5ea80f01e7f13f023f80ec748cdf5275635f",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/cada5ea80f01e7f13f023f80ec748cdf5275635f?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 4.15,
+      "top4Rate": 56.17,
+      "pickRate": 0.38,
       "levelPlan": {
         "2-1": 4,
         "2-5": 5,
         "3-2": 6,
-        "4-2": 7,
+        "3-5": 7
+      },
+      "units": [
+        {
+          "championId": "TFT17_Ornn",
+          "name": "오른",
+          "row": 0,
+          "column": 3,
+          "star": 3,
+          "items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "굳건한 심장"
+          ]
+        },
+        {
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
+          "row": 2,
+          "column": 1,
+          "star": 3,
+          "items": [
+            "도적의 장갑"
+          ]
+        },
+        {
+          "championId": "TFT17_Gragas",
+          "name": "그라가스",
+          "row": 2,
+          "column": 2,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
+          "row": 2,
+          "column": 3,
+          "star": 3,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 2,
+          "column": 4,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 2,
+          "column": 5,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_MissFortune",
+          "name": "미스 포츈",
+          "row": 3,
+          "column": 0,
+          "star": 3,
+          "items": [
+            "무한의 대검",
+            "타격대의 철퇴",
+            "죽음의 검"
+          ]
+        },
+        {
+          "championId": "TFT17_Viktor",
+          "name": "빅토르",
+          "row": 3,
+          "column": 1,
+          "star": 3,
+          "items": [
+            "드론 업링크",
+            "보석 건틀릿",
+            "라바돈의 죽음모자"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c475cb7499c3b61a76a828c190eea857",
+      "title": "전달자 조이",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "0204204e04101102e026058039000000TFTSet17",
+      "teamBuilderKey": "5095bb31f1666b9bc45b1e2258417375f468a977",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/5095bb31f1666b9bc45b1e2258417375f468a977?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 4.18,
+      "top4Rate": 57,
+      "pickRate": 0.24,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
         "5-1": 8
       },
       "units": [
         {
-          "championId": "TFT17_Leona",
-          "name": "레오나",
-          "row": 3,
-          "column": 5,
+          "championId": "TFT17_Mordekaiser",
+          "name": "모데카이저",
+          "row": 0,
+          "column": 1,
+          "star": 3,
           "items": [
             "가고일 돌갑옷",
             "가고일 돌갑옷",
-            "워모그의 갑옷"
+            "크라운가드"
           ]
         },
         {
-          "championId": "TFT17_Mordekaiser",
-          "name": "모데카이저",
-          "row": 3,
-          "column": 1,
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 0,
+          "column": 2,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Nunu",
+          "name": "누누와 윌럼프",
+          "row": 0,
+          "column": 3,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Illaoi",
+          "name": "일라오이",
+          "row": 0,
+          "column": 4,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Leona",
+          "name": "레오나",
+          "row": 0,
+          "column": 5,
+          "star": 3,
           "items": [
             "가고일 돌갑옷",
             "가고일 돌갑옷",
@@ -230,8 +276,9 @@
         {
           "championId": "TFT17_Zoe",
           "name": "조이",
-          "row": 0,
+          "row": 3,
           "column": 0,
+          "star": 3,
           "items": [
             "라바돈의 죽음모자",
             "라바돈의 죽음모자",
@@ -239,240 +286,985 @@
           ]
         },
         {
-          "championId": "TFT17_Illaoi",
-          "name": "일라오이",
-          "row": 3,
-          "column": 4,
-          "items": []
-        },
-        {
           "championId": "TFT17_Viktor",
           "name": "빅토르",
-          "row": 0,
+          "row": 3,
           "column": 1,
+          "star": 3,
           "items": [
             "모렐로노미콘",
-            "라바돈의 죽음모자",
-            "공허의 지팡이"
+            "공허의 지팡이",
+            "라바돈의 죽음모자"
           ]
         },
         {
           "championId": "TFT17_AurelionSol",
           "name": "아우렐리온 솔",
-          "row": 0,
-          "column": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Morgana",
-          "name": "모르가나",
           "row": 3,
           "column": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Nunu",
-          "name": "누누와 윌럼프",
-          "row": 3,
-          "column": 3,
+          "star": 2,
           "items": []
         }
       ]
     },
     {
-      "id": "28ab1c6f9599aba640a2e7d43352b3cb",
-      "title": "요새 코르키",
-      "tier": "S",
+      "id": "4097edcd16c2aeb1a950edcbb2d3d7d9",
+      "title": "운명술사 트위스티드 페이트",
+      "tier": "A",
       "patch": "17.9",
-      "teamCode": "0201d01b01a02b03d01905801803b000TFTSet17",
-      "sourceLabel": "OP.GG 공개 메타 스냅샷 · TFT Vision 가공",
-      "averagePlace": 3.4,
-      "top4Rate": 74.72,
-      "pickRate": 0.661,
+      "teamCode": "0201d01b02a02b02c03d01903c000000TFTSet17",
+      "teamBuilderKey": "fe0b74f2d8a06ad48de822cc10b7cbb5ebfbec27",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/fe0b74f2d8a06ad48de822cc10b7cbb5ebfbec27?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 4.38,
+      "top4Rate": 52.73,
+      "pickRate": 0.26,
       "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
-        "3-2": 6,
-        "4-1": 7,
-        "4-5": 8
+        "2-3": 4,
+        "3-1": 5,
+        "4-2": 7,
+        "5-1": 8
       },
       "units": [
-        {
-          "championId": "TFT17_Aatrox",
-          "name": "아트록스",
-          "row": 1,
-          "column": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Caitlyn",
-          "name": "케이틀린",
-          "row": 0,
-          "column": 5,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Poppy",
-          "name": "뽀삐",
-          "row": 2,
-          "column": 0,
-          "items": []
-        },
-        {
-          "championId": "TFT17_TwistedFate",
-          "name": "트위스티드 페이트",
-          "row": 0,
-          "column": 6,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Milio",
-          "name": "밀리오",
-          "row": 0,
-          "column": 0,
-          "items": [
-            "라바돈의 죽음모자",
-            "라바돈의 죽음모자",
-            "쇼진의 창"
-          ]
-        },
-        {
-          "championId": "TFT17_Corki",
-          "name": "코르키",
-          "row": 0,
-          "column": 1,
-          "items": [
-            "죽음의 검",
-            "거인 학살자",
-            "타격대의 철퇴"
-          ]
-        },
-        {
-          "championId": "TFT17_Morgana",
-          "name": "모르가나",
-          "row": 2,
-          "column": 1,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Rammus",
-          "name": "람머스",
-          "row": 3,
-          "column": 3,
-          "items": [
-            "크라운가드",
-            "수호자의 맹세",
-            "가고일 돌갑옷"
-          ]
-        },
-        {
-          "championId": "TFT17_Shen",
-          "name": "쉔",
-          "row": 1,
-          "column": 0,
-          "items": [
-            "적응형 투구",
-            "수호자의 맹세",
-            "모렐로노미콘"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d798cbcc7ab813dd232328422f4eaff3",
-      "title": "별돌보미 자야",
-      "tier": "S",
-      "patch": "17.9",
-      "teamCode": "0202a02c04e05803903c03f02303b000TFTSet17",
-      "sourceLabel": "OP.GG 공개 메타 스냅샷 · TFT Vision 가공",
-      "averagePlace": 2.61,
-      "top4Rate": 85.74,
-      "pickRate": 0.308,
-      "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
-        "3-2": 6,
-        "4-1": 7,
-        "4-5": 8
-      },
-      "units": [
-        {
-          "championId": "TFT17_Talon",
-          "name": "탈론",
-          "row": 1,
-          "column": 1,
-          "items": []
-        },
         {
           "championId": "TFT17_Jax",
           "name": "잭스",
-          "row": 3,
-          "column": 5,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Mordekaiser",
-          "name": "모데카이저",
-          "row": 2,
-          "column": 5,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Morgana",
-          "name": "모르가나",
-          "row": 3,
-          "column": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Nunu",
-          "name": "누누와 윌럼프",
-          "row": 3,
+          "row": 0,
           "column": 3,
+          "star": 3,
           "items": [
-            "적응형 투구",
-            "크라운가드",
-            "수호자의 맹세"
+            "가고일 돌갑옷",
+            "가고일 돌갑옷",
+            "크라운가드"
+          ]
+        },
+        {
+          "championId": "TFT17_Talon",
+          "name": "탈론",
+          "row": 2,
+          "column": 1,
+          "star": 3,
+          "items": [
+            "쇼진의 창",
+            "마법공학 총검",
+            "밤의 끝자락"
           ]
         },
         {
           "championId": "TFT17_Riven",
           "name": "리븐",
           "row": 2,
-          "column": 1,
+          "column": 2,
+          "star": 2,
           "items": [
-            "별돌보미 상징",
+            "도적의 장갑"
+          ]
+        },
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 2,
+          "column": 3,
+          "star": 3,
+          "items": [
+            "태양불꽃 망토"
+          ]
+        },
+        {
+          "championId": "TFT17_TwistedFate",
+          "name": "트위스티드 페이트",
+          "row": 3,
+          "column": 0,
+          "star": 3,
+          "items": [
+            "내셔의 이빨",
+            "내셔의 이빨",
+            "라바돈의 죽음모자"
+          ]
+        },
+        {
+          "championId": "TFT17_Caitlyn",
+          "name": "케이틀린",
+          "row": 3,
+          "column": 1,
+          "star": 3,
+          "items": [
+            "구인수의 격노검",
+            "죽음의 검",
+            "거인 학살자"
+          ]
+        },
+        {
+          "championId": "TFT17_Milio",
+          "name": "밀리오",
+          "row": 3,
+          "column": 3,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Corki",
+          "name": "코르키",
+          "row": 3,
+          "column": 5,
+          "star": 2,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "4852a7c81be84150ebb9da6d66a39920",
+      "title": "고밸류 그브 벡스",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "",
+      "teamBuilderKey": "edd8ec0f8e5d9963b53b73086b20867c3cb0c873",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/edd8ec0f8e5d9963b53b73086b20867c3cb0c873?type=guide",
+      "sourceMatch": 0.636,
+      "averagePlace": 4.41,
+      "top4Rate": 50.28,
+      "pickRate": 0.64,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "4-5": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 0,
+          "column": 0,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Jax",
+          "name": "잭스",
+          "row": 0,
+          "column": 1,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Akali",
+          "name": "아칼리",
+          "row": 0,
+          "column": 2,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Blitzcrank",
+          "name": "블리츠크랭크",
+          "row": 0,
+          "column": 3,
+          "star": 2,
+          "items": [
+            "도적의 장갑"
+          ]
+        },
+        {
+          "championId": "TFT17_Nunu",
+          "name": "누누와 윌럼프",
+          "row": 0,
+          "column": 4,
+          "star": 2,
+          "items": [
+            "수호자의 맹세",
+            "적응형 투구",
+            "적응형 투구"
+          ]
+        },
+        {
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 0,
+          "column": 5,
+          "star": 2,
+          "items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "크라운가드"
+          ]
+        },
+        {
+          "championId": "TFT17_Fiora",
+          "name": "피오라",
+          "row": 1,
+          "column": 5,
+          "star": 2,
+          "items": [
+            "도적의 장갑"
+          ]
+        },
+        {
+          "championId": "TFT17_Graves",
+          "name": "그레이브즈",
+          "row": 2,
+          "column": 5,
+          "star": 2,
+          "items": [
+            "거인 학살자",
+            "수은",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "championId": "TFT17_Vex",
+          "name": "벡스",
+          "row": 3,
+          "column": 6,
+          "star": 2,
+          "items": [
+            "구인수의 격노검",
+            "붉은 덩굴정령",
+            "라바돈의 죽음모자"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7aabea91faca7e5b90cea59b7ed6dcb",
+      "title": "메카 아우렐리온 솔",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "",
+      "teamBuilderKey": "5b44b33e3b3d138d244ec72b82a6a095ecc4479a",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/5b44b33e3b3d138d244ec72b82a6a095ecc4479a?type=guide",
+      "sourceMatch": 0.714,
+      "averagePlace": 4.42,
+      "top4Rate": 51.76,
+      "pickRate": 0.35,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "5-1": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_Galio",
+          "name": "거대 메크 로봇",
+          "row": 0,
+          "column": 3,
+          "star": 2,
+          "items": [
+            "가고일 돌갑옷",
+            "가고일 돌갑옷",
+            "사자의 비가"
+          ]
+        },
+        {
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
+          "row": 2,
+          "column": 1,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Mordekaiser",
+          "name": "모데카이저",
+          "row": 2,
+          "column": 2,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 2,
+          "column": 3,
+          "star": 2,
+          "items": [
+            "수호자의 맹세",
+            "워모그의 갑옷",
+            "덤불 조끼"
+          ]
+        },
+        {
+          "championId": "TFT17_AurelionSol",
+          "name": "아우렐리온 솔",
+          "row": 3,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "보석 건틀릿",
+            "라바돈의 죽음모자",
+            "절멸자"
+          ]
+        },
+        {
+          "championId": "TFT17_Karma",
+          "name": "카르마",
+          "row": 3,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "모렐로노미콘",
+            "공허의 지팡이",
+            "쇼진의 창"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ee93abf79cd4de33fb5a66a46c02f10",
+      "title": "습격자 킨드레드",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "",
+      "teamBuilderKey": "78fbc735aa3dafb960a3ede0f8830116a9d644b9",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/78fbc735aa3dafb960a3ede0f8830116a9d644b9?type=guide",
+      "sourceMatch": 0.8,
+      "averagePlace": 4.44,
+      "top4Rate": 52.26,
+      "pickRate": 0.11,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "5-1": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_MasterYi",
+          "name": "마스터 이",
+          "row": 0,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "거인 학살자",
+            "밤의 끝자락",
+            "거인의 결의"
+          ]
+        },
+        {
+          "championId": "TFT17_TahmKench",
+          "name": "탐 켄치",
+          "row": 0,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "굳건한 심장"
+          ]
+        },
+        {
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
+          "row": 0,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Fiora",
+          "name": "피오라",
+          "row": 1,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "거인 학살자",
             "피바라기",
             "스테락의 도전"
           ]
         },
         {
-          "championId": "TFT17_Xayah",
-          "name": "자야",
-          "row": 0,
+          "championId": "TFT17_Gragas",
+          "name": "그라가스",
+          "row": 1,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Belveth",
+          "name": "벨베스",
+          "row": 2,
           "column": 0,
+          "star": 2,
           "items": [
-            "최후의 속삭임",
-            "붉은 덩굴정령",
-            "크라켄의 분노"
+            "악성코드 매트릭스"
           ]
         },
         {
-          "championId": "TFT17_Jhin",
-          "name": "진",
-          "row": 0,
+          "championId": "TFT17_Urgot",
+          "name": "우르곳",
+          "row": 2,
           "column": 1,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
+          "row": 2,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Kindred",
+          "name": "킨드레드",
+          "row": 3,
+          "column": 0,
+          "star": 2,
           "items": [
-            "별돌보미 상징",
-            "무한의 대검",
-            "거인 학살자"
+            "최후의 속삭임",
+            "붉은 덩굴정령",
+            "구인수의 격노검"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b01644875835d469c450fda750ac559c",
+      "title": "[상징] 우주 그루브 나미",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "",
+      "teamBuilderKey": "fd2ed0f6cbc3fb4e5110631e0a6fc767c5d66ebf",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/fd2ed0f6cbc3fb4e5110631e0a6fc767c5d66ebf?type=guide",
+      "sourceMatch": 0.727,
+      "averagePlace": 4.44,
+      "top4Rate": 50.75,
+      "pickRate": 0.66,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "5-1": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_TahmKench",
+          "name": "탐 켄치",
+          "row": 0,
+          "column": 2,
+          "star": 2,
+          "items": [
+            "우주 그루브 상징",
+            "가고일 돌갑옷",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "championId": "TFT17_Nunu",
+          "name": "누누와 윌럼프",
+          "row": 0,
+          "column": 3,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Pantheon",
+          "name": "판테온",
+          "row": 0,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Blitzcrank",
+          "name": "블리츠크랭크",
+          "row": 1,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "피바라기",
+            "모렐로노미콘",
+            "이온 충격기"
+          ]
+        },
+        {
+          "championId": "TFT17_ShenProp",
+          "name": "유물",
+          "row": 1,
+          "column": 2,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Ornn",
+          "name": "오른",
+          "row": 1,
+          "column": 3,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Riven",
+          "name": "리븐",
+          "row": 2,
+          "column": 2,
+          "star": 2,
+          "items": [
+            "도적의 장갑"
           ]
         },
         {
           "championId": "TFT17_Shen",
           "name": "쉔",
+          "row": 2,
+          "column": 3,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Nami",
+          "name": "나미",
           "row": 3,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "내셔의 이빨"
+          ]
+        },
+        {
+          "championId": "TFT17_Gwen",
+          "name": "그웬",
+          "row": 3,
+          "column": 2,
+          "star": 2,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "9ad3e8ffa3b33a7559ecd6de4d683b89",
+      "title": "별돌보미 자야",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "",
+      "teamBuilderKey": "c83c5b08cc2b07ab8c96e43781dca8afca2722e1",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/c83c5b08cc2b07ab8c96e43781dca8afca2722e1?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 4.45,
+      "top4Rate": 49.57,
+      "pickRate": 0.44,
+      "levelPlan": {
+        "2-3": 4,
+        "3-1": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "4-5": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_TahmKench",
+          "name": "탐 켄치",
+          "row": 0,
+          "column": 2,
+          "star": 2,
+          "items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "굳건한 심장"
+          ]
+        },
+        {
+          "championId": "TFT17_Nunu",
+          "name": "누누와 윌럼프",
+          "row": 0,
+          "column": 3,
+          "star": 2,
+          "items": [
+            "수호자의 맹세",
+            "수호자의 맹세",
+            "적응형 투구"
+          ]
+        },
+        {
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
+          "row": 0,
+          "column": 5,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Jax",
+          "name": "잭스",
+          "row": 0,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Blitzcrank",
+          "name": "블리츠크랭크",
+          "row": 1,
+          "column": 1,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
+          "row": 1,
+          "column": 3,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 1,
+          "column": 5,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Xayah",
+          "name": "자야",
+          "row": 3,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "크라켄의 분노",
+            "크라켄의 분노",
+            "붉은 덩굴정령"
+          ]
+        },
+        {
+          "championId": "TFT17_Jhin",
+          "name": "진",
+          "row": 3,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "무한의 대검",
+            "타격대의 철퇴",
+            "거인 학살자"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2db6a505e4f7d88ea6091429bf592fe",
+      "title": "시간 균열자 파이크",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "",
+      "teamBuilderKey": "47215a461a9f8cbde60a1b459f3c759f14cf3144",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/47215a461a9f8cbde60a1b459f3c759f14cf3144?type=guide",
+      "sourceMatch": 0.778,
+      "averagePlace": 4.47,
+      "top4Rate": 53.69,
+      "pickRate": 0.02,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "4-5": 8
+      },
+      "units": [
+        {
+          "championId": "TFT17_Pantheon",
+          "name": "판테온",
+          "row": 1,
+          "column": 0,
+          "star": 3,
+          "items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "이온 충격기"
+          ]
+        },
+        {
+          "championId": "TFT17_Gragas",
+          "name": "그라가스",
+          "row": 1,
+          "column": 6,
+          "star": 3,
+          "items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "championId": "TFT17_Gwen",
+          "name": "그웬",
+          "row": 2,
+          "column": 0,
+          "star": 3,
+          "items": [
+            "보석 건틀릿",
+            "정의의 손길",
+            "거인 학살자"
+          ]
+        },
+        {
+          "championId": "TFT17_IvernMinion",
+          "name": "꼬마 정령",
+          "row": 2,
+          "column": 6,
+          "star": 3,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Milio",
+          "name": "밀리오",
+          "row": 3,
+          "column": 0,
+          "star": 3,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Pyke",
+          "name": "파이크",
+          "row": 3,
+          "column": 3,
+          "star": 3,
+          "items": [
+            "무한의 대검",
+            "밤의 끝자락",
+            "표적 고정 광학 장치"
+          ]
+        },
+        {
+          "championId": "TFT17_Riven",
+          "name": "리븐",
+          "row": 3,
+          "column": 5,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Corki",
+          "name": "코르키",
+          "row": 3,
+          "column": 6,
+          "star": 2,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "066dcd8c3b7066807430db33ae1c3e4b",
+      "title": "N.O.V.A. 아칼리",
+      "tier": "B",
+      "patch": "17.9",
+      "teamCode": "",
+      "teamBuilderKey": "25719630162b845b46158d7ebae76803a8a62c6a",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/25719630162b845b46158d7ebae76803a8a62c6a?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 4.51,
+      "top4Rate": 50.73,
+      "pickRate": 0.26,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "5-1": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 0,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "크라운가드",
+            "워모그의 갑옷",
+            "가고일 돌갑옷"
+          ]
+        },
+        {
+          "championId": "TFT17_TahmKench",
+          "name": "탐 켄치",
+          "row": 0,
+          "column": 2,
+          "star": 2,
+          "items": [
+            "굳건한 심장",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
+          "row": 0,
           "column": 4,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 0,
+          "column": 5,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Belveth",
+          "name": "벨베스",
+          "row": 1,
+          "column": 1,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Kindred",
+          "name": "킨드레드",
+          "row": 3,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "구인수의 격노검",
+            "크라켄의 분노",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "championId": "TFT17_Akali",
+          "name": "아칼리",
+          "row": 3,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "마법공학 총검",
+            "타격대의 철퇴",
+            "스테락의 도전"
+          ]
+        },
+        {
+          "championId": "TFT17_Caitlyn",
+          "name": "케이틀린",
+          "row": 3,
+          "column": 6,
+          "star": 2,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "8b75f33f6abbd50438a5eab6cd088a5c",
+      "title": "태고족 징크스",
+      "tier": "B",
+      "patch": "17.9",
+      "teamCode": "",
+      "teamBuilderKey": "ffdb65c0ee7696ca1d6017feeeb8572a628f5cdc",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/ffdb65c0ee7696ca1d6017feeeb8572a628f5cdc?type=guide",
+      "sourceMatch": 0.778,
+      "averagePlace": 4.55,
+      "top4Rate": 50.89,
+      "pickRate": 0.16,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "5-1": 8
+      },
+      "units": [
+        {
+          "championId": "TFT17_Akali",
+          "name": "아칼리",
+          "row": 0,
+          "column": 0,
+          "star": 3,
+          "items": [
+            "마법공학 총검",
+            "타격대의 철퇴",
+            "죽음의 검"
+          ]
+        },
+        {
+          "championId": "TFT17_RekSai",
+          "name": "렉사이",
+          "row": 0,
+          "column": 1,
+          "star": 3,
+          "items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "수호자의 맹세"
+          ]
+        },
+        {
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
+          "row": 0,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Belveth",
+          "name": "벨베스",
+          "row": 1,
+          "column": 0,
+          "star": 3,
+          "items": [
+            "거인 학살자",
+            "수은",
+            "크라켄의 분노"
+          ]
+        },
+        {
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 1,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
+          "row": 2,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Jinx",
+          "name": "징크스",
+          "row": 3,
+          "column": 0,
+          "star": 3,
+          "items": [
+            "죽음의 검",
+            "최후의 속삭임",
+            "붉은 덩굴정령"
+          ]
+        },
+        {
+          "championId": "TFT17_Kindred",
+          "name": "킨드레드",
+          "row": 3,
+          "column": 1,
+          "star": 2,
           "items": []
         }
       ]
@@ -480,1734 +1272,1908 @@
   ],
   "augments": [
     {
-      "id": "TFT9_Augment_BigGrabBag",
-      "name": "큰 꾸러미",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_PandorasItems2",
-      "name": "판도라의 아이템 II",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_PortableForge",
-      "name": "휴대용 대장간",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_ArmyBuilding",
-      "name": "끈끈한 우정",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_Commander_RollingForDays",
-      "name": "새로고침의 날 I",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_ItemGrabBag1",
-      "name": "아이템 꾸러미",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SmallGrabBag",
-      "name": "작은 꾸러미",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_PandorasItems",
-      "name": "판도라의 아이템",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT16_Augment_UltraRapidFire",
-      "name": "U.R.F",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ItemGargoyleStoneplate",
-      "name": "고독한 방패",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_TradeSector",
-      "name": "교환의 장",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_DeadlierCaps",
-      "name": "더욱 치명적인 모자",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Replication",
-      "name": "복제",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_HeroicGrabBagPlusPlus",
-      "name": "영웅 꾸러미++",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_SecondWind2",
-      "name": "재생의 바람 II",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ChargeTransfer2",
-      "name": "전하 이동 II",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_EarlyLearning",
-      "name": "조기 교육",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_Commander_Ascension",
-      "name": "초월",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_SunfireBoard",
-      "name": "태양불꽃판",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ExclusiveCustomization",
-      "name": "특별 맞춤 설정",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_HealingOrbsII",
-      "name": "회복의 구 II",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_TradeSector2",
-      "name": "거래 중심지",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_TheBaronsLair",
-      "name": "남작의 소굴",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_WandOverflow",
-      "name": "넘치는 지팡이",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_GreaterJeweledLotus",
-      "name": "보석 연꽃 II",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_PandorasRadiantBox",
-      "name": "판도라의 아이템 III",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_GachaAddict",
-      "name": "프리즘 티켓",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_Calltochaos",
-      "name": "혼돈의 부름",
-      "tier": "S",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ComponentQuestSword",
-      "name": "길을 내라",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_BandOfThieves1",
-      "name": "도둑 무리",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_LeonaCarry",
-      "name": "방패 여전사",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Corrosion",
-      "name": "부식",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_Commander_PartialAscension",
-      "name": "불완전한 초월",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Waverider",
-      "name": "승승장구",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_LongTimeCrafting",
-      "name": "신중한 제작",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_TwinGuardians",
-      "name": "쌍둥이 수호자",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_MagicRollMinus",
-      "name": "약간 신비한 주사위",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_MissedConnections",
-      "name": "연결 불가",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ComponentQuestRod",
-      "name": "연속 주문 사용",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_IronAssets",
-      "name": "유용한 금속",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_SilverSpoon",
-      "name": "은수저",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_CognitiveTaxPlus",
-      "name": "인지세+",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SliceOfLife",
-      "name": "일상물",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_SecondWind1",
-      "name": "재생의 바람",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_Electrocharge1",
-      "name": "전기 충전 I",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ChargeTransfer1",
-      "name": "전하 이동 I",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_CraftedCrafting",
-      "name": "정교한 공예",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_FindYourCenter",
-      "name": "중심 잡기",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_PowerUp",
-      "name": "증강된 힘",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SizeMatters",
-      "name": "크기의 중요성",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_TheTower",
-      "name": "탑",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_FeelingLucky",
-      "name": "행운의 기운",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_Commander_TeamingUp1",
-      "name": "협력",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_MarksMan",
-      "name": "화력 집중",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_HealingOrbsI",
-      "name": "회복의 구 I",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
       "id": "TFT_Augment_GainGold",
-      "name": "21골드 획득",
-      "tier": "A",
+      "name": "?골드 획득",
+      "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TwoMuchValue",
+      "name": "2만한 가치",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_DuoQueue",
       "name": "2인조",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_LegionOfThrees",
+      "name": "3단계 군단",
       "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_MayTheFoursBeWithYou",
       "name": "4가 함께하길",
       "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT11_Augment_Reinfourcement",
       "name": "4후지원",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BranchingOut",
+      "name": "가지 뻗기",
       "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BranchingOutPlus",
+      "name": "가지 뻗기+",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_LivingForge",
+      "name": "간이 대장간",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_WarmogsBuckle",
       "name": "강철의 심장",
-      "tier": "A",
+      "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ForgeSword",
-      "name": "검 제작자",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BodyguardTraining",
-      "name": "경호대 훈련",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_HighVoltage",
-      "name": "고전압",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ItemSpiritVisage",
-      "name": "구원의 영혼",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_LearningFromExperience2",
-      "name": "끈질긴 연구",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_NoScoutNoPivot",
-      "name": "단일 조합 사수",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Unforgotten",
-      "name": "대장군의 명예",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_MoneyHungry",
-      "name": "돈독",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_FeedTheFlames",
-      "name": "땔감 제공",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_MagicRoll",
-      "name": "마법 주사위",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_JustSlayer",
-      "name": "무차별적 살인자",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Misfits",
-      "name": "반항아",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_TreasureHunt",
-      "name": "보물 사냥",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_JeweledLotus",
-      "name": "보석 연꽃 I",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BoosterPack",
-      "name": "부스터 팩",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BoosterPackPlus",
-      "name": "부스터 팩+",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SpreadingRoots",
-      "name": "뻗어가는 뿌리",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_CyberneticImplants2",
-      "name": "사이버네틱 이식술",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_CyberneticUplink2",
-      "name": "사이버네틱 통신",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Trifecta1",
-      "name": "삼인방 I",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_Epoch",
-      "name": "새로운 시대",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_HyperRoll",
-      "name": "수완가",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_Timebreaker_Timestream",
-      "name": "시간의 흐름",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ClockworkAccelerator",
-      "name": "시계태엽 윤활유",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_CryMeARiver",
-      "name": "실컷 울어봐라",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_MirroredMonetization",
-      "name": "악의적 수익 창출",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_TheVidalion",
-      "name": "얽힌 마법",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_TonsOfStats",
-      "name": "엄청나게 이로운 효과!",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT10_Augment_HeroicGrabBag",
-      "name": "영웅 꾸러미",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_HeroicGrabBagPlus",
-      "name": "영웅 꾸러미+",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BronzeForLifeI",
-      "name": "영원한 브론즈 I",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_GlassCannonII",
-      "name": "유리 대포 II",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_MakeshiftArmor2",
-      "name": "임시변통 방어구 II",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SpeedyDoubleKill",
-      "name": "재빠른 더블 킬",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_SalvageBin",
-      "name": "재활용 쓰레기통",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT8_Augment_SalvageBinPlus",
-      "name": "재활용 쓰레기통+",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_Electrocharge2",
-      "name": "전기 충전 II",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_PlotArmor",
-      "name": "주인공 버프",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ForgeRod",
-      "name": "지팡이 제작자",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_Concentration",
-      "name": "집중",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_GuardbreakerSpirit",
-      "name": "철퇴의 의지",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Warpath",
-      "name": "출정",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT10_Augment_CrashTestDummies",
-      "name": "충돌 시험용 봇",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_TragicalBlade",
-      "name": "치명적인 칼날",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ExclusiveCustomization2",
-      "name": "특별 맞춤 설정 II",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_Prizefighter",
-      "name": "파이트 머니",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ExplosiveGrowth",
-      "name": "폭발적인 성장",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ExplosiveGrowthPlus",
-      "name": "폭발적인 성장+",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_YouHaveMyBow",
-      "name": "활의 수호자",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_GiantAndMighty",
       "name": "거대하고 강력한",
       "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_TradeSector2",
+      "name": "거래 중심지",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ForgeSword",
+      "name": "검 제작자",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_GoldenGamble",
+      "name": "경품 추첨",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_GoldenGamblePlus",
       "name": "경품 추첨+",
       "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_GoldenGamblePlusPlus",
       "name": "경품 추첨++",
       "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
-      "id": "TFT_Augment_SwordOverflow",
-      "name": "넘치는 대검",
+      "id": "TFT_Augment_BodyguardTraining",
+      "name": "경호대 훈련",
       "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BeltOverflow",
-      "name": "넘치는 허리띠",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SweetTreats",
-      "name": "달콤한 간식",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ConstructACompanion",
-      "name": "동료 제작",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Trifecta2",
-      "name": "삼인방 II",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_ForceOfNature",
-      "name": "신병",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_ForceOfNaturePlus",
-      "name": "신병+",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BronzeForLife2",
-      "name": "영원한 브론즈 II",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_AwakenedSoul",
-      "name": "영혼 각성",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ExpectedUnexpectedness",
-      "name": "예상된 예상 밖의 결과",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_UrfsGrabBag2",
-      "name": "우르프의 꾸러미",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_AtWhatCost",
-      "name": "응당한 대가",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT10_Augment_GoingLong",
-      "name": "장기 투자",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_CursedCrown",
-      "name": "저주받은 왕관",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_RollTheDice",
-      "name": "찬란한 장난꾸러기",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_MinMaxer",
-      "name": "최적화",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_Buildabud",
-      "name": "친구 만들기",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_InvestedPlus",
-      "name": "투자+",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_InvestedPlusPlus",
-      "name": "투자++",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_BuildingACollectionPlusPlus",
-      "name": "파묻힌 보물",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_LuckyGlovesPlus",
-      "name": "행운의 장갑+",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_ThriftShop",
-      "name": "현명한 소비",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_TheGoldenEgg",
-      "name": "황금 알",
-      "tier": "A",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BranchingOut",
-      "name": "가지 뻗기",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BranchingOutPlus",
-      "name": "가지 뻗기+",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BoxingLessons",
-      "name": "권투 교습",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_TinyTitans",
-      "name": "꼬마 거인",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_NasusCarry",
-      "name": "꽁!",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT10_Augment_GoodForSomethingSilver",
-      "name": "다 쓸 데가 있다니까 I",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_Diversify1",
-      "name": "단결된 의지",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_BestFriends1",
-      "name": "단짝 I",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_GroupHug1",
-      "name": "단체 포옹 I",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_Recombobulator",
-      "name": "대격변 생성기",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_AatroxCarry",
-      "name": "별빛 연계",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Survivor",
-      "name": "생존자",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ClimbTheLadder1",
-      "name": "서열 상승 I",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_KickStart",
-      "name": "시동 걸기",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ComponentQuestBow",
-      "name": "예비 활",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_RiskyMoves",
-      "name": "위험한 행보",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_GlassCannonI",
-      "name": "유리 대포 I",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_CognitiveTax",
-      "name": "인지세",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_MakeshiftArmor1",
-      "name": "임시변통 방어구 I",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_AFK",
-      "name": "자리 비움",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_BloodBank",
-      "name": "점심값",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Lineup",
-      "name": "정렬",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_PoppyCarry",
-      "name": "정령단 속도",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_PatienceIsAVirtue",
-      "name": "참는 자에게 복을",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_Distancing",
-      "name": "추방자 I",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_OneTwoFive",
-      "name": "하나, 둘, 다섯!",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT9_Augment_OneTwosThree",
-      "name": "하나, 둘, 셋",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_LategameSpecialist",
-      "name": "후반 전문가",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ComponentQuestTear",
-      "name": "흐르는 눈물",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_LegionOfThrees",
-      "name": "3단계 군단",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT6_Augment_CalculatedLoss",
       "name": "계산된 패배",
-      "tier": "B",
+      "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SeraphimsStaff",
-      "name": "고위천사의 지팡이",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_WorthTheWaitGold",
-      "name": "기다림의 미학",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SoloLeveling",
-      "name": "나 혼자 레벨업",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_BestFriends2",
-      "name": "단짝 II",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_GroupHug2",
-      "name": "단체 포옹 II",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_AdvancedLoan",
-      "name": "대출 선지급",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_AdvancedLoanPlus",
-      "name": "대출 선지급+",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_GildedSteel",
-      "name": "도금 강철",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_AnimaSquad_Commander",
-      "name": "동물특공대 지휘관",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_MordekaiserCarry",
-      "name": "뜨거운 죽음",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_ClearMind",
-      "name": "맑은 정신",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_InfinityProtection",
-      "name": "무한한 보호",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ForwardThinking",
-      "name": "미래 지향적 사고",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SideEffects",
-      "name": "부작용",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SpreadingRootsPlus",
-      "name": "뻗어가는 뿌리+",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_EpochPlus",
-      "name": "새로운 시대+",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BirthdayReunion",
-      "name": "생일 모임",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_EpicRolldown",
-      "name": "서사적 새로고침",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ClimbTheLadder2",
-      "name": "서열 상승 II",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_HomeCooking",
-      "name": "선물 꾸러미",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Pilfer",
-      "name": "슬쩍하기",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_Arbiter_DivineAmendment",
-      "name": "신성한 개정",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_TwoTanky",
-      "name": "쌍두마차",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_ArcaneViktory",
-      "name": "아케인 빅토르이!",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_ClutteredMind",
-      "name": "어수선한 마음",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_FuriousBlows",
-      "name": "에너지 파동",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_SavingsAccount",
-      "name": "예금 계좌",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_AuraFarming",
-      "name": "오라 축적",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_HeavyIsTheCrown",
-      "name": "왕관의 무게",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_UrfsGambit",
-      "name": "우르프의 갬빗",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_CosmicRestart",
-      "name": "우주적 재시작",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Flexible",
-      "name": "유연함",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_TourOfTheGalaxy",
-      "name": "은하계 여행",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_CognitiveOverload",
-      "name": "인지 과부하",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_GragasCarry",
-      "name": "자폭",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_Slammin",
-      "name": "재빠른 무장",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT11_Augment_Slammin_Plus",
-      "name": "재빠른 무장+",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_JaxCarry",
-      "name": "저 별을 향해",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_DarkStar_WhiteHole",
-      "name": "전리품 특이점",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_FrontlineFoundation",
-      "name": "전방의 토대",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT17_Augment_PykeCarry",
-      "name": "청부 살인마",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT6_Augment_Distancing2",
-      "name": "추방자 II",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_TheDarkinBlade",
-      "name": "피의 공물",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_LateGameScaling",
-      "name": "후반 성장",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_BacklineBlueprint",
-      "name": "후방 설계도",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_Dhampyr1",
-      "name": "흡혈의 활력 I",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT7_Augment_LivingForge",
-      "name": "간이 대장간",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
-    },
-    {
-      "id": "TFT_Augment_GoldenGamble",
-      "name": "경품 추첨",
-      "tier": "B",
-      "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_AnExaltedAdventure",
       "name": "고귀한 모험",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ItemGargoyleStoneplate",
+      "name": "고독한 방패",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SeraphimsStaff",
+      "name": "고위천사의 지팡이",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_HighVoltage",
+      "name": "고전압",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_KayleGodAugment_Scrapper",
+      "name": "고철 수집가의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_TradeSector",
+      "name": "교환의 장",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_SubscriptionService",
       "name": "구독 서비스",
-      "tier": "B",
+      "tier": "C",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ItemSpiritVisage",
+      "name": "구원의 영혼",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_PrimordianPrismaticAugment",
+      "name": "군체의 심장",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BoxingLessons",
+      "name": "권투 교습",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_HardCommit",
       "name": "극진한 헌신",
-      "tier": "B",
+      "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_FiresalePlus",
+      "name": "급매",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_WorthTheWaitGold",
+      "name": "기다림의 미학",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_WorthTheWaitPrismatic",
       "name": "기다림의 미학 II",
-      "tier": "B",
+      "tier": "S",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ComponentQuestSword",
+      "name": "길을 내라",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT9_Augment_TiniestTitanPlus",
       "name": "꼬꼬마 거인",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_TinyTitans",
+      "name": "꼬마 거인",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_NasusCarry",
+      "name": "꽁!",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_ArmyBuilding",
+      "name": "끈끈한 우정",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_LearningFromExperience2",
+      "name": "끈질긴 연구",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SoloLeveling",
+      "name": "나 혼자 레벨업",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TheBaronsLair",
+      "name": "남작의 소굴",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SwordOverflow",
+      "name": "넘치는 대검",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_WandOverflow",
+      "name": "넘치는 지팡이",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BeltOverflow",
+      "name": "넘치는 허리띠",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT10_Augment_GoodForSomethingSilver",
+      "name": "다 쓸 데가 있다니까 I",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_Diversify1",
+      "name": "단결된 의지",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_NoScoutNoPivot",
+      "name": "단일 조합 사수",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_BestFriends1",
+      "name": "단짝 I",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_BestFriends2",
+      "name": "단짝 II",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_GroupHug1",
+      "name": "단체 포옹 I",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_GroupHug2",
+      "name": "단체 포옹 II",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SweetTreats",
+      "name": "달콤한 간식",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_Recombobulator",
+      "name": "대격변 생성기",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Unforgotten",
+      "name": "대장군의 명예",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_AdvancedLoan",
+      "name": "대출 선지급",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_AdvancedLoanPlus",
+      "name": "대출 선지급+",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_DeadlierCaps",
+      "name": "더욱 치명적인 모자",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_GildedSteel",
+      "name": "도금 강철",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_BandOfThieves1",
+      "name": "도둑 무리",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT6_Augment_BandOfThieves2",
       "name": "도둑 무리 II",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT6_Augment_BandOfThieves2Plus",
       "name": "도둑 무리 II+",
-      "tier": "B",
+      "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT6_Augment_BandOfThieves2PlusPlus",
       "name": "도둑 무리 II++",
-      "tier": "B",
+      "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_MoneyMonsoon",
       "name": "돈 폭풍",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_MoneyHungry",
+      "name": "돈독",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ConstructACompanion",
+      "name": "동료 제작",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_AnimaSquad_Commander",
+      "name": "동물특공대 지휘관",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_FeedTheFlames",
+      "name": "땔감 제공",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_MordekaiserCarry",
+      "name": "뜨거운 죽음",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT6_Augment_MaxLevel10",
       "name": "레벨 업!",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_MagicRoll",
+      "name": "마법 주사위",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_ClearMind",
+      "name": "맑은 정신",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_JustSlayer",
+      "name": "무차별적 살인자",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_InfinityProtection",
+      "name": "무한한 보호",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ForwardThinking",
+      "name": "미래 지향적 사고",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_VarusGodAugment_BoonOfStars",
+      "name": "바루스의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Misfits",
+      "name": "반항아",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_LeonaCarry",
+      "name": "방패 여전사",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_AatroxCarry",
+      "name": "별빛 연계",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TreasureHunt",
+      "name": "보물 사냥",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_JeweledLotus",
+      "name": "보석 연꽃 I",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_GreaterJeweledLotus",
+      "name": "보석 연꽃 II",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Replication",
+      "name": "복제",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BoosterPack",
+      "name": "부스터 팩",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BoosterPackPlus",
+      "name": "부스터 팩+",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BoosterPackPlusPlus",
+      "name": "부스터 팩++",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Corrosion",
+      "name": "부식",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SideEffects",
+      "name": "부작용",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_AurelionSolGodAugment_BoonOfResurrection",
+      "name": "부활의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_Commander_PartialAscension",
+      "name": "불완전한 초월",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_OneBuffTwoBuff",
       "name": "붉고 푸른 효과",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_IvernMinionCarry",
+      "name": "빅뱅",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_ShimmerscaleEssence",
       "name": "빛비늘 정수",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SpreadingRoots",
+      "name": "뻗어가는 뿌리",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SpreadingRootsPlus",
+      "name": "뻗어가는 뿌리+",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_CyberneticImplants2",
+      "name": "사이버네틱 이식술",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_CyberneticUplink2",
+      "name": "사이버네틱 통신",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Trifecta1",
+      "name": "삼인방 I",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Trifecta2",
+      "name": "삼인방 II",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_Commander_RollingForDays",
+      "name": "새로고침의 날 I",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT11_Augment_Epoch",
+      "name": "새로운 시대",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT11_Augment_EpochPlus",
+      "name": "새로운 시대+",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BirthdayReunion",
+      "name": "생일 모임",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT7_Augment_BirthdayPresents",
       "name": "생일 선물",
-      "tier": "B",
+      "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Survivor",
+      "name": "생존자",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_EpicRolldown",
+      "name": "서사적 새로고침",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ClimbTheLadder1",
+      "name": "서열 상승 I",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ClimbTheLadder2",
+      "name": "서열 상승 II",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_HomeCooking",
+      "name": "선물 꾸러미",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_WinOut",
       "name": "성취",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_SorakaGodAugment",
+      "name": "소라카의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_HyperRoll",
+      "name": "수완가",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_BardPlaybook1",
+      "name": "수호자의 친구",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Pilfer",
+      "name": "슬쩍하기",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Waverider",
+      "name": "승승장구",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_Timebreaker_Timestream",
+      "name": "시간의 흐름",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ClockworkAccelerator",
+      "name": "시계태엽 윤활유",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_KickStart",
+      "name": "시동 걸기",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_ForceOfNature",
+      "name": "신병",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_ForceOfNaturePlus",
+      "name": "신병+",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_Arbiter_DivineAmendment",
+      "name": "신성한 개정",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_ApotheoticForge",
+      "name": "신성한 대장간",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_LongTimeCrafting",
+      "name": "신중한 제작",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_CryMeARiver",
+      "name": "실컷 울어봐라",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TwoTanky",
+      "name": "쌍두마차",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TwinGuardians",
+      "name": "쌍둥이 수호자",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_ThreshGodAugment",
+      "name": "쓰레쉬의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_AhriGodAugment",
+      "name": "아리의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_AurelionSolGodAugment",
+      "name": "아우렐리온 솔의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_ItemGrabBag1",
+      "name": "아이템 꾸러미",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ArcaneViktory",
+      "name": "아케인 빅토르이!",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_MirroredMonetization",
+      "name": "악의적 수익 창출",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_YasuoGodAugment_MoreHexes",
+      "name": "야스오의 스포트라이트 공유",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_YasuoGodAugment_PaintedPower",
+      "name": "야스오의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_YasuoGodAugment_GoldenHex",
+      "name": "야스오의 황금 칸",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_MagicRollMinus",
+      "name": "약간 신비한 주사위",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_ClutteredMind",
+      "name": "어수선한 마음",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TheVidalion",
+      "name": "얽힌 마법",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_TonsOfStats",
+      "name": "엄청나게 이로운 효과!",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_FuriousBlows",
+      "name": "에너지 파동",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_EkkoGodAugment",
+      "name": "에코의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_ComebackStory",
       "name": "역전의 서막",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_MissedConnections",
+      "name": "연결 불가",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ComponentQuestRod",
+      "name": "연속 주문 사용",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT10_Augment_HeroicGrabBag",
+      "name": "영웅 꾸러미",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_HeroicGrabBagPlus",
+      "name": "영웅 꾸러미+",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_HeroicGrabBagPlusPlus",
+      "name": "영웅 꾸러미++",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BronzeForLifeI",
+      "name": "영원한 브론즈 I",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BronzeForLife2",
+      "name": "영원한 브론즈 II",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_AwakenedSoul",
+      "name": "영혼 각성",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SavingsAccount",
+      "name": "예금 계좌",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ComponentQuestBow",
+      "name": "예비 활",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ExpectedUnexpectedness",
+      "name": "예상된 예상 밖의 결과",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_AuraFarming",
+      "name": "오라 축적",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_HeavyIsTheCrown",
+      "name": "왕관의 무게",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_UrfsGambit",
+      "name": "우르프의 갬빗",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_UrfsGrabBag2",
+      "name": "우르프의 꾸러미",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_CosmicRestart",
+      "name": "우주적 재시작",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_RiskyMoves",
+      "name": "위험한 행보",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_GlassCannonI",
+      "name": "유리 대포 I",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_GlassCannonII",
+      "name": "유리 대포 II",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Flexible",
+      "name": "유연함",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_IronAssets",
+      "name": "유용한 금속",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_SilverSpoon",
+      "name": "은수저",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_TourOfTheGalaxy",
+      "name": "은하계 여행",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT11_Augment_AtWhatCost",
+      "name": "응당한 대가",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Retribution",
+      "name": "응징",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_EvelynnGodAugment",
+      "name": "이블린의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_CognitiveOverload",
+      "name": "인지 과부하",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_CognitiveTax",
+      "name": "인지세",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_CognitiveTaxPlus",
+      "name": "인지세+",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SliceOfLife",
+      "name": "일상물",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_RestartMission",
+      "name": "임무 재시작",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_MakeshiftArmor1",
+      "name": "임시변통 방어구 I",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_MakeshiftArmor2",
+      "name": "임시변통 방어구 II",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_AFK",
+      "name": "자리 비움",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_GragasCarry",
+      "name": "자폭",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SmallGrabBag",
+      "name": "작은 꾸러미",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT10_Augment_LittleBuddies",
+      "name": "작은 친구들",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT11_Augment_TinyButDeadly",
       "name": "작지만 치명적인",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT10_Augment_GoingLong",
+      "name": "장기 투자",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SpeedyDoubleKill",
+      "name": "재빠른 더블 킬",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT11_Augment_Slammin",
+      "name": "재빠른 무장",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT11_Augment_Slammin_Plus",
+      "name": "재빠른 무장+",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_SecondWind1",
+      "name": "재생의 바람",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_SecondWind2",
+      "name": "재생의 바람 II",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_SalvageBin",
+      "name": "재활용 쓰레기통",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT8_Augment_SalvageBinPlus",
+      "name": "재활용 쓰레기통+",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_JaxCarry",
+      "name": "저 별을 향해",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_CursedCrown",
+      "name": "저주받은 왕관",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_Electrocharge1",
+      "name": "전기 충전 I",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_Electrocharge2",
+      "name": "전기 충전 II",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_TacticiansKitchen",
       "name": "전략가의 주방",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_DarkStar_WhiteHole",
+      "name": "전리품 특이점",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_FrontlineFoundation",
+      "name": "전방의 토대",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ChargeTransfer1",
+      "name": "전하 이동 I",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ChargeTransfer2",
+      "name": "전하 이동 II",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT11_Augment_BloodBank",
+      "name": "점심값",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_CraftedCrafting",
+      "name": "정교한 공예",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Lineup",
+      "name": "정렬",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_PoppyCarry",
+      "name": "정령단 속도",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_EarlyLearning",
+      "name": "조기 교육",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_MuseumHeist",
       "name": "조합 아이템 강탈",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_PlotArmor",
+      "name": "주인공 버프",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_FindYourCenter",
+      "name": "중심 잡기",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_PowerUp",
+      "name": "증강된 힘",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ForgeRod",
+      "name": "지팡이 제작자",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_HoldTheLine",
       "name": "진형 유지",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_Concentration",
+      "name": "집중",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_RollTheDice",
+      "name": "찬란한 장난꾸러기",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_PatienceIsAVirtue",
+      "name": "참는 자에게 복을",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_GuardbreakerSpirit",
+      "name": "철퇴의 의지",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_PykeCarry",
+      "name": "청부 살인마",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_Commander_Ascension",
+      "name": "초월",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_MinMaxer",
+      "name": "최적화",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_Distancing",
+      "name": "추방자 I",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_Distancing2",
+      "name": "추방자 II",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_UpwardMobility",
       "name": "출세가도",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Warpath",
+      "name": "출정",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT10_Augment_CrashTestDummies",
+      "name": "충돌 시험용 봇",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TragicalBlade",
+      "name": "치명적인 칼날",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT11_Augment_Buildabud",
+      "name": "친구 만들기",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_ForgeAFriend",
       "name": "친구 사귀기",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_InvaderZed",
+      "name": "침략자 제드",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_KayleGodAugment",
+      "name": "케일의 은총",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_SizeMatters",
+      "name": "크기의 중요성",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_BigGrabBag",
+      "name": "큰 꾸러미",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Expedition",
+      "name": "탐사",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TheTower",
+      "name": "탑",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_SunfireBoard",
+      "name": "태양불꽃판",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_InvestedPlus",
+      "name": "투자+",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_InvestedPlusPlus",
+      "name": "투자++",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ExclusiveCustomization",
+      "name": "특별 맞춤 설정",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ExclusiveCustomization2",
+      "name": "특별 맞춤 설정 II",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_TraitTree",
       "name": "특성 나무",
-      "tier": "B",
+      "tier": "S",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_TraitTreePlus",
       "name": "특성 나무+",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_BuildingACollectionPlusPlus",
+      "name": "파묻힌 보물",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT11_Augment_Prizefighter",
+      "name": "파이트 머니",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_PandorasItems",
+      "name": "판도라의 아이템",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_PandorasItems2",
+      "name": "판도라의 아이템 II",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_PandorasRadiantBox",
+      "name": "판도라의 아이템 III",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ExplosiveGrowth",
+      "name": "폭발적인 성장",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ExplosiveGrowthPlus",
+      "name": "폭발적인 성장+",
+      "tier": "S",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_GachaAddict",
+      "name": "프리즘 티켓",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TheDarkinBlade",
+      "name": "피의 공물",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT17_Augment_EvelynnGodAugment_BloodPrice",
+      "name": "피의 대가",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_OneTwoFive",
+      "name": "하나, 둘, 다섯!",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_OneTwosThree",
+      "name": "하나, 둘, 셋",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_WeStickTogether",
       "name": "하나로 뭉치는 거지",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_FeelingLucky",
+      "name": "행운의 기운",
+      "tier": "B",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT7_Augment_LuckyGloves",
       "name": "행운의 장갑",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_LuckyGlovesPlus",
+      "name": "행운의 장갑+",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT9_Augment_HedgeFund",
       "name": "헤지 펀드",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT9_Augment_HedgeFundPlus",
       "name": "헤지 펀드+",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_ThriftShop",
+      "name": "현명한 소비",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_Commander_TeamingUp1",
+      "name": "협력",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_LuxurySubscription",
       "name": "호화로운 정기 구독",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
-      "id": "TFT_Augment_ForgedInStrength",
-      "name": "힘을 실은 제련",
+      "id": "TFT11_Augment_Calltochaos",
+      "name": "혼돈의 부름",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_MarksMan",
+      "name": "화력 집중",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_YouHaveMyBow",
+      "name": "활의 수호자",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_TheGoldenDragon",
+      "name": "황금 드래곤",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT6_Augment_TheGoldenEgg",
+      "name": "황금 알",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_HealingOrbsI",
+      "name": "회복의 구 I",
       "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
-      "id": "TFT_Augment_RestartMission",
-      "name": "임무 재시작",
-      "tier": "C",
+      "id": "TFT9_Augment_HealingOrbsII",
+      "name": "회복의 구 II",
+      "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
-      "id": "TFT_Augment_Expedition",
-      "name": "탐사",
-      "tier": "C",
+      "id": "TFT_Augment_LateGameScaling",
+      "name": "후반 성장",
+      "tier": "A",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT7_Augment_LategameSpecialist",
+      "name": "후반 전문가",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_BacklineBlueprint",
+      "name": "후방 설계도",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
       "id": "TFT_Augment_Dummify",
       "name": "훈련 봇 변환",
-      "tier": "C",
+      "tier": "B",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     },
     {
-      "id": "TFT17_Augment_IvernMinionCarry",
-      "name": "빅뱅",
+      "id": "TFT6_Augment_PortableForge",
+      "name": "휴대용 대장간",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ComponentQuestTear",
+      "name": "흐르는 눈물",
       "tier": "C",
       "pickRate": null,
-      "sourceLabel": "OP.GG 17.9 증강 티어"
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_Dhampyr1",
+      "name": "흡혈의 활력 I",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT9_Augment_Legend_HighEndSector",
+      "name": "흥청망청",
+      "tier": "C",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT_Augment_ForgedInStrength",
+      "name": "힘을 실은 제련",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
+    },
+    {
+      "id": "TFT16_Augment_UltraRapidFire",
+      "name": "U.R.F",
+      "tier": "A",
+      "pickRate": null,
+      "sourceLabel": "LoLCHESS.GG 티어 · 픽률 비공개"
     }
   ]
 }
-

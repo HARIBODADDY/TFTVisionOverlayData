@@ -18,7 +18,10 @@
           "tier": {"type": "string"},
           "patch": {"type": "string"},
           "teamCode": {"type": "string"},
+          "teamBuilderKey": {"type": "string"},
           "sourceLabel": {"type": "string"},
+          "sourceUrl": {"type": "string"},
+          "sourceMatch": {"type": "number", "minimum": 0, "maximum": 1},
           "averagePlace": {"type": "number", "minimum": 1, "maximum": 8},
           "top4Rate": {"type": "number", "minimum": 0, "maximum": 100},
           "pickRate": {"type": "number", "minimum": 0, "maximum": 100},
@@ -33,6 +36,7 @@
                 "name": {"type": "string"},
                 "row": {"type": "integer", "minimum": 0, "maximum": 3},
                 "column": {"type": "integer", "minimum": 0, "maximum": 6},
+                "star": {"type": "integer", "minimum": 1, "maximum": 4},
                 "items": {"type": "array", "maxItems": 3, "items": {"type": "string"}}
               }
             }
