@@ -27,10 +27,13 @@ for (const deck of catalog.decks || []) {
         occupied.add(coordinate);
         if ((unit.items || []).length > 3) errors.push(`${deck.title}: more than three items`);
     }
+    if (!Array.isArray(deck.phaseBoards) || deck.phaseBoards.length !== 3) {
+        errors.push(`${deck.title}: early/mid/final phase boards required`);
+    }
 }
 
 for (const augment of catalog.augments || []) {
-    if (!augment.id || !augment.name || !["S", "A", "B", "C"].includes(augment.tier)) {
+    if (!augment.id || !augment.name || !augment.description || !["S", "A", "B", "C"].includes(augment.tier)) {
         errors.push(`invalid augment ${augment.id || augment.name}`);
     }
 }
