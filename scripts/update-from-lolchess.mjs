@@ -164,6 +164,59 @@ function buildTeamCode(championNames, championCodeByName) {
     return code.length === 40 ? code : "";
 }
 
+function championCost(champion) {
+    const raw = Array.isArray(champion?.cost) ? champion.cost[0] : champion?.cost;
+    return clamp(Number(raw || 1), 1, 9);
+}
+
+function augmentCategory(augment) {
+    const text = `${augment?.name || ""} ${stripHtml(augment?.desc || "")}`;
+    if (/골드|이자|경험치|레벨|상점|새로고침/.test(text)) return "경제/운영";
+    if (/아이템|장비|모루|조합 아이템|상징/.test(text)) return "아이템";
+    if (/챔피언|유닛|복사기|지원군/.test(text)) return "유닛 강화";
+    if (/피해|공격|방어|체력|마나|회복|보호막|흡혈/.test(text)) return "전투";
+    return "범용";
+}
+
+function augmentRarity(value) {
+    if (Number(value) === 1) return "실버";
+    if (Number(value) === 2) return "골드";
+    if (Number(value) === 3) return "프리즘";
+    return "";
+}
+
+function bestTftacticsComp(units, teamComps) {
+    const roster = units.map((unit) => championSlug(unit.championId));
+    const matches = (teamComps || []).map((comp) => ({
+        comp,
+        score: jaccard(roster, (comp.characters || []).map((unit) => normalizeName(unit.name)))
+    })).sort((a, b) => b.score - a.score);
+    return matches[0]?.score >= 0.5 ? matches[0].comp : null;
+}
+
+function coachPhaseBoards(units, tacticsComp) {
+    const midOrder = new Map(
+        (tacticsComp?.mid || []).map((name, index) => [normalizeName(name), index])
+    );
+    const priority = [...units].sort((a, b) => {
+        const aMid = midOrder.get(championSlug(a.championId));
+        const bMid = midOrder.get(championSlug(b.championId));
+        if (aMid !== undefined || bMid !== undefined) {
+            if (aMid === undefined) return 1;
+            if (bMid === undefined) return -1;
+            if (aMid !== bMid) return aMid - bMid;
+        }
+        if (b.items.length !== a.items.length) return b.items.length - a.items.length;
+        return (a.cost || 9) - (b.cost || 9);
+    });
+    const sorted = (values) => [...values].sort((a, b) => a.row - b.row || a.column - b.column);
+    return [
+        { key: "early", label: "초반", stage: "2스테이지 · 핵심 4기", units: sorted(priority.slice(0, 4)) },
+        { key: "mid", label: "중반", stage: "3스테이지 · 핵심 6기", units: sorted(priority.slice(0, 6)) },
+        { key: "final", label: "최종", stage: "4스테이지 이후 · 완성 배치", units }
+    ];
+}
+
 async function loadTftacticsTeamCodes(expectedPatch) {
     const pageUrl = `${TFTACTICS}/tierlist/team-comps/`;
     const page = await fetchText(pageUrl);
@@ -190,7 +243,7 @@ async function loadTftacticsTeamCodes(expectedPatch) {
         const code = buildTeamCode(names, championCodeByName);
         if (code) exactCodeByRoster.set(rosterSignature(names), { code, name: comp.name });
     }
-    return { championCodeByName, exactCodeByRoster, pageUrl };
+    return { championCodeByName, exactCodeByRoster, teamComps, champions, pageUrl };
 }
 
 function stableId(value) {
@@ -269,12 +322,15 @@ function validateCatalog(catalog) {
             occupied.add(coordinate);
             if ((unit.items || []).length > 3) errors.push(`${deck.title}: too many items`);
         }
+        if (!Array.isArray(deck.phaseBoards) || deck.phaseBoards.length !== 3) {
+            errors.push(`${deck.title}: early/mid/final phase boards are required`);
+        }
     }
     if (!Array.isArray(catalog.augments) || catalog.augments.length < 100) {
         errors.push("at least 100 visible augments are required");
     }
     for (const augment of catalog.augments || []) {
-        if (!augment.name || !["S", "A", "B", "C"].includes(augment.tier)) {
+        if (!augment.name || !["S", "A", "B", "C"].includes(augment.tier) || !augment.description) {
             errors.push(`invalid augment: ${augment.name || augment.id || "unknown"}`);
         }
     }
@@ -309,7 +365,18 @@ async function main() {
     const augmentRefs = queryData(augmentsPage, "augmentRefs").augments || [];
 
     const championByKey = new Map(championRefs.map((champion) => [champion.key, champion]));
-    const itemByKey = new Map(itemRefs.map((item) => [item.key, item]));
+    const championByNormalized = new Map(
+        championRefs.flatMap((champion) => [
+            [normalizeName(champion.key), champion],
+            [championSlug(champion.ingameKey), champion]
+        ])
+    );
+    const itemByKey = new Map(
+        itemRefs.flatMap((item) => [
+            [item.key, item],
+            [item.ingameKey, item]
+        ].filter(([key]) => key))
+    );
     const matches = selectDeckMatches(
         metaDeckData.metaDeckList?.metaDecks || [],
         guideData.guideDecks || []
@@ -342,9 +409,27 @@ async function main() {
                     row: Math.floor(slot.index / 7),
                     column: slot.index % 7,
                     star: clamp(Number(slot.star || 2), 1, 4),
-                    items: (slot.items || []).slice(0, 3).map((key) => itemByKey.get(key)?.name || key)
+                    cost: championCost(champion),
+                    role: champion?.role || "",
+                    items: (slot.items || []).slice(0, 3).map((key) => itemByKey.get(key)?.name || key),
+                    recommendedItems: (champion?.recommendItems || [])
+                        .map((key) => itemByKey.get(key)?.name || "")
+                        .filter(Boolean)
+                        .slice(0, 5)
                 };
             });
+        const tacticsComp = bestTftacticsComp(units, tftactics?.teamComps || []);
+        const substitutions = (tacticsComp?.replacements || [])
+            .map((replacement) => ({
+                out: (replacement.out || []).map((name) =>
+                    championByNormalized.get(normalizeName(name))?.name || name
+                ),
+                in: (replacement.in || []).map((name) =>
+                    championByNormalized.get(normalizeName(name))?.name || name
+                ),
+                note: "TFTactics 메타 대체안"
+            }))
+            .filter((replacement) => replacement.in.length > 0);
         const championIds = units.map((unit) => unit.championId);
         const roster = units.map((unit) => teamCodeRosterName(unit.championId)).filter(Boolean);
         const exactTftactics = tftactics?.exactCodeByRoster.get(rosterSignature(roster));
@@ -371,7 +456,9 @@ async function main() {
             top4Rate: round(metaDeck.topRate),
             pickRate: round(metaDeck.pickRate),
             levelPlan: levelPlanFromGuide(detailedBuilder?.guide),
-            units
+            units,
+            phaseBoards: coachPhaseBoards(units, tacticsComp),
+            substitutions
         });
     }
 
@@ -397,6 +484,15 @@ async function main() {
                 id,
                 name: augment.name,
                 tier,
+                description: stripHtml(augment.desc),
+                category: augmentCategory(augment),
+                rarity: augmentRarity(augment.tier),
+                compatibleDecks: decks
+                    .filter((deck) => deck.units.some((unit) =>
+                        normalizeName(`${augment.name} ${augment.desc}`).includes(normalizeName(unit.name))
+                    ))
+                    .slice(0, 3)
+                    .map((deck) => deck.title),
                 sourceLabel: "LoLCHESS.GG 공개 티어 · TFT Vision 가공"
             };
         })
