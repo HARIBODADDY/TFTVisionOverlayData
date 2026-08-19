@@ -3,9 +3,10 @@
 Public, static metadata feed for the private TFT Vision Overlay Android app.
 
 The current feed contains 12 patch 17.9 recommended comps, exact 4×7 board
-coordinates, item recommendations, Team Planner codes, and S/A/B/C tiers for
-272 augments. The Android app fetches `catalog.json` at startup and keeps the
-last successful response as its offline cache.
+coordinates, early/mid/final coach boards, item priorities and alternatives,
+unit substitutions, Team Planner codes, and S/A/B/C tiers plus descriptions
+for 272 augments. The Android app fetches `catalog.json` at startup and keeps
+the last successful response as its offline cache.
 
 The repository contains no app source, credentials, or personal data. It stores
 only a compact, transformed metadata catalog; fetched HTML is never committed.
@@ -34,8 +35,9 @@ tier so that unavailable or incomparable selection-rate values are not shown.
 
 `scripts/update-from-lolchess.mjs` reads the public server-rendered metadata,
 matches statistical decks to curated 4×7 formations, converts slot indexes to
-row/column coordinates, resolves Korean champion/item names, and fills valid
-Team Planner codes from the current TFTactics.gg data bundle. It checks each
+row/column coordinates, resolves Korean champion/item names and recommended
+alternatives, builds three coach phases, and fills valid Team Planner codes and
+substitution candidates from the current TFTactics.gg data bundle. It checks each
 source's `robots.txt`, includes a contact address in the standard `From`
 request header, waits at least 1.2 seconds between requests, and fails without
 replacing the last valid catalog if a required source format changes.
