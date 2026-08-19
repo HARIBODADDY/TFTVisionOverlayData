@@ -1,20 +1,22 @@
 {
   "schemaVersion": 2,
   "patch": "17.9 · 세트 17",
-  "updatedAt": "2026-08-19T08:13:26.824Z",
+  "updatedAt": "2026-08-19T08:41:55.876Z",
   "decks": [
     {
       "id": "8395032d80f23319d36e8c5f119f0366",
       "title": "별돌보미 룰루",
       "tier": "S",
       "patch": "17.9",
-      "teamCode": "",
+      "teamCode": "0201d02b02c03d02503001e021000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 · Reach for the Stars",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "728c5b3d8fd0671efd880f37b90420329ec6754c",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/728c5b3d8fd0671efd880f37b90420329ec6754c?type=guide",
       "sourceMatch": 1,
       "averagePlace": 3.98,
-      "top4Rate": 59.91,
+      "top4Rate": 59.94,
       "pickRate": 0.82,
       "levelPlan": {
         "2-3": 4,
@@ -110,14 +112,16 @@
       "title": "전달자 미스 포츈",
       "tier": "A",
       "patch": "17.9",
-      "teamCode": "0201d03101e00103602102e058000000TFTSet17",
+      "teamCode": "0203602103101e00001d00102e000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "cada5ea80f01e7f13f023f80ec748cdf5275635f",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/cada5ea80f01e7f13f023f80ec748cdf5275635f?type=guide",
       "sourceMatch": 1,
-      "averagePlace": 4.15,
-      "top4Rate": 56.17,
-      "pickRate": 0.38,
+      "averagePlace": 4.14,
+      "top4Rate": 56.42,
+      "pickRate": 0.37,
       "levelPlan": {
         "2-1": 4,
         "2-5": 5,
@@ -210,13 +214,15 @@
       "title": "전달자 조이",
       "tier": "A",
       "patch": "17.9",
-      "teamCode": "0204204e04101102e026058039000000TFTSet17",
+      "teamCode": "0204e00003901104204102e026000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "5095bb31f1666b9bc45b1e2258417375f468a977",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/5095bb31f1666b9bc45b1e2258417375f468a977?type=guide",
       "sourceMatch": 1,
-      "averagePlace": 4.18,
-      "top4Rate": 57,
+      "averagePlace": 4.17,
+      "top4Rate": 56.98,
       "pickRate": 0.24,
       "levelPlan": {
         "2-1": 4,
@@ -308,17 +314,109 @@
       ]
     },
     {
+      "id": "c7aabea91faca7e5b90cea59b7ed6dcb",
+      "title": "메카 아우렐리온 솔",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "0202702104e000026022000000000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
+      "teamBuilderKey": "5b44b33e3b3d138d244ec72b82a6a095ecc4479a",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/5b44b33e3b3d138d244ec72b82a6a095ecc4479a?type=guide",
+      "sourceMatch": 0.714,
+      "averagePlace": 4.29,
+      "top4Rate": 54.83,
+      "pickRate": 0.54,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "5-1": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_Galio",
+          "name": "거대 메크 로봇",
+          "row": 0,
+          "column": 3,
+          "star": 2,
+          "items": [
+            "가고일 돌갑옷",
+            "가고일 돌갑옷",
+            "사자의 비가"
+          ]
+        },
+        {
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
+          "row": 2,
+          "column": 1,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Mordekaiser",
+          "name": "모데카이저",
+          "row": 2,
+          "column": 2,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 2,
+          "column": 3,
+          "star": 2,
+          "items": [
+            "수호자의 맹세",
+            "워모그의 갑옷",
+            "덤불 조끼"
+          ]
+        },
+        {
+          "championId": "TFT17_AurelionSol",
+          "name": "아우렐리온 솔",
+          "row": 3,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "보석 건틀릿",
+            "라바돈의 죽음모자",
+            "절멸자"
+          ]
+        },
+        {
+          "championId": "TFT17_Karma",
+          "name": "카르마",
+          "row": 3,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "모렐로노미콘",
+            "공허의 지팡이",
+            "쇼진의 창"
+          ]
+        }
+      ]
+    },
+    {
       "id": "4097edcd16c2aeb1a950edcbb2d3d7d9",
       "title": "운명술사 트위스티드 페이트",
       "tier": "A",
       "patch": "17.9",
       "teamCode": "0201d01b02a02b02c03d01903c000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 · Stargazer Fateweavers",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "fe0b74f2d8a06ad48de822cc10b7cbb5ebfbec27",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/fe0b74f2d8a06ad48de822cc10b7cbb5ebfbec27?type=guide",
       "sourceMatch": 1,
-      "averagePlace": 4.38,
-      "top4Rate": 52.73,
+      "averagePlace": 4.37,
+      "top4Rate": 53.07,
       "pickRate": 0.26,
       "levelPlan": {
         "2-3": 4,
@@ -418,14 +516,16 @@
       "title": "고밸류 그브 벡스",
       "tier": "A",
       "patch": "17.9",
-      "teamCode": "",
+      "teamCode": "0201d02c00d03803900001305003a000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "edd8ec0f8e5d9963b53b73086b20867c3cb0c873",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/edd8ec0f8e5d9963b53b73086b20867c3cb0c873?type=guide",
       "sourceMatch": 0.636,
-      "averagePlace": 4.41,
-      "top4Rate": 50.28,
-      "pickRate": 0.64,
+      "averagePlace": 4.37,
+      "top4Rate": 50.86,
+      "pickRate": 0.57,
       "levelPlan": {
         "2-1": 4,
         "2-5": 5,
@@ -530,219 +630,19 @@
       ]
     },
     {
-      "id": "c7aabea91faca7e5b90cea59b7ed6dcb",
-      "title": "메카 아우렐리온 솔",
-      "tier": "A",
-      "patch": "17.9",
-      "teamCode": "",
-      "teamBuilderKey": "5b44b33e3b3d138d244ec72b82a6a095ecc4479a",
-      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
-      "sourceUrl": "https://lolchess.gg/builder/guide/5b44b33e3b3d138d244ec72b82a6a095ecc4479a?type=guide",
-      "sourceMatch": 0.714,
-      "averagePlace": 4.42,
-      "top4Rate": 51.76,
-      "pickRate": 0.35,
-      "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
-        "3-2": 6,
-        "3-5": 7,
-        "4-2": 8,
-        "5-1": 9
-      },
-      "units": [
-        {
-          "championId": "TFT17_Galio",
-          "name": "거대 메크 로봇",
-          "row": 0,
-          "column": 3,
-          "star": 2,
-          "items": [
-            "가고일 돌갑옷",
-            "가고일 돌갑옷",
-            "사자의 비가"
-          ]
-        },
-        {
-          "championId": "TFT17_Rhaast",
-          "name": "라아스트",
-          "row": 2,
-          "column": 1,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Mordekaiser",
-          "name": "모데카이저",
-          "row": 2,
-          "column": 2,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Morgana",
-          "name": "모르가나",
-          "row": 2,
-          "column": 3,
-          "star": 2,
-          "items": [
-            "수호자의 맹세",
-            "워모그의 갑옷",
-            "덤불 조끼"
-          ]
-        },
-        {
-          "championId": "TFT17_AurelionSol",
-          "name": "아우렐리온 솔",
-          "row": 3,
-          "column": 0,
-          "star": 2,
-          "items": [
-            "보석 건틀릿",
-            "라바돈의 죽음모자",
-            "절멸자"
-          ]
-        },
-        {
-          "championId": "TFT17_Karma",
-          "name": "카르마",
-          "row": 3,
-          "column": 1,
-          "star": 2,
-          "items": [
-            "모렐로노미콘",
-            "공허의 지팡이",
-            "쇼진의 창"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6ee93abf79cd4de33fb5a66a46c02f10",
-      "title": "습격자 킨드레드",
-      "tier": "A",
-      "patch": "17.9",
-      "teamCode": "",
-      "teamBuilderKey": "78fbc735aa3dafb960a3ede0f8830116a9d644b9",
-      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
-      "sourceUrl": "https://lolchess.gg/builder/guide/78fbc735aa3dafb960a3ede0f8830116a9d644b9?type=guide",
-      "sourceMatch": 0.8,
-      "averagePlace": 4.44,
-      "top4Rate": 52.26,
-      "pickRate": 0.11,
-      "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
-        "3-2": 6,
-        "3-5": 7,
-        "4-2": 8,
-        "5-1": 9
-      },
-      "units": [
-        {
-          "championId": "TFT17_MasterYi",
-          "name": "마스터 이",
-          "row": 0,
-          "column": 0,
-          "star": 2,
-          "items": [
-            "거인 학살자",
-            "밤의 끝자락",
-            "거인의 결의"
-          ]
-        },
-        {
-          "championId": "TFT17_TahmKench",
-          "name": "탐 켄치",
-          "row": 0,
-          "column": 1,
-          "star": 2,
-          "items": [
-            "가고일 돌갑옷",
-            "워모그의 갑옷",
-            "굳건한 심장"
-          ]
-        },
-        {
-          "championId": "TFT17_Maokai",
-          "name": "마오카이",
-          "row": 0,
-          "column": 6,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Fiora",
-          "name": "피오라",
-          "row": 1,
-          "column": 0,
-          "star": 2,
-          "items": [
-            "거인 학살자",
-            "피바라기",
-            "스테락의 도전"
-          ]
-        },
-        {
-          "championId": "TFT17_Gragas",
-          "name": "그라가스",
-          "row": 1,
-          "column": 6,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Belveth",
-          "name": "벨베스",
-          "row": 2,
-          "column": 0,
-          "star": 2,
-          "items": [
-            "악성코드 매트릭스"
-          ]
-        },
-        {
-          "championId": "TFT17_Urgot",
-          "name": "우르곳",
-          "row": 2,
-          "column": 1,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Rhaast",
-          "name": "라아스트",
-          "row": 2,
-          "column": 6,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Kindred",
-          "name": "킨드레드",
-          "row": 3,
-          "column": 0,
-          "star": 2,
-          "items": [
-            "최후의 속삭임",
-            "붉은 덩굴정령",
-            "구인수의 격노검"
-          ]
-        }
-      ]
-    },
-    {
       "id": "b01644875835d469c450fda750ac559c",
       "title": "[상징] 우주 그루브 나미",
       "tier": "A",
       "patch": "17.9",
-      "teamCode": "",
+      "teamCode": "0204f03902503803603c03b037035000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "fd2ed0f6cbc3fb4e5110631e0a6fc767c5d66ebf",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/fd2ed0f6cbc3fb4e5110631e0a6fc767c5d66ebf?type=guide",
       "sourceMatch": 0.727,
-      "averagePlace": 4.44,
-      "top4Rate": 50.75,
+      "averagePlace": 4.43,
+      "top4Rate": 51.07,
       "pickRate": 0.66,
       "levelPlan": {
         "2-1": 4,
@@ -850,18 +750,242 @@
       ]
     },
     {
+      "id": "6ee93abf79cd4de33fb5a66a46c02f10",
+      "title": "습격자 마스터 이",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "0202f04f01e01303100f02402101f000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
+      "teamBuilderKey": "78fbc735aa3dafb960a3ede0f8830116a9d644b9",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/78fbc735aa3dafb960a3ede0f8830116a9d644b9?type=guide",
+      "sourceMatch": 0.8,
+      "averagePlace": 4.46,
+      "top4Rate": 51.96,
+      "pickRate": 0.1,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "5-1": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_MasterYi",
+          "name": "마스터 이",
+          "row": 0,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "거인 학살자",
+            "밤의 끝자락",
+            "거인의 결의"
+          ]
+        },
+        {
+          "championId": "TFT17_TahmKench",
+          "name": "탐 켄치",
+          "row": 0,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "굳건한 심장"
+          ]
+        },
+        {
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
+          "row": 0,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Fiora",
+          "name": "피오라",
+          "row": 1,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "거인 학살자",
+            "피바라기",
+            "스테락의 도전"
+          ]
+        },
+        {
+          "championId": "TFT17_Gragas",
+          "name": "그라가스",
+          "row": 1,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Belveth",
+          "name": "벨베스",
+          "row": 2,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "악성코드 매트릭스"
+          ]
+        },
+        {
+          "championId": "TFT17_Urgot",
+          "name": "우르곳",
+          "row": 2,
+          "column": 1,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Rhaast",
+          "name": "라아스트",
+          "row": 2,
+          "column": 6,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Kindred",
+          "name": "킨드레드",
+          "row": 3,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "최후의 속삭임",
+            "붉은 덩굴정령",
+            "구인수의 격노검"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "066dcd8c3b7066807430db33ae1c3e4b",
+      "title": "N.O.V.A. 아칼리",
+      "tier": "A",
+      "patch": "17.9",
+      "teamCode": "0200004f01e01d00f01f00d01b000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
+      "teamBuilderKey": "25719630162b845b46158d7ebae76803a8a62c6a",
+      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
+      "sourceUrl": "https://lolchess.gg/builder/guide/25719630162b845b46158d7ebae76803a8a62c6a?type=guide",
+      "sourceMatch": 1,
+      "averagePlace": 4.46,
+      "top4Rate": 51.34,
+      "pickRate": 0.26,
+      "levelPlan": {
+        "2-1": 4,
+        "2-5": 5,
+        "3-2": 6,
+        "3-5": 7,
+        "4-2": 8,
+        "5-1": 9
+      },
+      "units": [
+        {
+          "championId": "TFT17_Morgana",
+          "name": "모르가나",
+          "row": 0,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "크라운가드",
+            "워모그의 갑옷",
+            "가고일 돌갑옷"
+          ]
+        },
+        {
+          "championId": "TFT17_TahmKench",
+          "name": "탐 켄치",
+          "row": 0,
+          "column": 2,
+          "star": 2,
+          "items": [
+            "굳건한 심장",
+            "정령의 형상",
+            "워모그의 갑옷"
+          ]
+        },
+        {
+          "championId": "TFT17_Maokai",
+          "name": "마오카이",
+          "row": 0,
+          "column": 4,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Aatrox",
+          "name": "아트록스",
+          "row": 0,
+          "column": 5,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Belveth",
+          "name": "벨베스",
+          "row": 1,
+          "column": 1,
+          "star": 2,
+          "items": []
+        },
+        {
+          "championId": "TFT17_Kindred",
+          "name": "킨드레드",
+          "row": 3,
+          "column": 0,
+          "star": 2,
+          "items": [
+            "구인수의 격노검",
+            "크라켄의 분노",
+            "타격대의 철퇴"
+          ]
+        },
+        {
+          "championId": "TFT17_Akali",
+          "name": "아칼리",
+          "row": 3,
+          "column": 1,
+          "star": 2,
+          "items": [
+            "마법공학 총검",
+            "타격대의 철퇴",
+            "스테락의 도전"
+          ]
+        },
+        {
+          "championId": "TFT17_Caitlyn",
+          "name": "케이틀린",
+          "row": 3,
+          "column": 6,
+          "star": 2,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "9ad3e8ffa3b33a7559ecd6de4d683b89",
       "title": "별돌보미 자야",
       "tier": "A",
       "patch": "17.9",
-      "teamCode": "",
+      "teamCode": "0204f03902102c03801e01d03f023000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "c83c5b08cc2b07ab8c96e43781dca8afca2722e1",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/c83c5b08cc2b07ab8c96e43781dca8afca2722e1?type=guide",
       "sourceMatch": 1,
-      "averagePlace": 4.45,
-      "top4Rate": 49.57,
-      "pickRate": 0.44,
+      "averagePlace": 4.49,
+      "top4Rate": 48.8,
+      "pickRate": 0.46,
       "levelPlan": {
         "2-3": 4,
         "3-1": 5,
@@ -964,15 +1088,17 @@
     {
       "id": "c2db6a505e4f7d88ea6091429bf592fe",
       "title": "시간 균열자 파이크",
-      "tier": "A",
+      "tier": "B",
       "patch": "17.9",
-      "teamCode": "",
+      "teamCode": "0202503103503d02d03c019000000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "47215a461a9f8cbde60a1b459f3c759f14cf3144",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/47215a461a9f8cbde60a1b459f3c759f14cf3144?type=guide",
       "sourceMatch": 0.778,
-      "averagePlace": 4.47,
-      "top4Rate": 53.69,
+      "averagePlace": 4.54,
+      "top4Rate": 51.13,
       "pickRate": 0.02,
       "levelPlan": {
         "2-1": 4,
@@ -1064,121 +1190,19 @@
       ]
     },
     {
-      "id": "066dcd8c3b7066807430db33ae1c3e4b",
-      "title": "N.O.V.A. 아칼리",
-      "tier": "B",
-      "patch": "17.9",
-      "teamCode": "",
-      "teamBuilderKey": "25719630162b845b46158d7ebae76803a8a62c6a",
-      "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
-      "sourceUrl": "https://lolchess.gg/builder/guide/25719630162b845b46158d7ebae76803a8a62c6a?type=guide",
-      "sourceMatch": 1,
-      "averagePlace": 4.51,
-      "top4Rate": 50.73,
-      "pickRate": 0.26,
-      "levelPlan": {
-        "2-1": 4,
-        "2-5": 5,
-        "3-2": 6,
-        "3-5": 7,
-        "4-2": 8,
-        "5-1": 9
-      },
-      "units": [
-        {
-          "championId": "TFT17_Morgana",
-          "name": "모르가나",
-          "row": 0,
-          "column": 1,
-          "star": 2,
-          "items": [
-            "크라운가드",
-            "워모그의 갑옷",
-            "가고일 돌갑옷"
-          ]
-        },
-        {
-          "championId": "TFT17_TahmKench",
-          "name": "탐 켄치",
-          "row": 0,
-          "column": 2,
-          "star": 2,
-          "items": [
-            "굳건한 심장",
-            "정령의 형상",
-            "워모그의 갑옷"
-          ]
-        },
-        {
-          "championId": "TFT17_Maokai",
-          "name": "마오카이",
-          "row": 0,
-          "column": 4,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Aatrox",
-          "name": "아트록스",
-          "row": 0,
-          "column": 5,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Belveth",
-          "name": "벨베스",
-          "row": 1,
-          "column": 1,
-          "star": 2,
-          "items": []
-        },
-        {
-          "championId": "TFT17_Kindred",
-          "name": "킨드레드",
-          "row": 3,
-          "column": 0,
-          "star": 2,
-          "items": [
-            "구인수의 격노검",
-            "크라켄의 분노",
-            "타격대의 철퇴"
-          ]
-        },
-        {
-          "championId": "TFT17_Akali",
-          "name": "아칼리",
-          "row": 3,
-          "column": 1,
-          "star": 2,
-          "items": [
-            "마법공학 총검",
-            "타격대의 철퇴",
-            "스테락의 도전"
-          ]
-        },
-        {
-          "championId": "TFT17_Caitlyn",
-          "name": "케이틀린",
-          "row": 3,
-          "column": 6,
-          "star": 2,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "8b75f33f6abbd50438a5eab6cd088a5c",
       "title": "태고족 징크스",
       "tier": "B",
       "patch": "17.9",
-      "teamCode": "",
+      "teamCode": "0200d06801e00f00002101201f000000TFTSet17",
+      "teamCodeSource": "TFTactics.gg 17.9 챔피언 코드 · LoLCHESS.GG 덱 구성",
+      "teamCodeSourceUrl": "https://tftactics.gg/tierlist/team-comps/",
       "teamBuilderKey": "ffdb65c0ee7696ca1d6017feeeb8572a628f5cdc",
       "sourceLabel": "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
       "sourceUrl": "https://lolchess.gg/builder/guide/ffdb65c0ee7696ca1d6017feeeb8572a628f5cdc?type=guide",
       "sourceMatch": 0.778,
-      "averagePlace": 4.55,
-      "top4Rate": 50.89,
+      "averagePlace": 4.54,
+      "top4Rate": 51.05,
       "pickRate": 0.16,
       "levelPlan": {
         "2-1": 4,

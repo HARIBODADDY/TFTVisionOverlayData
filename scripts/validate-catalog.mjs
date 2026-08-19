@@ -15,6 +15,9 @@ if (!Array.isArray(catalog.augments) || catalog.augments.length < 100) {
 for (const deck of catalog.decks || []) {
     const occupied = new Set();
     if (!deck.id || !deck.title || !Array.isArray(deck.units)) errors.push(`invalid deck ${deck.id}`);
+    if (!/^02[0-9a-f]{30}TFTSet17$/i.test(deck.teamCode || "")) {
+        errors.push(`${deck.title}: invalid or missing Set 17 team code`);
+    }
     for (const unit of deck.units || []) {
         const coordinate = `${unit.row}:${unit.column}`;
         if (unit.row < 0 || unit.row > 3 || unit.column < 0 || unit.column > 6) {
@@ -41,5 +44,6 @@ if (errors.length) {
 }
 
 console.log(
-    `Valid catalog: ${catalog.decks.length} decks, ${catalog.augments.length} augments, ${catalog.patch}`
+    `Valid catalog: ${catalog.decks.length} decks (${catalog.decks.filter((deck) => deck.teamCode).length} team codes), ` +
+    `${catalog.augments.length} augments, ${catalog.patch}`
 );

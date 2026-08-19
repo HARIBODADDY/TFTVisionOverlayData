@@ -18,7 +18,10 @@ const USER_AGENT =
 const CONTACT = "haribodaddy.dev@gmail.com";
 const LOLCHESS = "https://lolchess.gg";
 const DAK_API = "https://tft.dakgg.io/api/v1";
+const TFTACTICS = "https://tftactics.gg";
 const DEFAULT_LEVEL_PLAN = { "2-1": 4, "2-5": 5, "3-2": 6, "4-1": 7, "4-5": 8 };
+const TEAM_CODE_ALIASES = new Map([["galio", "themightymech"]]);
+const TEAM_CODE_IGNORED_UNITS = new Set(["shenprop", "ivernminion"]);
 
 let lastRequestAt = 0;
 
@@ -128,17 +131,66 @@ function levelPlanFromGuide(guide) {
     return Object.keys(plan).length >= 3 ? plan : { ...DEFAULT_LEVEL_PLAN };
 }
 
-function retainTeamCode(existingDecks, championIds) {
-    let best = null;
-    for (const deck of existingDecks) {
-        if (!deck.teamCode) continue;
-        const score = jaccard(
-            championIds.map(championSlug),
-            (deck.units || []).map((unit) => championSlug(unit.championId))
-        );
-        if (!best || score > best.score) best = { score, code: deck.teamCode };
+function parseTftacticsJsonModule(bundle, moduleId) {
+    const marker = `,${moduleId}:function(e){e.exports=JSON.parse('`;
+    const start = bundle.indexOf(marker);
+    if (start < 0) throw new Error(`TFTactics data module ${moduleId} not found`);
+    const valueStart = start + marker.length;
+    const valueEnd = bundle.indexOf("')},", valueStart);
+    if (valueEnd < 0) throw new Error(`TFTactics data module ${moduleId} is incomplete`);
+
+    const rawLiteral = bundle.slice(valueStart, valueEnd);
+    const jsonText = JSON.parse(
+        `"${rawLiteral.replace(/\\'/g, "'").replace(/"/g, '\\"')}"`
+    );
+    return JSON.parse(jsonText);
+}
+
+function rosterSignature(values) {
+    return values.map(normalizeName).filter(Boolean).sort().join("|");
+}
+
+function teamCodeRosterName(championId) {
+    const slug = championSlug(championId);
+    if (TEAM_CODE_IGNORED_UNITS.has(slug)) return "";
+    return TEAM_CODE_ALIASES.get(slug) || slug;
+}
+
+function buildTeamCode(championNames, championCodeByName) {
+    if (championNames.length < 1 || championNames.length > 10) return "";
+    const ids = championNames.map((name) => championCodeByName.get(normalizeName(name)));
+    if (ids.some((id) => !/^[0-9a-f]{3}$/i.test(id || ""))) return "";
+    const code = `02${ids.join("")}${"000".repeat(10 - ids.length)}TFTSet17`;
+    return code.length === 40 ? code : "";
+}
+
+async function loadTftacticsTeamCodes(expectedPatch) {
+    const pageUrl = `${TFTACTICS}/tierlist/team-comps/`;
+    const page = await fetchText(pageUrl);
+    if (!page.includes(`Patch ${expectedPatch}`) || !page.includes("Set 17")) {
+        throw new Error(`TFTactics patch/set mismatch: expected ${expectedPatch}, Set 17`);
     }
-    return best?.score >= 0.72 ? best.code : "";
+    const scriptMatch = page.match(/<script[^>]+src="([^"]*main\.[^"]+\.chunk\.js)"/i);
+    if (!scriptMatch) throw new Error("TFTactics main data bundle not found");
+
+    const bundleUrl = new URL(scriptMatch[1], TFTACTICS).href;
+    const bundle = await fetchText(bundleUrl);
+    const teamComps = parseTftacticsJsonModule(bundle, 121).filter(
+        (comp) => comp?.set?.includes(17) && Array.isArray(comp.characters)
+    );
+    const champions = parseTftacticsJsonModule(bundle, 2).filter(
+        (champion) => champion?.set?.includes(17) && /^[0-9a-f]{3}$/i.test(champion.game_id || "")
+    );
+    const championCodeByName = new Map(
+        champions.map((champion) => [normalizeName(champion.name), champion.game_id])
+    );
+    const exactCodeByRoster = new Map();
+    for (const comp of teamComps) {
+        const names = comp.characters.map((unit) => unit.name);
+        const code = buildTeamCode(names, championCodeByName);
+        if (code) exactCodeByRoster.set(rosterSignature(names), { code, name: comp.name });
+    }
+    return { championCodeByName, exactCodeByRoster, pageUrl };
 }
 
 function stableId(value) {
@@ -177,17 +229,17 @@ function selectDeckMatches(metaDecks, guideDecks) {
     return selected;
 }
 
-async function checkRobots() {
-    const robots = await fetchText(`${LOLCHESS}/robots.txt`);
+async function checkRobots(origin, paths) {
+    const robots = await fetchText(`${origin}/robots.txt`);
     const blocked = robots
         .split(/\r?\n/)
         .map((line) => line.trim())
         .filter((line) => /^disallow:/i.test(line))
         .map((line) => line.slice(line.indexOf(":") + 1).trim())
         .filter(Boolean);
-    for (const path of ["/decks", "/meta", "/augments/set17/tier", "/builder/guide/"]) {
+    for (const path of paths) {
         if (blocked.some((rule) => path.startsWith(rule))) {
-            throw new Error(`robots.txt disallows required path: ${path}`);
+            throw new Error(`${origin}/robots.txt disallows required path: ${path}`);
         }
     }
 }
@@ -203,6 +255,9 @@ function validateCatalog(catalog) {
         if (!deck.id || !deck.title || !Array.isArray(deck.units)) {
             errors.push(`invalid deck: ${deck.title || deck.id || "unknown"}`);
             continue;
+        }
+        if (!/^02[0-9a-f]{30}TFTSet17$/i.test(deck.teamCode || "")) {
+            errors.push(`${deck.title}: invalid or missing Set 17 team code`);
         }
         const occupied = new Set();
         for (const unit of deck.units) {
@@ -228,7 +283,8 @@ function validateCatalog(catalog) {
 
 async function main() {
     const existingCatalog = JSON.parse(await readFile(CATALOG_PATH, "utf8"));
-    await checkRobots();
+    await checkRobots(LOLCHESS, ["/decks", "/meta", "/augments/set17/tier", "/builder/guide/"]);
+    await checkRobots(TFTACTICS, ["/tierlist/team-comps/", "/static/js/"]);
 
     const decksPage = parseNextData(
         await fetchText(`${LOLCHESS}/decks?hl=ko-KR`),
@@ -260,6 +316,9 @@ async function main() {
     );
     if (matches.length < 5) throw new Error(`Only ${matches.length} reliable deck matches found`);
 
+    const patchVersion = metaDeckData.patchRevisions?.[0]?.patchVersion || "unknown";
+    const tftactics = await loadTftacticsTeamCodes(patchVersion);
+
     const decks = [];
     for (const { metaDeck, guideDeck, matchScore } of matches) {
         let detailedBuilder = null;
@@ -287,13 +346,23 @@ async function main() {
                 };
             });
         const championIds = units.map((unit) => unit.championId);
-        const patchVersion = metaDeckData.patchRevisions?.[0]?.patchVersion || "unknown";
+        const roster = units.map((unit) => teamCodeRosterName(unit.championId)).filter(Boolean);
+        const exactTftactics = tftactics?.exactCodeByRoster.get(rosterSignature(roster));
+        const generatedTeamCode = exactTftactics?.code ||
+            buildTeamCode(roster, tftactics?.championCodeByName || new Map());
+        const teamCode = generatedTeamCode;
         decks.push({
             id: stableId(`lolchess:${guideDeck.teamBuilderKey}`),
             title: metaDeck.deckNameKo || guideDeck.name,
             tier: deckTier(metaDeck.avgPlacement),
             patch: patchVersion,
-            teamCode: retainTeamCode(existingCatalog.decks || [], championIds),
+            teamCode,
+            teamCodeSource: generatedTeamCode
+                ? exactTftactics
+                    ? `TFTactics.gg ${patchVersion} · ${exactTftactics.name}`
+                    : `TFTactics.gg ${patchVersion} 챔피언 코드 · LoLCHESS.GG 덱 구성`
+                : "미제공",
+            teamCodeSourceUrl: generatedTeamCode ? tftactics?.pageUrl : "",
             teamBuilderKey: guideDeck.teamBuilderKey,
             sourceLabel: "LoLCHESS.GG 공개 메타 · TFT Vision 가공",
             sourceUrl: `${LOLCHESS}/builder/guide/${guideDeck.teamBuilderKey}?type=guide`,
@@ -336,7 +405,6 @@ async function main() {
         })
         .sort((a, b) => a.name.localeCompare(b.name, "ko"));
 
-    const patchVersion = metaDeckData.patchRevisions?.[0]?.patchVersion || "unknown";
     const catalog = {
         schemaVersion: 2,
         patch: `${patchVersion} · 세트 17`,
@@ -348,8 +416,10 @@ async function main() {
 
     const output = `${JSON.stringify(catalog, null, 2)}\n`;
     if (DRY_RUN) {
+        const teamCodeCount = decks.filter((deck) => deck.teamCode).length;
         console.log(
-            `Dry run passed: ${decks.length} decks, ${augments.length} augments, patch ${catalog.patch}`
+            `Dry run passed: ${decks.length} decks (${teamCodeCount} team codes), ` +
+            `${augments.length} augments, patch ${catalog.patch}`
         );
         return;
     }

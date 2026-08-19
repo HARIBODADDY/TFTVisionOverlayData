@@ -1,4 +1,4 @@
-name: Update LoLCHESS metadata
+name: Update TFT metadata
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-lolchess-metadata
+  group: update-tft-metadata
   cancel-in-progress: false
 
 jobs:
@@ -42,5 +42,5 @@ jobs:
           git config user.name "tft-vision-meta-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add catalog.json
-          git commit -m "data: refresh LoLCHESS metadata"
+          git commit -m "data: refresh TFT metadata"
           git push
